@@ -1,19 +1,19 @@
 [
   {
     "asn_org": "Modat B.V.",
-    "events": 266039
+    "events": 207815
   },
   {
     "asn_org": "OVH SAS",
-    "events": 84674
+    "events": 206205
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 32393
+    "events": 33310
   },
   {
     "asn_org": "Google LLC",
-    "events": 26202
+    "events": 30107
   },
   {
     "asn_org": "IENTC S DE RL DE CV",
@@ -21,62 +21,62 @@
   },
   {
     "asn_org": "Tamatiya EOOD",
-    "events": 22148
+    "events": 24540
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 14836
+    "events": 14790
   },
   {
     "asn_org": "Swissnet LLC",
     "events": 14114
   },
   {
-    "asn_org": "Cloudflare, Inc.",
-    "events": 14062
-  },
-  {
-    "asn_org": "NewVM B.V.",
-    "events": 13911
-  },
-  {
     "asn_org": "Amazon.com, Inc.",
-    "events": 10708
-  },
-  {
-    "asn_org": "Limited Network LTD",
-    "events": 9606
+    "events": 13375
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 9210
+    "events": 10577
   },
   {
-    "asn_org": "Techoff Srv Limited",
-    "events": 5827
+    "asn_org": "Limited Network LTD",
+    "events": 10507
   },
   {
-    "asn_org": "Microsoft Corporation",
-    "events": 5700
-  },
-  {
-    "asn_org": "IP Volume inc",
-    "events": 4901
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 4623
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 4578
-  },
-  {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 4157
+    "asn_org": "NewVM B.V.",
+    "events": 9494
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 3455
+    "events": 7113
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 6606
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 6438
+  },
+  {
+    "asn_org": "Techoff Srv Limited",
+    "events": 5836
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 5769
+  },
+  {
+    "asn_org": "IP Volume inc",
+    "events": 5014
+  },
+  {
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 4648
+  },
+  {
+    "asn_org": "Akamai Connected Cloud",
+    "events": 4082
   }
 ]
