@@ -44,8 +44,13 @@ binaries from it. Those URLs are published in `payload-urls.txt`, because they a
 most actionable thing a sample contains. The rule is whose address it is: a victim's
 is withheld, the attacker's is not.
 
-What is here — file hashes, wallet addresses, SSH client fingerprints, injected public
-keys — describes the tooling. It stays true longer and hurts nobody.
+The exception is infrastructure: an address that appears *inside a payload* is the
+attacker's own host, and those are published in `payload-urls.txt` — that is C2 and
+staging, not a victim. A source address is the connection, not the tool, and it is never
+published.
+
+What else is here — file hashes, wallet addresses, SSH client fingerprints, injected
+public keys — describes the tooling. It stays true longer and hurts nobody.
 
 ### Consuming it
 
