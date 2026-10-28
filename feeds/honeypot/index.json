@@ -1,0 +1,19 @@
+{
+  "generated": "2026-10-28T00:50:05+00:00",
+  "window_hours": 24,
+  "schema": 1,
+  "counts": {
+    "hashes": 19,
+    "wallets": 0,
+    "hassh": 29,
+    "ssh_public_keys": 1
+  },
+  "files": [
+    "iocs.csv",
+    "iocs.stix.json",
+    "hashes.txt",
+    "hassh.txt",
+    "wallets.txt"
+  ],
+  "policy": "no IP addresses: scanners are usually compromised devices"
+}
