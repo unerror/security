@@ -1,27 +1,19 @@
 [
   {
     "asn_org": "Modat B.V.",
-    "events": 454806
-  },
-  {
-    "asn_org": "M247 Europe SRL",
-    "events": 63052
+    "events": 444197
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 55167
+    "events": 55110
   },
   {
-    "asn_org": "Datacamp Limited",
-    "events": 46161
-  },
-  {
-    "asn_org": "GSL Networks Pty LTD",
-    "events": 36185
+    "asn_org": "DigitalOcean, LLC",
+    "events": 30425
   },
   {
     "asn_org": "NewVM B.V.",
-    "events": 27607
+    "events": 27473
   },
   {
     "asn_org": "IENTC S DE RL DE CV",
@@ -29,54 +21,62 @@
   },
   {
     "asn_org": "Tamatiya EOOD",
-    "events": 21183
-  },
-  {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 18101
-  },
-  {
-    "asn_org": "Cloudflare, Inc.",
-    "events": 16209
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 14911
+    "events": 21207
   },
   {
     "asn_org": "Google LLC",
-    "events": 12543
+    "events": 15997
   },
   {
-    "asn_org": "Techoff Srv Limited",
-    "events": 10204
+    "asn_org": "Banatsync Srl",
+    "events": 14908
+  },
+  {
+    "asn_org": "Cloudflare, Inc.",
+    "events": 12732
   },
   {
     "asn_org": "Limited Network LTD",
     "events": 9611
   },
   {
-    "asn_org": "Orion Network Limited",
-    "events": 8951
+    "asn_org": "OVH SAS",
+    "events": 7581
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 7120
+    "events": 7564
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 6558
+    "events": 7560
+  },
+  {
+    "asn_org": "Techoff Srv Limited",
+    "events": 5877
+  },
+  {
+    "asn_org": "Swissnet LLC",
+    "events": 5858
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 5392
+    "events": 5854
+  },
+  {
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 4039
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 4139
+    "events": 3984
+  },
+  {
+    "asn_org": "IP Volume inc",
+    "events": 3938
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 4059
+    "events": 3835
   }
 ]
