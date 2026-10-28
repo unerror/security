@@ -1,19 +1,19 @@
 [
   {
     "asn_org": "Modat B.V.",
-    "events": 442587
+    "events": 442427
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 55065
+    "events": 54251
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 31288
+    "events": 31374
   },
   {
     "asn_org": "NewVM B.V.",
-    "events": 27412
+    "events": 27403
   },
   {
     "asn_org": "IENTC S DE RL DE CV",
@@ -21,11 +21,11 @@
   },
   {
     "asn_org": "Tamatiya EOOD",
-    "events": 21182
+    "events": 21189
   },
   {
     "asn_org": "Google LLC",
-    "events": 17586
+    "events": 17584
   },
   {
     "asn_org": "Banatsync Srl",
@@ -41,15 +41,15 @@
   },
   {
     "asn_org": "OVH SAS",
-    "events": 7625
+    "events": 7627
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 7610
+    "events": 7612
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 7554
+    "events": 7553
   },
   {
     "asn_org": "Techoff Srv Limited",
@@ -61,19 +61,19 @@
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 5855
+    "events": 5853
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 4094
+    "events": 4118
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 4034
+    "events": 4035
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 3982
+    "events": 3983
   },
   {
     "asn_org": "Censys, Inc.",

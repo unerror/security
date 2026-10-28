@@ -1,5 +1,5 @@
-2048	/
-291	/favicon.ico
+2050	/
+293	/favicon.ico
 160	/wp-login.php
 151	/static/wp-content/themes/twentyeleven/style.css
 141	/.env

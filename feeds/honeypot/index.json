@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T02:18:30+00:00",
+  "generated": "2026-10-28T02:19:04+00:00",
   "window_hours": 24,
   "schema": 1,
   "counts": {
@@ -14,7 +14,7 @@
     "ja4": 100,
     "usernames": 100,
     "novel_hashes": 2,
-    "ai_crawlers": 0,
+    "ai_crawlers": 3,
     "useragents": 190
   },
   "files": [
