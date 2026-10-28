@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T01:01:25+00:00",
+  "generated": "2026-10-28T01:02:02+00:00",
   "window_hours": 24,
   "schema": 1,
   "counts": {
@@ -10,7 +10,7 @@
     "cves": 4,
     "asns": 20,
     "paths": 399,
-    "useragents": 0
+    "useragents": 143
   },
   "files": [
     "iocs.csv",

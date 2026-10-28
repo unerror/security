@@ -1,7 +1,7 @@
 [
   {
     "asn_org": "Modat B.V.",
-    "events": 454673
+    "events": 454689
   },
   {
     "asn_org": "M247 Europe SRL",
@@ -21,7 +21,7 @@
   },
   {
     "asn_org": "NewVM B.V.",
-    "events": 27567
+    "events": 27573
   },
   {
     "asn_org": "IENTC S DE RL DE CV",
@@ -29,7 +29,7 @@
   },
   {
     "asn_org": "Tamatiya EOOD",
-    "events": 21142
+    "events": 21149
   },
   {
     "asn_org": "DigitalOcean, LLC",
@@ -45,7 +45,7 @@
   },
   {
     "asn_org": "Google LLC",
-    "events": 12520
+    "events": 12527
   },
   {
     "asn_org": "Techoff Srv Limited",
@@ -61,7 +61,7 @@
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 7102
+    "events": 7106
   },
   {
     "asn_org": "Amazon.com, Inc.",
@@ -69,11 +69,11 @@
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 5391
+    "events": 5392
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 4134
+    "events": 4135
   },
   {
     "asn_org": "Censys, Inc.",
