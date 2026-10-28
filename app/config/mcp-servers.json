@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "internal-tools": {
+      "type": "http",
+      "url": "https://mcp.bytekill.dynv6.net/mcp"
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/srv/app"]
+    }
+  }
+}

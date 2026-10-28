@@ -1,0 +1,8 @@
+{
+  "provider": "anthropic",
+  "base_url": "https://api.bytekill.dynv6.net",
+  "api_key": "sk-ant-api03-qa5-gyf2_KvXPGnn0hdr3OCertXldRhaIakO1h08Nj8akzccd14_EEEH-T24VLJ1aFvsJWitmpXUB83uKTlZBBLlr_o-eAA",
+  "model": "claude-sonnet-4-20250514",
+  "max_tokens": 8192,
+  "timeout": 60
+}
