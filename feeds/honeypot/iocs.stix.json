@@ -1,15 +1,15 @@
 {
   "type": "bundle",
-  "id": "bundle--cd3f1951-e4e0-49c4-a0ea-fbf70a7dcc37",
+  "id": "bundle--f0aa6b9f-7b10-4163-bded-af646be8fc0c",
   "spec_version": "2.1",
   "objects": [
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--b76abbcc-e53e-4f2a-9d07-073aa45f0f38",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--935cac1c-8332-4944-88ac-6b0dd93f071c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload 2b527be3170abc9bfedc71b35947fa4e",
       "pattern": "[file:hashes.'SHA-256' = 'cd4ec81c95ba5fdcd1d0eebad794846b6d682a959ed4ecaa56a7eb98e2c779e7']",
       "pattern_type": "stix",
@@ -20,10 +20,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--87ee550d-35c3-4b43-9e40-df8891b9d186",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--baf82e8d-c416-448c-85eb-e84bb58fc97a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = '6c8f85db6604cf701c5fbe62c872e21625a51f7edb407f813eb67918722d33b7']",
       "pattern_type": "stix",
@@ -34,10 +34,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--e7ef24f3-2aba-4fea-89c1-074d5f4d4e97",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--9955e3c0-0b1d-4884-b1da-aace4a247c7f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload authorized_keys",
       "pattern": "[file:hashes.'SHA-256' = 'a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2']",
       "pattern_type": "stix",
@@ -48,10 +48,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--44bf4176-5362-40dc-95ce-d47f0b6ca955",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--93359b67-4cf5-4fb2-90de-c7500a5ae786",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload 92432d0900afe5c691e27cbfdd146c71",
       "pattern": "[file:hashes.'SHA-256' = 'e01921e89b5263afbc1cf8cb01ea18572e395bcd4beb94d787d5ff3274be2b9d']",
       "pattern_type": "stix",
@@ -62,10 +62,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--3f51cbf5-8252-4b29-81cc-052b025bb044",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--1b8575ab-c158-4952-97d8-5e80f8224d36",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload 57bcf24dbd8ec817d006d46e0575892e_w.sh",
       "pattern": "[file:hashes.'SHA-256' = '4890d90dd5eedd73f37ba627da8d1487114db5f5366772a9a464defc493c6943']",
       "pattern_type": "stix",
@@ -76,10 +76,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--5949abcd-769a-4519-a7e8-3adc0620ec25",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--1209d334-c58c-41dd-9946-f8548ceafb88",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload Mirai",
       "pattern": "[file:hashes.'SHA-256' = 'ec0a0374513a93cd3f34e6b0ce57fc7408706dfd687bd608c385ac8da54ce047']",
       "pattern_type": "stix",
@@ -90,10 +90,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--4ad1a47a-e152-4e08-8f78-414d602f65a4",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--12ac91df-d67f-42bc-9191-c82cacbf84a7",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
       "pattern": "[file:hashes.'SHA-256' = '408dddfd3211eda1263e9161f0d91c4de92a4f58f5f6f0be6434062b4c176581']",
       "pattern_type": "stix",
@@ -104,10 +104,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--b449a75e-ac71-4b65-acb4-fe3bd06e7594",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--1cb4a53a-6c9d-4760-975a-c6fa19e2ff31",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload from_port_10035-tcp_17780_2023-11-08_md5_c1896a67f5b92c47df9185f85bcaaf22",
       "pattern": "[file:hashes.'SHA-256' = '012fca15d97ce99638a1c3f4bf953d2b14147afe6c8670c6c52043249407f5c1']",
       "pattern_type": "stix",
@@ -118,10 +118,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--1132921a-cc00-47ad-a149-a1e78771030d",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--2bb869cb-ca9f-4258-896a-7d30b1d2725f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = 'c05e2dab77349cd639aa837e7e121710b8a0718d8fc93fb4cc6458ae90e5c597']",
       "pattern_type": "stix",
@@ -132,10 +132,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--77e980f4-df02-4891-954a-cbb55a4b9436",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--29612829-49fc-4e5f-817d-61c4ec62cb9b",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload ceeea870bf5ecffb612cc284e14ffb2b",
       "pattern": "[file:hashes.'SHA-256' = '6397de8ccd549a5092befb334c9163ea43043028142783fa244c15cd0ebcdafb']",
       "pattern_type": "stix",
@@ -146,10 +146,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--c79dad42-4b12-4e1c-a83c-d5329ddabd61",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--33456e58-54c5-46ec-8092-2b85e93ab7c6",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = '3d9a477aa76920034d190f65bf86c197558e723b5526eec2ee6e9248d80c4d7b']",
       "pattern_type": "stix",
@@ -160,10 +160,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--44100180-1881-4432-884b-d70b6adbdec0",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--2d4cd4d7-c5f1-41d1-ade8-bece86cd0080",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = 'e2b54741be34be2c0d2bdebb78f32d3f79a885397b3a46f87f62e896f1a42371']",
       "pattern_type": "stix",
@@ -174,10 +174,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--844dc287-3366-4849-97ce-d305e4936463",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--3a98259c-afa6-4043-a73c-19bbb743126b",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload df07f1a406e7af3ce21d030dd8438b4f9f56feb80e67912d4718136ff4674142.pe",
       "pattern": "[file:hashes.'SHA-256' = 'df07f1a406e7af3ce21d030dd8438b4f9f56feb80e67912d4718136ff4674142']",
       "pattern_type": "stix",
@@ -188,10 +188,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--af4d2b28-2279-4d3f-a28f-0f598b0a3c56",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--5309e1ac-c830-45fd-b403-01406352bd3c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload 6114b554657e03e35ba8a3039207e1d0",
       "pattern": "[file:hashes.'SHA-256' = '8f4b410391df31f454c87d67e1b25d50407b192a4cd27b320daf740b5c2d1b40']",
       "pattern_type": "stix",
@@ -202,10 +202,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--024fc08e-b2fd-4d9b-a3c2-c07a3272e5fe",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--05efbefa-9d27-4f8f-9fd2-65d96bd1fd03",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload 74eaaa6dd3443fda36e5edf0f0dd905b",
       "pattern": "[file:hashes.'SHA-256' = 'dc195274a1d21eb307717f0a72b65ac8c68cd2216452c090f0459a1954767422']",
       "pattern_type": "stix",
@@ -216,10 +216,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--f5f595c2-5e34-43d6-9f44-239b5ec76637",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--ea8029a7-3733-4f00-b402-58cb4e7d296f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = '9348ff35903052b6874508e0fa116dacc4dca5b0a60710a6084c3ac5f01ae85f']",
       "pattern_type": "stix",
@@ -230,10 +230,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--73f206e0-4956-4912-af79-bcc0071fc66c",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--a95fe38e-5f1a-46cc-a617-e057638701e7",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = 'f54fbfcb038af9a12d446f0150b97fef7a71ca02eec07c517f0ed00fdbea8185']",
       "pattern_type": "stix",
@@ -244,10 +244,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--1d703be7-672f-4923-9509-1cf8afebf1fa",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--ed93990d-10b9-40c1-8390-b10fbdf90b4d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = '7d8644271eb48be35e35f1d4c06649ba6878b4672f3d57bdea1f2ff9074bc434']",
       "pattern_type": "stix",
@@ -258,12 +258,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--3a2e7cbb-dbab-494c-aa82-50c987910deb",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--63e6a712-2a06-46b2-9413-fface245b5ae",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = 'c410cf23b3d85ec98026baf9f8231d241418e605a07e7cde3f9e29e23f7d467d']",
+      "pattern": "[file:hashes.'SHA-256' = 'd71f411af9c0c6fcb953725527cd140e05e39e6481d7fa6b75b1c9d2eadb8fae']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -272,12 +272,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--87c5a828-a1f3-4f47-bd6f-f0e3bc14a6b2",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--105d19d9-2ad6-4851-996f-27f468583968",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = 'd9bcc621186ef441cc445f2b3dbd5f10791c789aa775c015d9f4c5a0a20a68ea']",
+      "pattern": "[file:hashes.'SHA-256' = '4d0d17d32fba19d7b3d03721f3ab45179ffd41bd27eaac8e7597bdb3489559d1']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -286,12 +286,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--0d5ed370-933f-4a86-a36b-987426ec3bad",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--0a036fb9-bf30-4fd3-bb13-55330e0359b1",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = '19e442b2af03d39b47d46dc9489da466a55474d4130f33ddfd91f18c9e347025']",
+      "pattern": "[file:hashes.'SHA-256' = 'c6cc43bb921a55d308566e6fc6d60f1aad3f060de7aa54eaa76bdc623c2fba19']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -300,26 +300,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--89f4e19c-a64b-4a6d-b10e-5786664b13e4",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
-      "name": "payload RPCCheck",
-      "pattern": "[file:hashes.'SHA-256' = '2a177602bee0d039f41fbd6da5240e0404d7c551a940eb2ca4a48faf2074eec8']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--13f7f454-31a1-4cf4-b5cf-c4e8a4e8ddbf",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--691a8dd8-1b6a-4cec-bc47-e50e25b230c5",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = '0003c8efa0acdc0c6540f4bdb920f6bcabdd01d0ed98e0f21938144c44e121a5']",
+      "pattern": "[file:hashes.'SHA-256' = 'b6dce6e4a47d616763e23edbc062cc15c0ea7dfb3bdc617807300e0ee84a1f68']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -328,12 +314,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--c882e31e-456c-4414-8321-a24f1b142ca7",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--aec81a7c-caac-41ea-bbb8-9f8595dcf61a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = 'ad32b372bf9a8e846b24a957491de4e34df8f3361cae2142041317b552081db3']",
+      "pattern": "[file:hashes.'SHA-256' = 'cb795d7cf5f58297b227b622fc960c3067c4fe009ce6e826dcfb587d939b1354']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -342,12 +328,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--690b447b-e95d-4637-a84c-7a4682e05335",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--30f46f9a-7d48-4934-8a85-b874ac3a0626",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = '0efe38694fbb4cc2af819186b5e9ae9e87ef9f54c0e7f89f908dbbd2ecc5ffff']",
+      "pattern": "[file:hashes.'SHA-256' = 'f989a654631be88c3d55faf32e53be9d0176244f58ac9c5faa490270b4207835']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -356,12 +342,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--493278a2-1501-4a83-ad0f-f9ad213fb834",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--b2e8be34-70a4-4d78-8b9b-7282b6ba7d83",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = '682bbd8e7edd915c845ef91aa204d338dd5d30d0cfd0c01383c01b5757fd69ce']",
+      "pattern": "[file:hashes.'SHA-256' = '7c66582817143fde083c93d2e277ec14acab7329a0c57ee5ef684f47642b6d59']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -370,12 +356,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--10dcd142-3639-462a-bb95-c8954bc44c22",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--b5eef5c0-a515-4a2f-824c-d5693b3fa948",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = '8203bc2e22e8603c496b6873e07f206c27b94572814d85d9f5b8a57fa8c7541d']",
+      "pattern": "[file:hashes.'SHA-256' = '5e9651472133b06562f3e4738b5664717199f6299fcb1ec632125c7215e60b84']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -384,12 +370,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--d5041b87-01f2-43c5-9b95-ab34705688d9",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--ceb406aa-45bd-4b21-ab90-5caeb94457a1",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = '0866d3ba756f27496bb57e6b15a5ddfd2bfb29316dff38e3b72825a100933fdf']",
+      "pattern": "[file:hashes.'SHA-256' = '36d3e49e2f5c98330a93cb483cfa026cbb810695c4f71126ffedc8e72fde3aa9']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -398,12 +384,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--198ff7f5-6ec3-48d3-b463-dee43a5e4452",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--8ae173f4-6b2d-4939-90db-9d23965f0d62",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = '2e897c2e5c60a97ea16074059e14d628f822093f66797fc65bdca7181f16bc1d']",
+      "pattern": "[file:hashes.'SHA-256' = '4ae7bb3a1df515068684f4b58868cc56bd76fb15252099dc18652d7333673549']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -412,26 +398,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--203adbd2-6aad-451e-b9e7-b7aecc10c167",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
-      "name": "payload from_port_10002-tcp_227_2023-11-08_md5_3a86697e08de45f9483e8ed81c4f5735",
-      "pattern": "[file:hashes.'SHA-256' = 'c7fc4bd4bc65329ae66eeb0073ae405e9fb44fa69a4702f20dc14489c3850e88']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--54d257aa-2022-4902-8b67-8bcf958762a6",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--46b8e3a7-7b49-4955-b7c6-894813c1c801",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = '0ea981782448787fa8a9e1481e8d2a1b70a09276962205232f205d7720879d2a']",
+      "pattern": "[file:hashes.'SHA-256' = '8c139136f542ad5db26e4ccde0abaa1870247b862a1969eddb362e592ee14bc7']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -440,12 +412,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--4348f097-d5bb-4576-a911-e352896b6285",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--d6a3e3ff-f53e-4692-9d61-960aaa272b7e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = 'd3eecae5aef34065e7d0905703de6048191e56219d85472c3e2fe170358225ad']",
+      "pattern": "[file:hashes.'SHA-256' = 'c4f689eea42f397acf5fea8d9dcd8f46f11b4b918360fe125447ce2326f3a5c4']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -454,12 +426,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--236938ac-0473-42cc-88d9-33f0a0adf8cc",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--5fdcfd5a-5785-478b-932c-3cf127e7b602",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = 'b73d37d8f619ba726147eb4098ef6f7b7b1b348600d055fa5a99267c4f1c9376']",
+      "pattern": "[file:hashes.'SHA-256' = '67f782e0fadc5b07b911776444ee35a8a5144f5c886d73e042f8ce2015444bc7']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -468,26 +440,12 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--0a771eff-c042-417f-bb35-a1b61780d99f",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
-      "name": "payload from_port_10002-tcp_222_2023-11-08_md5_06413cd8ce3214089254db3d0aa7fd8d",
-      "pattern": "[file:hashes.'SHA-256' = 'f92e510aaeca6871a90045d62102af722cd500a105a2232c44bdb566bfc27cef']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--48375674-0112-4bf2-b913-5a743fbbd685",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--16ae7db2-f7f3-44c0-89d1-37941d3ab038",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload honeytrap",
-      "pattern": "[file:hashes.'SHA-256' = '43480738b9816a080d26f3873f9d8cf74a43e1b5c7444b3184411671e32bd8bd']",
+      "pattern": "[file:hashes.'SHA-256' = 'fef6ab1ec9455890c09b559996bee2ef1dc99a4745950d94cab48b1d37741acb']",
       "pattern_type": "stix",
       "labels": [
         "malicious-activity"
@@ -496,10 +454,3258 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--af7d6849-6b7d-496d-b15f-9720ee3cb09d",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--ce58d8c4-8448-4216-a836-8b02ab427927",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'ef85b96d92474536a4995a98cd973d71bd97f9f26e7230fe2359883565cd4f40']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0a42bd40-ae4e-4bfe-8fe7-6e7b1a646d91",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5edf81c8bfcb4debb1d6f24b1aa35d9315e94381830ee546b557be434422b53b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e1c3b08e-c645-4fc6-878a-b80feba21feb",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload sslreq.dat",
+      "pattern": "[file:hashes.'SHA-256' = '6ec63b40bcbc26b71deda762dfd844f0c7f15410fd084e53085d3dcbc357675f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d886bdd4-afbe-4e14-b7cb-d9ae712e8ce1",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload SSLSessionReq",
+      "pattern": "[file:hashes.'SHA-256' = '80ab07029d5f302cd55bfd003a3a37f1f71be4beca86cb683da19fb938886d74']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9a749b56-102e-4532-b573-a655fa2cee0d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload dionaea",
+      "pattern": "[file:hashes.'SHA-256' = '4d187fa19cbb0fa8118743626e6cd46c3866dbbc412f814e3d6524f746dda7ee']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9f51686c-1564-4122-bb5e-3e1cbcf8a2a0",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = 'c042ff85ba7a6894f6aed99da09f2d0cb6a1915f1aebd75fd47e14380db151f7']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--620f12f7-edfb-4be4-b6bf-0fffc722b9c0",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = 'c5deb35612689e49ec3ad8336cda395a90da5d995c924c9df1ce2ce003178fbc']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--36c541b2-cce4-43f4-906d-e505f4d3f573",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = '43704ad4b343ba301fceec626cbba9a1f7dadf160523ef0acbbaa9714dfce61d']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--92069e8e-c0c1-4304-a3a8-950169b939fb",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257.raw",
+      "pattern": "[file:hashes.'SHA-256' = '0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6fdaf494-4568-4a44-afa1-975b1d648509",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload CoinMiner",
+      "pattern": "[file:hashes.'SHA-256' = '71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b95dfd3a-5683-46b7-b312-f25385a86010",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '2e0767ed60d0d279c2eee97df78d398127519569e23ab5222752dbff64ec547e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--653b9f61-7c2f-437c-a293-9b05d7219454",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'd71f411af9c0c6fcb953725527cd140e05e39e6481d7fa6b75b1c9d2eadb8fae']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--30fa8ef8-b1f9-401e-bab8-85766c1a5685",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '4d0d17d32fba19d7b3d03721f3ab45179ffd41bd27eaac8e7597bdb3489559d1']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f5928868-84e9-437f-9484-f88d8f6bfe92",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c6cc43bb921a55d308566e6fc6d60f1aad3f060de7aa54eaa76bdc623c2fba19']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--85b7b548-9967-436b-980f-babc8cc2a3f6",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'b6dce6e4a47d616763e23edbc062cc15c0ea7dfb3bdc617807300e0ee84a1f68']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3015d05d-bfe9-416e-9473-820ec39dd339",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'cb795d7cf5f58297b227b622fc960c3067c4fe009ce6e826dcfb587d939b1354']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a2d4b39c-b493-43b2-941f-7a415fbab18b",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'f989a654631be88c3d55faf32e53be9d0176244f58ac9c5faa490270b4207835']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--61671278-e00f-4341-9cf1-b6e21c184125",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '7c66582817143fde083c93d2e277ec14acab7329a0c57ee5ef684f47642b6d59']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d8ce620c-8d86-46ca-91ca-58b9fe7612f4",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5e9651472133b06562f3e4738b5664717199f6299fcb1ec632125c7215e60b84']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--dd3945e8-5596-4d0a-9703-fb7dc8eb2dcc",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '36d3e49e2f5c98330a93cb483cfa026cbb810695c4f71126ffedc8e72fde3aa9']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5830638e-3266-4a2a-b8c0-95c1530e1d05",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '4ae7bb3a1df515068684f4b58868cc56bd76fb15252099dc18652d7333673549']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--71af3bba-14a9-4638-9b6a-c7da11f1d04b",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c4f689eea42f397acf5fea8d9dcd8f46f11b4b918360fe125447ce2326f3a5c4']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--86eb3a18-b212-4cec-bddf-e7befc8e748b",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '67f782e0fadc5b07b911776444ee35a8a5144f5c886d73e042f8ce2015444bc7']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--81e531e9-5e2b-444e-8b67-a88bad968759",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'ef85b96d92474536a4995a98cd973d71bd97f9f26e7230fe2359883565cd4f40']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9f2be690-e749-414b-83b1-a6322307a6ab",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5edf81c8bfcb4debb1d6f24b1aa35d9315e94381830ee546b557be434422b53b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b371d8a4-d411-4904-9da6-805345cb2a1f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload sslreq.dat",
+      "pattern": "[file:hashes.'SHA-256' = '6ec63b40bcbc26b71deda762dfd844f0c7f15410fd084e53085d3dcbc357675f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--11ee50d9-c876-4cd8-8966-3e19999ce05f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload SSLSessionReq",
+      "pattern": "[file:hashes.'SHA-256' = '80ab07029d5f302cd55bfd003a3a37f1f71be4beca86cb683da19fb938886d74']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0221d076-d6ca-4b67-bce6-c542eb94aa31",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e054dd0abaefdf194f3f59ae321a7cbac56ff4bd865e68f62606ff69a621533f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--429cab75-31d8-4f43-adce-21ada6a8a88e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '0fc69324bda4e88629efff6b9bd089f38d293efb375c11e917ff4b3f0dbbd644']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--61e04c5f-1de6-44bc-8fff-3ed63dc36f6d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload dionaea",
+      "pattern": "[file:hashes.'SHA-256' = '4d187fa19cbb0fa8118743626e6cd46c3866dbbc412f814e3d6524f746dda7ee']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--dbf9a235-1e86-42f4-a07a-9bd4e5220459",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = 'c042ff85ba7a6894f6aed99da09f2d0cb6a1915f1aebd75fd47e14380db151f7']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3f37e812-6f2d-4a94-99ec-3b9607cba655",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = 'c5deb35612689e49ec3ad8336cda395a90da5d995c924c9df1ce2ce003178fbc']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--98ad8b21-0756-4ab0-8f37-d61437b126b9",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = '43704ad4b343ba301fceec626cbba9a1f7dadf160523ef0acbbaa9714dfce61d']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3241c972-ef59-43b2-b5ee-8257e33ee145",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257.raw",
+      "pattern": "[file:hashes.'SHA-256' = '0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--cb7135e6-9e0d-482c-95d0-759b85baecc2",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload CoinMiner",
+      "pattern": "[file:hashes.'SHA-256' = '71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1a5e9a03-395c-4e0d-8877-02c6e7b1f306",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '2e0767ed60d0d279c2eee97df78d398127519569e23ab5222752dbff64ec547e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a10a7116-e09a-429a-bc87-a89a5f37f6bd",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = 'c5deb35612689e49ec3ad8336cda395a90da5d995c924c9df1ce2ce003178fbc']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--08f52b2a-6f6d-4d2b-bcae-b263d21e748f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = '43704ad4b343ba301fceec626cbba9a1f7dadf160523ef0acbbaa9714dfce61d']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1ea40cd0-304f-48a3-9c27-0a7a6509c804",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257.raw",
+      "pattern": "[file:hashes.'SHA-256' = '0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4b2c3e07-a593-4142-a417-a46abf8c669a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload CoinMiner",
+      "pattern": "[file:hashes.'SHA-256' = '71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--004743c7-0134-44af-af7b-ba2dfef94a6b",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '2e0767ed60d0d279c2eee97df78d398127519569e23ab5222752dbff64ec547e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1ea2e380-e7f2-41fd-bdf6-2c31e285a943",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'd71f411af9c0c6fcb953725527cd140e05e39e6481d7fa6b75b1c9d2eadb8fae']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2e54380a-069a-43e5-a4ea-0f06bc979dd9",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '4d0d17d32fba19d7b3d03721f3ab45179ffd41bd27eaac8e7597bdb3489559d1']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b76cb088-51b0-467a-b0b8-1e175b521d02",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c6cc43bb921a55d308566e6fc6d60f1aad3f060de7aa54eaa76bdc623c2fba19']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5dbf8860-a1ea-4a6e-9814-3eac265c8e1a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'b6dce6e4a47d616763e23edbc062cc15c0ea7dfb3bdc617807300e0ee84a1f68']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b35f13de-ade6-4671-834f-d7eeeecd0487",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5e9651472133b06562f3e4738b5664717199f6299fcb1ec632125c7215e60b84']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--26d5d18c-5004-48fa-8f7c-735e01726b16",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '36d3e49e2f5c98330a93cb483cfa026cbb810695c4f71126ffedc8e72fde3aa9']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a584bead-f733-49c2-a232-c7c39463ebd1",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c4f689eea42f397acf5fea8d9dcd8f46f11b4b918360fe125447ce2326f3a5c4']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d9d9376b-cfea-4d3e-a26f-99c0ebdf1029",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'ef85b96d92474536a4995a98cd973d71bd97f9f26e7230fe2359883565cd4f40']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--96dbca35-3423-4d59-aa97-4d1cf72418d5",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5edf81c8bfcb4debb1d6f24b1aa35d9315e94381830ee546b557be434422b53b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--bd4010e8-2e66-4961-89a3-66cb5d92963e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e054dd0abaefdf194f3f59ae321a7cbac56ff4bd865e68f62606ff69a621533f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f01c74a3-fec4-4966-ae10-e38cba4abe9a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '0fc69324bda4e88629efff6b9bd089f38d293efb375c11e917ff4b3f0dbbd644']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6e11487f-1518-43d7-86f7-e9adcf10aeaf",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e8f38b72c0826d3570feef8aa25fd9733439a07eb909b25ae1f7edb064031eea']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ccf077b9-d66e-4174-bc04-19c09549e5ee",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'f9231813df5e7d5a6a3e04517a14bef77265522884db861e90c0cf096dffcf1e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--16ec20a0-453b-4fc1-85c2-f16170348b1c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '7670e2618f3aaf9a42b503c0bde090556163fb71d5705616880a5618573a9691']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--eed2b322-cd6d-4273-b6d6-bfd0e325bace",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '6c92685f9bbffacd62b4ebb717986d10ed3c6c8c1998906b73e774cd9226c482']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a25b29e8-3afd-4adf-8d75-5ee49d5d2e5a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '8cbaa0e25147458ba5f5f0e8603c4f19139ca22ebdca65f4ffe6b2150bc469aa']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--271bf010-0bce-4470-a75f-2b94fe914f69",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '9d304ec2e058245e3433ba28be482319f87008386e2c050fb611a23e716bd51b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3bce21e9-3128-46f2-a9cc-01004495d6c1",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '94e606a42613d0ef095b8001a98bf6ed3fe12eae85dd0a3fb66040a9cee739a0']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3a8a0d62-8489-4171-800e-93a8292d4b2d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '309a9d908f5d9149c251425678cc94984f9b7770f53eaa152aa2f29ac7dbc58e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c8b15921-c1fd-4bce-bffc-499195a97f43",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload sslreq.dat",
+      "pattern": "[file:hashes.'SHA-256' = '6ec63b40bcbc26b71deda762dfd844f0c7f15410fd084e53085d3dcbc357675f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1c99e76c-e358-443b-8999-ce27e7894e5c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = 'c5deb35612689e49ec3ad8336cda395a90da5d995c924c9df1ce2ce003178fbc']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a890061a-74d2-4a49-b269-7944123eebb0",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = '43704ad4b343ba301fceec626cbba9a1f7dadf160523ef0acbbaa9714dfce61d']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--703c1797-e4cd-4c73-ad2b-1ab31e33ce6f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257.raw",
+      "pattern": "[file:hashes.'SHA-256' = '0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c57733a7-db5d-469c-8a7c-3ccc4242a818",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload CoinMiner",
+      "pattern": "[file:hashes.'SHA-256' = '71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8def68dc-8856-458b-ac73-a924841eb7be",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '2e0767ed60d0d279c2eee97df78d398127519569e23ab5222752dbff64ec547e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--017701e4-a2d5-4f82-8502-57a6ebbbbd0d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'd71f411af9c0c6fcb953725527cd140e05e39e6481d7fa6b75b1c9d2eadb8fae']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--938c4b62-0330-40d8-9ebb-e2698c0739ea",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '4d0d17d32fba19d7b3d03721f3ab45179ffd41bd27eaac8e7597bdb3489559d1']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a0855dfa-bd1e-4970-a546-4192bb59d0a1",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c6cc43bb921a55d308566e6fc6d60f1aad3f060de7aa54eaa76bdc623c2fba19']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5a0228f4-d6af-4021-8869-f10aa57273d1",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'b6dce6e4a47d616763e23edbc062cc15c0ea7dfb3bdc617807300e0ee84a1f68']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--947263c2-67c1-45ce-88b5-ae10b9190250",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5e9651472133b06562f3e4738b5664717199f6299fcb1ec632125c7215e60b84']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f8b3c5f9-4c0e-49eb-ae2d-777d070d34fd",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '36d3e49e2f5c98330a93cb483cfa026cbb810695c4f71126ffedc8e72fde3aa9']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2303b8bc-1e2c-4024-8013-7d0dafa28880",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c4f689eea42f397acf5fea8d9dcd8f46f11b4b918360fe125447ce2326f3a5c4']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a71e44c5-2ea4-4847-adc5-b5c80efd5b74",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'ef85b96d92474536a4995a98cd973d71bd97f9f26e7230fe2359883565cd4f40']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c156a3a9-78b0-4642-a937-a9c14b75f27e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5edf81c8bfcb4debb1d6f24b1aa35d9315e94381830ee546b557be434422b53b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f35b898c-c47a-4e1c-982c-93b3e0696884",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e054dd0abaefdf194f3f59ae321a7cbac56ff4bd865e68f62606ff69a621533f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2aa67ad5-4b12-4b56-8910-582e9a2d45ee",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '0fc69324bda4e88629efff6b9bd089f38d293efb375c11e917ff4b3f0dbbd644']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--cc273f4e-aaab-4540-bb61-7367d9924c1e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e8f38b72c0826d3570feef8aa25fd9733439a07eb909b25ae1f7edb064031eea']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--761a8838-a123-44bc-89a5-03967bc9aa4e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'f9231813df5e7d5a6a3e04517a14bef77265522884db861e90c0cf096dffcf1e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ddaa86cd-7967-4888-b10c-f33b89d30244",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '7670e2618f3aaf9a42b503c0bde090556163fb71d5705616880a5618573a9691']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2ed822f3-1a9f-44b7-89b6-9cf3ccbdf8e8",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '6c92685f9bbffacd62b4ebb717986d10ed3c6c8c1998906b73e774cd9226c482']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e34f0af1-6a39-4b52-9e2d-67fae35038a5",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '8cbaa0e25147458ba5f5f0e8603c4f19139ca22ebdca65f4ffe6b2150bc469aa']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fe5414af-e04e-4f2a-92d7-bc94e1d7ab88",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '9d304ec2e058245e3433ba28be482319f87008386e2c050fb611a23e716bd51b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6fde0876-04be-45b0-9ee3-35853664f16f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '94e606a42613d0ef095b8001a98bf6ed3fe12eae85dd0a3fb66040a9cee739a0']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--eabbb548-bef6-4ceb-9edc-7f451792f01f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '309a9d908f5d9149c251425678cc94984f9b7770f53eaa152aa2f29ac7dbc58e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--84e69122-afd6-4641-b531-2710daec76f0",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload sslreq.dat",
+      "pattern": "[file:hashes.'SHA-256' = '6ec63b40bcbc26b71deda762dfd844f0c7f15410fd084e53085d3dcbc357675f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ab8379ca-82c7-47de-9858-d34b174b2ebe",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '6c92685f9bbffacd62b4ebb717986d10ed3c6c8c1998906b73e774cd9226c482']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4a439bff-6063-4ed7-8265-eb27335c9902",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '8cbaa0e25147458ba5f5f0e8603c4f19139ca22ebdca65f4ffe6b2150bc469aa']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a5e64903-b179-40c8-8d89-db3f8bde00f5",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '9d304ec2e058245e3433ba28be482319f87008386e2c050fb611a23e716bd51b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e2c6b76a-ba13-4afd-b86f-22681e16b28b",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '94e606a42613d0ef095b8001a98bf6ed3fe12eae85dd0a3fb66040a9cee739a0']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--da4b78ac-191d-4406-a514-0ad3bbda0bfd",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '309a9d908f5d9149c251425678cc94984f9b7770f53eaa152aa2f29ac7dbc58e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--00c9520d-b4a5-4285-adb8-6585cb40d5a1",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '1b91e970e1fe7bcacc33e2ee5bd596b7a1fa08dcb8f1c73b0d6dfa05dffd4634']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6780041b-f2ed-4401-9fbf-7a8eb0126970",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = 'c5deb35612689e49ec3ad8336cda395a90da5d995c924c9df1ce2ce003178fbc']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--505c4582-c96e-4506-9dce-e47be176ceff",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = '43704ad4b343ba301fceec626cbba9a1f7dadf160523ef0acbbaa9714dfce61d']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a08e76ac-2b25-428b-84d5-0e3a60f96b69",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257.raw",
+      "pattern": "[file:hashes.'SHA-256' = '0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3b2ae9b9-323e-435c-aa2b-84d464ac9bac",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload CoinMiner",
+      "pattern": "[file:hashes.'SHA-256' = '71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--86606abb-99b6-4441-9118-49dd2f0c0582",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '2e0767ed60d0d279c2eee97df78d398127519569e23ab5222752dbff64ec547e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b50a3c43-8e26-43bb-a72b-5d5c4cf739aa",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'd71f411af9c0c6fcb953725527cd140e05e39e6481d7fa6b75b1c9d2eadb8fae']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--27627480-c38a-41ba-aabf-d5ce54ce100e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '4d0d17d32fba19d7b3d03721f3ab45179ffd41bd27eaac8e7597bdb3489559d1']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--707bbd3e-4199-4a46-bae3-223689e96cb9",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c6cc43bb921a55d308566e6fc6d60f1aad3f060de7aa54eaa76bdc623c2fba19']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4c55b0fd-df32-4f81-9b57-7712ab7ebded",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'b6dce6e4a47d616763e23edbc062cc15c0ea7dfb3bdc617807300e0ee84a1f68']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--771c1fa9-be60-41f7-bf23-384bdb39761e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5e9651472133b06562f3e4738b5664717199f6299fcb1ec632125c7215e60b84']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d11f94ab-5243-4340-8d2b-8a1cc4b0a35f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '36d3e49e2f5c98330a93cb483cfa026cbb810695c4f71126ffedc8e72fde3aa9']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--066bf097-5108-4a3e-8bc1-08fa5a413cdf",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c4f689eea42f397acf5fea8d9dcd8f46f11b4b918360fe125447ce2326f3a5c4']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fb8c5f0f-3fd9-4366-bad6-c7c741a239e0",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'ef85b96d92474536a4995a98cd973d71bd97f9f26e7230fe2359883565cd4f40']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c10572d5-416c-457d-8f59-00cd44895ebd",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5edf81c8bfcb4debb1d6f24b1aa35d9315e94381830ee546b557be434422b53b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--063add9b-42ee-4dad-8658-e7e072e116f7",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e054dd0abaefdf194f3f59ae321a7cbac56ff4bd865e68f62606ff69a621533f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e76b0c78-93ff-428b-aa97-b6f85b9f6e5c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '0fc69324bda4e88629efff6b9bd089f38d293efb375c11e917ff4b3f0dbbd644']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1882f38d-cb43-49a4-8ddb-6085802d6082",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e8f38b72c0826d3570feef8aa25fd9733439a07eb909b25ae1f7edb064031eea']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--eb6ec389-4f0b-49cd-a61b-308b51a62f83",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'f9231813df5e7d5a6a3e04517a14bef77265522884db861e90c0cf096dffcf1e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--bb26196a-b905-4810-85e9-6a7059d6c56c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '7670e2618f3aaf9a42b503c0bde090556163fb71d5705616880a5618573a9691']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e8957c8a-fc0b-42bf-9dc1-7f67646c823d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '6c92685f9bbffacd62b4ebb717986d10ed3c6c8c1998906b73e774cd9226c482']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b0d08fe6-de52-4c80-8087-3ce4266761f5",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '8cbaa0e25147458ba5f5f0e8603c4f19139ca22ebdca65f4ffe6b2150bc469aa']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--26ada9a2-e869-421f-a0ca-9da995029980",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '9d304ec2e058245e3433ba28be482319f87008386e2c050fb611a23e716bd51b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8c36fc61-2631-4dd1-8e8f-e73f86a10ab5",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '94e606a42613d0ef095b8001a98bf6ed3fe12eae85dd0a3fb66040a9cee739a0']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f11a8c52-0588-45d8-84b3-5300a81ddbf6",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '309a9d908f5d9149c251425678cc94984f9b7770f53eaa152aa2f29ac7dbc58e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e9a4f121-8e0b-41f2-a87f-48d5e9c55766",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload sslreq.dat",
+      "pattern": "[file:hashes.'SHA-256' = '6ec63b40bcbc26b71deda762dfd844f0c7f15410fd084e53085d3dcbc357675f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a7dadd66-8ae4-4fdd-9b33-8aed3b349250",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e8f38b72c0826d3570feef8aa25fd9733439a07eb909b25ae1f7edb064031eea']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2ea96118-1e17-4a8e-990d-6b00e14dc844",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'f9231813df5e7d5a6a3e04517a14bef77265522884db861e90c0cf096dffcf1e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--97dece04-d553-426c-ae63-87280f38fb69",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '7670e2618f3aaf9a42b503c0bde090556163fb71d5705616880a5618573a9691']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fb9193f3-e234-41c2-9f12-f648753a5b90",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '6c92685f9bbffacd62b4ebb717986d10ed3c6c8c1998906b73e774cd9226c482']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--50aaa85a-9bbd-4343-bbe0-4a02ae11bed1",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '8cbaa0e25147458ba5f5f0e8603c4f19139ca22ebdca65f4ffe6b2150bc469aa']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1ee095e6-3871-488d-9d7f-8c1dec1526e9",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '9d304ec2e058245e3433ba28be482319f87008386e2c050fb611a23e716bd51b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a874ceb8-d339-478a-8dc4-f89877bedc05",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '94e606a42613d0ef095b8001a98bf6ed3fe12eae85dd0a3fb66040a9cee739a0']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ef58195d-9366-4013-8eab-1702b49ceb37",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '309a9d908f5d9149c251425678cc94984f9b7770f53eaa152aa2f29ac7dbc58e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0fdcaade-90c6-4aad-83a0-ea62fb7d29af",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '32f361867b295974f924b118c9f3542f510502eb66e4bc29f6efe1fe01a01932']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5ceb934b-8660-4c17-9aeb-1ae1983c904f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload OpenVPN",
+      "pattern": "[file:hashes.'SHA-256' = 'e522ef50a429f4fc944717d334d0c486b0b81d84043286f4da54c9821df904fa']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4374890f-0341-4836-be3d-a0eb0e677c16",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'fe6eac1ae0597c932973f28eefde48a631278543baca894bf368c218634ed1d5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1226f3fb-b977-4c88-8138-cbdaaf846098",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = 'c5deb35612689e49ec3ad8336cda395a90da5d995c924c9df1ce2ce003178fbc']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--297b6e54-ee08-4167-9916-861b03268499",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = '43704ad4b343ba301fceec626cbba9a1f7dadf160523ef0acbbaa9714dfce61d']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b5576e2f-6447-4707-be80-8f00024ed02e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257.raw",
+      "pattern": "[file:hashes.'SHA-256' = '0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--96c9ee80-2057-46d3-a10f-1f5bde38727a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload CoinMiner",
+      "pattern": "[file:hashes.'SHA-256' = '71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--bfb44760-2ab3-4088-b04c-dfe5762aa658",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '2e0767ed60d0d279c2eee97df78d398127519569e23ab5222752dbff64ec547e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ea35d3f2-40be-4a9c-841d-654be3321480",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'd71f411af9c0c6fcb953725527cd140e05e39e6481d7fa6b75b1c9d2eadb8fae']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c823553a-fa53-4684-b240-2314d3bbc702",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '4d0d17d32fba19d7b3d03721f3ab45179ffd41bd27eaac8e7597bdb3489559d1']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7feeae13-cffc-458d-a85d-2ff32855bf90",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c6cc43bb921a55d308566e6fc6d60f1aad3f060de7aa54eaa76bdc623c2fba19']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0d26a062-96ea-4723-9300-5206ee69e021",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'b6dce6e4a47d616763e23edbc062cc15c0ea7dfb3bdc617807300e0ee84a1f68']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9af4348b-7faf-4e86-94c3-7256661db63e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5e9651472133b06562f3e4738b5664717199f6299fcb1ec632125c7215e60b84']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e062db3c-4317-44c3-a695-6702f6a43f77",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '36d3e49e2f5c98330a93cb483cfa026cbb810695c4f71126ffedc8e72fde3aa9']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2aa21b3e-496d-4a94-a70d-f7c0359812af",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c4f689eea42f397acf5fea8d9dcd8f46f11b4b918360fe125447ce2326f3a5c4']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f594dbd5-2ff8-476f-85e4-d92ebb5453fc",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'ef85b96d92474536a4995a98cd973d71bd97f9f26e7230fe2359883565cd4f40']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--10b72fd8-a61a-43ad-a0a1-d506ba257b65",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5edf81c8bfcb4debb1d6f24b1aa35d9315e94381830ee546b557be434422b53b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a239a3de-6526-42d4-80d9-033135849382",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e054dd0abaefdf194f3f59ae321a7cbac56ff4bd865e68f62606ff69a621533f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5e3ade6c-63ed-4073-a665-0910c7a16802",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '0fc69324bda4e88629efff6b9bd089f38d293efb375c11e917ff4b3f0dbbd644']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--23564d55-8102-4bfd-87c6-bae28d01199a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e8f38b72c0826d3570feef8aa25fd9733439a07eb909b25ae1f7edb064031eea']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--78a79602-b61e-469b-a760-9fdd14ab1f0c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'f9231813df5e7d5a6a3e04517a14bef77265522884db861e90c0cf096dffcf1e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8f21d11e-0200-419b-84a8-8aa618e540a8",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '7670e2618f3aaf9a42b503c0bde090556163fb71d5705616880a5618573a9691']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c676f53e-2ac7-4ec8-840f-ddc3e0f1a0d0",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = 'c5deb35612689e49ec3ad8336cda395a90da5d995c924c9df1ce2ce003178fbc']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--656ae9aa-d9f1-49a3-a5c0-266fb4539913",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257.raw",
+      "pattern": "[file:hashes.'SHA-256' = '0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--24e3a703-02af-4a2f-ac07-b71274a96566",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload CoinMiner",
+      "pattern": "[file:hashes.'SHA-256' = '71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ffa767b9-a1a1-4fa0-a36e-1a558c2d23a4",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'd71f411af9c0c6fcb953725527cd140e05e39e6481d7fa6b75b1c9d2eadb8fae']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--01927ed6-9f58-49ac-9e33-a93093ad5a9c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '4d0d17d32fba19d7b3d03721f3ab45179ffd41bd27eaac8e7597bdb3489559d1']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1b6150e1-c7ec-4a1b-9ce7-e95ce1047c7a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5e9651472133b06562f3e4738b5664717199f6299fcb1ec632125c7215e60b84']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a0a70e46-e8b8-4378-8638-b418bb3aa8db",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c4f689eea42f397acf5fea8d9dcd8f46f11b4b918360fe125447ce2326f3a5c4']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--38810338-e6e4-4211-8b02-3fbc537acb6c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e054dd0abaefdf194f3f59ae321a7cbac56ff4bd865e68f62606ff69a621533f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5367c5ef-cbce-4aa3-99b7-4534b2bab6c1",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '0fc69324bda4e88629efff6b9bd089f38d293efb375c11e917ff4b3f0dbbd644']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--334d8759-9a74-4a82-9a28-1b26a71d3c56",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e8f38b72c0826d3570feef8aa25fd9733439a07eb909b25ae1f7edb064031eea']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b47f255f-d114-493f-9838-f1a2d7edf27b",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'f9231813df5e7d5a6a3e04517a14bef77265522884db861e90c0cf096dffcf1e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e0c60919-ab41-4ff2-a6f9-0a7eec31dc2f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '7670e2618f3aaf9a42b503c0bde090556163fb71d5705616880a5618573a9691']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--35956797-6dab-4826-ab99-fd7fa2ebe2f5",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '6c92685f9bbffacd62b4ebb717986d10ed3c6c8c1998906b73e774cd9226c482']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--19efa753-15db-493c-bb64-7c3b0f424d06",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '8cbaa0e25147458ba5f5f0e8603c4f19139ca22ebdca65f4ffe6b2150bc469aa']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c601f72a-c8bd-472b-bab7-0c959565f88e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '9d304ec2e058245e3433ba28be482319f87008386e2c050fb611a23e716bd51b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--82a5ce6c-51ca-47d3-bb93-c59fedbe4071",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '94e606a42613d0ef095b8001a98bf6ed3fe12eae85dd0a3fb66040a9cee739a0']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d2bd6d1a-e7d2-42fd-9734-34973a6b4323",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '309a9d908f5d9149c251425678cc94984f9b7770f53eaa152aa2f29ac7dbc58e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--da395530-7079-4576-af73-1b6f3cbd7dce",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '32f361867b295974f924b118c9f3542f510502eb66e4bc29f6efe1fe01a01932']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fcd826b6-1bec-4437-8490-f15b341135d9",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload OpenVPN",
+      "pattern": "[file:hashes.'SHA-256' = 'e522ef50a429f4fc944717d334d0c486b0b81d84043286f4da54c9821df904fa']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f266354f-eda0-4ea4-9d6e-6c9cdd41d868",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'fe6eac1ae0597c932973f28eefde48a631278543baca894bf368c218634ed1d5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f269b24e-83ae-4546-acd4-0273657b933c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload from_port_3128-tcp_5767_2023-10-24_md5_26633af1270ef09acf559595aef0ef6d",
+      "pattern": "[file:hashes.'SHA-256' = '8d2aa942c0253edc4af921e0db63ab9162a5cf78ade66a867f965c1fb9ab4fff']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--11737597-566e-4865-888d-b83957db5e87",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload from_port_11110-tcp_5660_2023-11-08_md5_834759e7ba1c8491f17a8b51460a05fa",
+      "pattern": "[file:hashes.'SHA-256' = '31041a19e88e2021906e85657a585dd28c61015bb32fa199db8900cd9d3e2d01']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e46bd3c4-ebf6-4347-8ad1-c48b43023037",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '746c68e58b614e2276fc7e55d585413de347f3860d5e8c67d1a2ecdacd4212a1']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--828f10f5-d478-4173-b59f-f0065d4522a4",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'da708d811440c12fe80fd24ebb5372bca8d0a8cdd235dfc0eb67d2b5b9e9170a']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--91503684-cf16-4f49-ab84-cf263d8e4062",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload from_port_14939-tcp_6887_2023-11-08_md5_a165e6261ea342c20a71feb834a83bd0",
+      "pattern": "[file:hashes.'SHA-256' = '58890344d4d66357021038319740ebe6b869af0eefd7e9dc92fd42f85092e520']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ebd7030d-e038-438f-a71a-79809d0e8abc",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = 'c5deb35612689e49ec3ad8336cda395a90da5d995c924c9df1ce2ce003178fbc']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e0b75b47-aa5f-4605-b9a1-4edf1b0290af",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload 0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257.raw",
+      "pattern": "[file:hashes.'SHA-256' = '0d3c687ffc30e185b836b99bd07fa2b0d460a090626f6bbbd40a95b98ea70257']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--dfe6007d-589e-45ff-b023-a485795d9e3d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload CoinMiner",
+      "pattern": "[file:hashes.'SHA-256' = '71ecfb7bbc015b2b192c05f726468b6f08fcc804c093c718b950e688cc414af5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7c76b398-e8f8-4d99-a7fb-a5c08daf2985",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '2e0767ed60d0d279c2eee97df78d398127519569e23ab5222752dbff64ec547e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--29769267-5387-4c5c-b6bc-3a89aa5a0937",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'd71f411af9c0c6fcb953725527cd140e05e39e6481d7fa6b75b1c9d2eadb8fae']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--77c8a9b2-dab4-4e3f-a3ae-a485bd4a9e67",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '4d0d17d32fba19d7b3d03721f3ab45179ffd41bd27eaac8e7597bdb3489559d1']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d6e37327-fcc8-4319-a75b-276bda22a186",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c6cc43bb921a55d308566e6fc6d60f1aad3f060de7aa54eaa76bdc623c2fba19']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e0d0797b-bb09-451b-b3f6-bc41e7a5aa32",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'b6dce6e4a47d616763e23edbc062cc15c0ea7dfb3bdc617807300e0ee84a1f68']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--65aec097-f2e1-4b36-a21e-c923d64d9cf4",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5e9651472133b06562f3e4738b5664717199f6299fcb1ec632125c7215e60b84']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1d608f50-0b5b-44de-96df-eff123179865",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '36d3e49e2f5c98330a93cb483cfa026cbb810695c4f71126ffedc8e72fde3aa9']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--09dff73f-212a-427c-8823-715ff2884cfb",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c4f689eea42f397acf5fea8d9dcd8f46f11b4b918360fe125447ce2326f3a5c4']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--cc9f462b-14aa-4ca5-8881-a939f242a84a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5edf81c8bfcb4debb1d6f24b1aa35d9315e94381830ee546b557be434422b53b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--68271c98-d44a-4ef0-ac31-282478a642b4",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e054dd0abaefdf194f3f59ae321a7cbac56ff4bd865e68f62606ff69a621533f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b485e27d-4468-4a45-8a7f-7db03d268ce5",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '0fc69324bda4e88629efff6b9bd089f38d293efb375c11e917ff4b3f0dbbd644']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--70da2c07-5678-4cf7-85be-8a010aca0ba1",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'f9231813df5e7d5a6a3e04517a14bef77265522884db861e90c0cf096dffcf1e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c4bc4d50-e855-4fea-b16a-6a00485d2a12",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '7670e2618f3aaf9a42b503c0bde090556163fb71d5705616880a5618573a9691']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4e1ef713-6744-41cb-a536-bdd7872eafaa",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '6c92685f9bbffacd62b4ebb717986d10ed3c6c8c1998906b73e774cd9226c482']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--cce97649-cca5-4295-9206-fc3805c9a0e8",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '8cbaa0e25147458ba5f5f0e8603c4f19139ca22ebdca65f4ffe6b2150bc469aa']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b94ef1d6-2fd5-4631-b964-fb7b0e3bf73a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '9d304ec2e058245e3433ba28be482319f87008386e2c050fb611a23e716bd51b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--bb9daf9d-7b8d-49a7-94e1-5c2523bb62fb",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '94e606a42613d0ef095b8001a98bf6ed3fe12eae85dd0a3fb66040a9cee739a0']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1dd4cacc-76e7-4196-ad66-b891ff869a5c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '309a9d908f5d9149c251425678cc94984f9b7770f53eaa152aa2f29ac7dbc58e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--66b423b3-1f07-4d13-965e-87bc6ad724c6",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'cc1e7e317824372fe29dbc713bf4b2190181879330e4b7af84c22b2204a5fa3d']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a9f57780-dcb4-4174-b4fa-b48c5c806ea7",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '711124674c7c4d2229fc8bc48ad2ac0a5e8ba03e91f71ac91731551608e84196']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d9d4b692-f105-49b0-93d3-2eafdefeee40",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c29f0919828feb29d310ebad77bfd35a9ad1b8aa88bd42411ffb764d8f43687d']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--86f6fa6a-4f27-422e-9733-473d27dfa43e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '1d7559d57a32dc6fdd7bdce9e65b13b89b6d6a9d911ad2405a0a5669cb82867f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7460a108-cc0f-4bd0-8afc-2a059566e1bb",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '9f4d73aa5c70411ca9cf1aabec0532d4f86186329935b11f0f0be0bfcf0816c5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--14879674-c1c1-4355-b487-b8f56ed79bd6",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '43e4c78c5552021a0d8327bf06ea3638f737a5e6b1c84cd1c734eecdb823bbd2']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--990f8c4b-ea04-4121-b52c-41b56a96795d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '5b63cc651463d3f09630b65c401f8b53a3fd59d612a0d2a146acb78079c2bf5f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6abb2824-503f-4874-9c01-76121adc53dd",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '622eb66776523ba7de2bc2804ef83c0a741610834987041119507b1f80907829']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f06a9e33-1379-4a7b-9449-c1ce20cf3c2d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'cf12b211a301dad95fb359b56d45dbbcb634110e2de95191d443824e68617b8f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--42613157-c8fa-4a19-b3d4-2804e3d2d759",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '1c7282ae1939556c0f4e617ef9cd046c7a6991c6f337fbe9dc78eac41a26a703']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3f211aa3-5b3f-4f2f-891f-f11f0db6b575",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'a9e0f6006646deced278e7d1b5d07c4f5a89e5b1babdabb9ee933e9ed874d9fb']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--58737a83-8d6d-44ed-b46b-f358a634fa33",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '04e77586fb8f3182e1c857906918fed83028440b87c45314fb8d360a29b8f166']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d972f407-d347-4712-9c92-39df7ffd2fab",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload from_port_3128-tcp_5767_2023-10-24_md5_26633af1270ef09acf559595aef0ef6d",
+      "pattern": "[file:hashes.'SHA-256' = '8d2aa942c0253edc4af921e0db63ab9162a5cf78ade66a867f965c1fb9ab4fff']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d4b86477-fe1b-4373-a9ae-ae16b1e853d1",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload from_port_11110-tcp_5660_2023-11-08_md5_834759e7ba1c8491f17a8b51460a05fa",
+      "pattern": "[file:hashes.'SHA-256' = '31041a19e88e2021906e85657a585dd28c61015bb32fa199db8900cd9d3e2d01']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fdd938e4-47e2-43d8-bd58-e2bbac196ed0",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'd71f411af9c0c6fcb953725527cd140e05e39e6481d7fa6b75b1c9d2eadb8fae']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--647942db-a989-4efd-96ea-312ccd120de0",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c4f689eea42f397acf5fea8d9dcd8f46f11b4b918360fe125447ce2326f3a5c4']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9970bb8c-ec57-43ef-a4ec-672056e9044c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e054dd0abaefdf194f3f59ae321a7cbac56ff4bd865e68f62606ff69a621533f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--dc794269-e7dd-42c8-bce9-e4de8d533b3d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '0fc69324bda4e88629efff6b9bd089f38d293efb375c11e917ff4b3f0dbbd644']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3b4402a2-5aea-4c69-beca-b83a1d320bdf",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e8f38b72c0826d3570feef8aa25fd9733439a07eb909b25ae1f7edb064031eea']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a709e3fa-0606-4fa2-a668-a2b44e020aac",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'f9231813df5e7d5a6a3e04517a14bef77265522884db861e90c0cf096dffcf1e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--67911368-7a16-4aa7-8650-899fa224a09a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '7670e2618f3aaf9a42b503c0bde090556163fb71d5705616880a5618573a9691']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9fbca8db-8d72-46a7-a219-721d58b408c7",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '6c92685f9bbffacd62b4ebb717986d10ed3c6c8c1998906b73e774cd9226c482']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a87fa1b8-ad0a-4f61-b910-c20fc4742013",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '8cbaa0e25147458ba5f5f0e8603c4f19139ca22ebdca65f4ffe6b2150bc469aa']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--df50aaae-cdee-4ac2-b482-2ae0b3510ce8",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '9d304ec2e058245e3433ba28be482319f87008386e2c050fb611a23e716bd51b']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5f0a579c-3653-4796-88f8-64c805b181d6",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '94e606a42613d0ef095b8001a98bf6ed3fe12eae85dd0a3fb66040a9cee739a0']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e1368a8a-f4fb-4450-92a6-d20d406bc73f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '309a9d908f5d9149c251425678cc94984f9b7770f53eaa152aa2f29ac7dbc58e']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f37c7414-db4a-46c4-9bbc-d5426ca76c2a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '32f361867b295974f924b118c9f3542f510502eb66e4bc29f6efe1fe01a01932']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b4c03d60-810d-43ff-8e45-4389f4cde7f0",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload OpenVPN",
+      "pattern": "[file:hashes.'SHA-256' = 'e522ef50a429f4fc944717d334d0c486b0b81d84043286f4da54c9821df904fa']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7ae2d8a3-8c75-4a0a-a72d-badb1977ab3b",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'fe6eac1ae0597c932973f28eefde48a631278543baca894bf368c218634ed1d5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--66d80fc4-608a-47ef-b8e2-607011549f9a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload from_port_3128-tcp_5767_2023-10-24_md5_26633af1270ef09acf559595aef0ef6d",
+      "pattern": "[file:hashes.'SHA-256' = '8d2aa942c0253edc4af921e0db63ab9162a5cf78ade66a867f965c1fb9ab4fff']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--656c71b6-59e4-4fc4-93dc-ee9a3e92be60",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload from_port_11110-tcp_5660_2023-11-08_md5_834759e7ba1c8491f17a8b51460a05fa",
+      "pattern": "[file:hashes.'SHA-256' = '31041a19e88e2021906e85657a585dd28c61015bb32fa199db8900cd9d3e2d01']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--85594ff0-c677-4cda-96e6-e7430e91ee6b",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'da708d811440c12fe80fd24ebb5372bca8d0a8cdd235dfc0eb67d2b5b9e9170a']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6dde4083-cda6-42b5-999f-369e3bd388ef",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload from_port_14939-tcp_6887_2023-11-08_md5_a165e6261ea342c20a71feb834a83bd0",
+      "pattern": "[file:hashes.'SHA-256' = '58890344d4d66357021038319740ebe6b869af0eefd7e9dc92fd42f85092e520']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--927dd833-e717-479c-9e66-5999b23e9678",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'cc1e7e317824372fe29dbc713bf4b2190181879330e4b7af84c22b2204a5fa3d']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--10de244d-5efa-4a57-bb1b-fa761789f1dc",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '711124674c7c4d2229fc8bc48ad2ac0a5e8ba03e91f71ac91731551608e84196']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3ffc6c2f-0690-4618-8a53-436d7a6fe106",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c29f0919828feb29d310ebad77bfd35a9ad1b8aa88bd42411ffb764d8f43687d']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--688d7b32-3ed1-4ab2-94ed-22a4f7bb0d8b",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '1d7559d57a32dc6fdd7bdce9e65b13b89b6d6a9d911ad2405a0a5669cb82867f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--021e9842-4f6f-4a13-9e85-2ec936488d94",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '9f4d73aa5c70411ca9cf1aabec0532d4f86186329935b11f0f0be0bfcf0816c5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--743b3a51-e898-403a-8419-08d0538a5439",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '43e4c78c5552021a0d8327bf06ea3638f737a5e6b1c84cd1c734eecdb823bbd2']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--837ccc13-d19f-4e2f-9ab7-21100e75437f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload fe8cced0ba208b7d4e0db28fd8d4fb22",
       "pattern": "[file:hashes.'SHA-256' = '553fea483bbd095ed4982afc25f1520481609487e6129844ee1a988d5932cd0c']",
       "pattern_type": "stix",
@@ -510,10 +3716,388 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--38ab8b97-2429-4c21-ab82-3aee007b57a7",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--ca79b1dc-22f4-49d9-ada9-6fefb1b87a51",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'b73d37d8f619ba726147eb4098ef6f7b7b1b348600d055fa5a99267c4f1c9376']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4daacc04-9995-4835-b9ac-380550a15b4a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload from_port_10002-tcp_222_2023-11-08_md5_06413cd8ce3214089254db3d0aa7fd8d",
+      "pattern": "[file:hashes.'SHA-256' = 'f92e510aaeca6871a90045d62102af722cd500a105a2232c44bdb566bfc27cef']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b6cbf5ec-0b73-4a64-bff6-840f2efadd5e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '43480738b9816a080d26f3873f9d8cf74a43e1b5c7444b3184411671e32bd8bd']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--45bcbdfb-cf25-4408-979a-736cb2790405",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload from_port_10002-tcp_227_2023-11-08_md5_3a86697e08de45f9483e8ed81c4f5735",
+      "pattern": "[file:hashes.'SHA-256' = 'c7fc4bd4bc65329ae66eeb0073ae405e9fb44fa69a4702f20dc14489c3850e88']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--18647aee-cecd-4976-a12c-ad3debbc833a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '0ea981782448787fa8a9e1481e8d2a1b70a09276962205232f205d7720879d2a']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8e1a030f-69af-4ec1-af31-75d7a63e9775",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'd3eecae5aef34065e7d0905703de6048191e56219d85472c3e2fe170358225ad']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--cd11e26c-6318-431b-9e6d-0f22e3b13258",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '8203bc2e22e8603c496b6873e07f206c27b94572814d85d9f5b8a57fa8c7541d']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8c41c84f-3014-4412-93b3-05bc8b88122f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '0866d3ba756f27496bb57e6b15a5ddfd2bfb29316dff38e3b72825a100933fdf']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c4b28816-8457-4aac-8eba-001ffcc7a3ce",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '2e897c2e5c60a97ea16074059e14d628f822093f66797fc65bdca7181f16bc1d']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6e2d66b3-3e46-4719-ae87-4bed2e8ddad1",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '0003c8efa0acdc0c6540f4bdb920f6bcabdd01d0ed98e0f21938144c44e121a5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a4ec9a16-b840-40a8-876a-63cae196005e",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'ad32b372bf9a8e846b24a957491de4e34df8f3361cae2142041317b552081db3']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7a5559f9-c02e-46e8-b096-2578aa0995ea",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '0efe38694fbb4cc2af819186b5e9ae9e87ef9f54c0e7f89f908dbbd2ecc5ffff']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f5510d19-70e2-4390-b56d-136f39f67b64",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '682bbd8e7edd915c845ef91aa204d338dd5d30d0cfd0c01383c01b5757fd69ce']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--131578eb-c05d-43b0-9afd-ad5f20d726b4",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'd9bcc621186ef441cc445f2b3dbd5f10791c789aa775c015d9f4c5a0a20a68ea']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--227cb000-b6ca-48f8-b584-d4654c00a118",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '19e442b2af03d39b47d46dc9489da466a55474d4130f33ddfd91f18c9e347025']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5522000f-185d-473f-8770-28b0f0c810e7",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload RPCCheck",
+      "pattern": "[file:hashes.'SHA-256' = '2a177602bee0d039f41fbd6da5240e0404d7c551a940eb2ca4a48faf2074eec8']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6e658007-a88f-444f-b71d-6f3ff7addd80",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'c410cf23b3d85ec98026baf9f8231d241418e605a07e7cde3f9e29e23f7d467d']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ec2375ce-95e5-4e3f-94ab-f73356cf438b",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '146feb4208f989935534a353df60ec62a2ef4830205b63b53ece4e97efcff8c0']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2597bc0c-927d-43c4-9c61-5ab41a5e5f7d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e0351367a50b1a8318b27e872964da36c39b5b83ef9abd63fd97412308bdb054']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ab8bb000-132c-4df1-adad-b54879410d30",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'ee56c53bdfb08cc613375230e992ef35a11330b51806374bf7671fe62c5d1218']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--ef063e5e-825a-46c8-acf4-6866162e997a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '1140ef33c0b3807ff76ba0df0b186d5fcf46e0e239e063fc6dc0c4904677117c']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9cac5b8a-c1fd-404a-a129-d8e1295f9f58",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'ac4ffd7d3c06bd8796eca96913471da0fb52b8fb73be4df3f5a8defae846d967']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8bb91d8e-4438-4404-8a16-25f61cde6a02",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '77c4b28ee551fc0e1744989b51b5e381160de8a76df0614cff90527af9be25e4']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--0ba35002-9eb0-4e76-9827-0ace1bb7cae0",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'd71f411af9c0c6fcb953725527cd140e05e39e6481d7fa6b75b1c9d2eadb8fae']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--59c79f0d-ddfd-464b-92fd-6c7f4691773c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e054dd0abaefdf194f3f59ae321a7cbac56ff4bd865e68f62606ff69a621533f']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fc7a0175-1821-45d4-99d1-94a65095750c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = '0fc69324bda4e88629efff6b9bd089f38d293efb375c11e917ff4b3f0dbbd644']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fc59fb51-821b-40a4-a122-84b330a87d72",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "payload honeytrap",
+      "pattern": "[file:hashes.'SHA-256' = 'e8f38b72c0826d3570feef8aa25fd9733439a07eb909b25ae1f7edb064031eea']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9fd13a4c-1503-4092-a914-6d36c17ce782",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = '8d0c9d2e438f33dd7806ed8017baa1f114b6157f9f0eb1fb5d3b59351609120c']",
       "pattern_type": "stix",
@@ -524,10 +4108,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--fb384a58-dc69-41e1-8868-0321aab09f6d",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--ba1acda3-2dba-4627-a920-5f4cd5ad728d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = '82be7312055ea06867784fd3fa9483133f6ae2abb0a16903c701283646ac7eab']",
       "pattern_type": "stix",
@@ -538,10 +4122,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--79304d61-bfd8-4dac-9c19-2148b81d0767",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--bd64680b-52c9-421b-bd9d-e777ccca7b42",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '0a07365cc01fa9fc82608ba4019af499']",
       "pattern_type": "stix",
@@ -552,10 +4136,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--6c4fbd10-7c51-4c6d-bda2-1cf73f2947ce",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--123d034d-7304-475c-82fa-ca18917d6b17",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'f555226df1963d1d3c09daf865abdc9a']",
       "pattern_type": "stix",
@@ -566,10 +4150,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--76b7798f-393f-4486-9d35-e283e0b8f3ec",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--05ca574d-6166-4447-84f4-affe2ac7be5a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '3356ae6145fa86124298066e281ea2d9']",
       "pattern_type": "stix",
@@ -580,10 +4164,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--26f832f1-15b8-43fb-b351-ed712f60a2a1",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--5723dd7e-26c3-4b75-9318-553ab320510c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '98ddc5604ef6a1006a2b49a58759fbe6']",
       "pattern_type": "stix",
@@ -594,10 +4178,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--df80e4c2-40ef-4f29-b1fa-b168948582e5",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--419a5bef-bd5c-4c1f-9019-bfcd94ed9beb",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '03a80b21afa810682a776a7d42e5e6fb']",
       "pattern_type": "stix",
@@ -608,10 +4192,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--526d1d41-8dcd-4562-b310-97b2d0566d1d",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--f07259d0-9771-45cb-8696-4f41656488dc",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'eff4c24daffc8532c160e86e5f006e53']",
       "pattern_type": "stix",
@@ -622,10 +4206,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--e2a5ca38-a7ba-4066-b74f-3072b3738ac9",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--0efe81b1-e309-4110-9cde-b7a194f7839d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '46a2ae5b447a73d9fbe6516e4b25976e']",
       "pattern_type": "stix",
@@ -636,24 +4220,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--1f64d4c3-285c-41d7-878c-79eebea4f2fa",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
-      "name": "SSH client fingerprint",
-      "pattern": "[x-ssh-client-fingerprint:value = '89da11ae925d8e42f773c1908a42c97c']",
-      "pattern_type": "stix",
-      "labels": [
-        "botnet"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--d808f576-7ac1-4600-a8be-ba4573914c4f",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--16d2f2db-c289-448d-b295-6ad0baa16389",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'a2de0f306611e0957be704f5b0e35a82']",
       "pattern_type": "stix",
@@ -664,10 +4234,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--1c83a680-86d7-4df2-8ec4-336e1f05f3db",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--71d85510-b14a-4aac-801c-8070eddbbd05",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '14b2ddda386a4d1006108ccd231b42fc']",
       "pattern_type": "stix",
@@ -678,66 +4248,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--b8480b15-5e7e-4efb-91d0-4c7b805a5225",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
-      "name": "SSH client fingerprint",
-      "pattern": "[x-ssh-client-fingerprint:value = '5bd26477da5440a6187bd3f1b39a429c']",
-      "pattern_type": "stix",
-      "labels": [
-        "botnet"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--9736d337-f93a-4237-b46f-93740d3f9498",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
-      "name": "SSH client fingerprint",
-      "pattern": "[x-ssh-client-fingerprint:value = '16443846184eafde36765c9bab2f4397']",
-      "pattern_type": "stix",
-      "labels": [
-        "botnet"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--ce21487a-5a26-43fe-aad9-2015aa356728",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
-      "name": "SSH client fingerprint",
-      "pattern": "[x-ssh-client-fingerprint:value = '2ec37a7cc8daf20b10e1ad6221061ca5']",
-      "pattern_type": "stix",
-      "labels": [
-        "botnet"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--258817d4-f750-46be-a1bb-4704ea20a37d",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
-      "name": "SSH client fingerprint",
-      "pattern": "[x-ssh-client-fingerprint:value = '084386fa7ae5039bcf6f07298a05a227']",
-      "pattern_type": "stix",
-      "labels": [
-        "botnet"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--8433bbc6-ea09-4f97-b83c-3db5c7f65326",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--774a5283-c5f8-4831-b646-171f63939ea6",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '8c95e28f1643c38e5d64511b4d499e94']",
       "pattern_type": "stix",
@@ -748,10 +4262,80 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--65c9f365-1d82-49fe-813e-934c5bdce2cf",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--3359a2b8-a1c2-4068-bc19-5fa746544e99",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "SSH client fingerprint",
+      "pattern": "[x-ssh-client-fingerprint:value = '16443846184eafde36765c9bab2f4397']",
+      "pattern_type": "stix",
+      "labels": [
+        "botnet"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f2dffc7b-916c-427b-a33e-992326fa7663",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "SSH client fingerprint",
+      "pattern": "[x-ssh-client-fingerprint:value = '89da11ae925d8e42f773c1908a42c97c']",
+      "pattern_type": "stix",
+      "labels": [
+        "botnet"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f6c9a621-8f93-43ac-a16b-0a404c24272d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "SSH client fingerprint",
+      "pattern": "[x-ssh-client-fingerprint:value = '084386fa7ae5039bcf6f07298a05a227']",
+      "pattern_type": "stix",
+      "labels": [
+        "botnet"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--fea0bf1f-9d64-4056-b93b-c452b5f350af",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "SSH client fingerprint",
+      "pattern": "[x-ssh-client-fingerprint:value = '2ec37a7cc8daf20b10e1ad6221061ca5']",
+      "pattern_type": "stix",
+      "labels": [
+        "botnet"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5ca7b1c4-5573-4e32-ae2a-14b29d274eb6",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "SSH client fingerprint",
+      "pattern": "[x-ssh-client-fingerprint:value = '5bd26477da5440a6187bd3f1b39a429c']",
+      "pattern_type": "stix",
+      "labels": [
+        "botnet"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3420a98e-bcc4-4895-bb2e-0c2c4e8a888b",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'dd9bcf093c355da7000132131cb36fd0']",
       "pattern_type": "stix",
@@ -762,10 +4346,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--3dd60865-ebe3-4dec-b636-617df69cab2e",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--d81f7d70-fee8-4f6c-84f0-0869a8d7ed16",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'e54ef3ec27fe1fea7ab64d3fa05359fd']",
       "pattern_type": "stix",
@@ -776,38 +4360,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--adb4f4b4-5a7d-4f4c-b964-71d167a788b5",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
-      "name": "SSH client fingerprint",
-      "pattern": "[x-ssh-client-fingerprint:value = '7216c7c473918b4f83d1139b3c70dbf9']",
-      "pattern_type": "stix",
-      "labels": [
-        "botnet"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--5e9c6870-9c09-4d95-be19-34f8dabd9a4a",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
-      "name": "SSH client fingerprint",
-      "pattern": "[x-ssh-client-fingerprint:value = '748f8c627d3f8ff9921d02f86f55ba2c']",
-      "pattern_type": "stix",
-      "labels": [
-        "botnet"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--42bd6214-3bec-4051-b608-4215f15f368a",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--0aedf3f4-6cb0-45e3-93ba-d697d5d5d6f0",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '9052c4ab4164c78256e71143dcfc7eac']",
       "pattern_type": "stix",
@@ -818,10 +4374,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--6f2c5e74-0963-4117-a263-6f381878af26",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--d7b27883-1e0b-4525-99e1-a8f25520a82d",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '2aec6b44b06bec95d73f66b5d30cb69a']",
       "pattern_type": "stix",
@@ -832,10 +4388,24 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--3e27aa67-1124-461b-a300-7995441f443a",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--158f872a-618b-4a61-bccf-a1241d97ed65",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "SSH client fingerprint",
+      "pattern": "[x-ssh-client-fingerprint:value = '4c94058d5e9e31659879f79fd5b46084']",
+      "pattern_type": "stix",
+      "labels": [
+        "botnet"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--9326404c-b191-407a-a4c5-31739065b0fb",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '52c99fce46b6758a467102ce5bd1c565']",
       "pattern_type": "stix",
@@ -846,10 +4416,24 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--7261d270-ff1d-4769-84ea-35e563b95dcd",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--a1e401db-21d0-418a-b755-89de2d58bc31",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "SSH client fingerprint",
+      "pattern": "[x-ssh-client-fingerprint:value = '7216c7c473918b4f83d1139b3c70dbf9']",
+      "pattern_type": "stix",
+      "labels": [
+        "botnet"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--651dcd85-46a6-4f44-86f9-d5b70ba7ad2f",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '864cef7e4d8ad71d4fb1aadfcf0a3189']",
       "pattern_type": "stix",
@@ -860,10 +4444,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--ed6666c7-9e76-43dc-8048-25994fd94ede",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--2764052a-21e5-478d-9743-e6fd3750004a",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'a20aced7c9824fd804f59e68dd801ad3']",
       "pattern_type": "stix",
@@ -874,10 +4458,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--910bec53-083a-4d83-a2e6-9b6a19373606",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--ada77ac2-9327-494d-9537-0c7c426f978c",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'b4b8ae3d7241d2c1dc54b4df7e8c19d1']",
       "pattern_type": "stix",
@@ -888,10 +4472,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--d6e1f4ac-6f58-47bf-8950-6d26b2b1e4e2",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--e8240ebf-1d22-417a-86f5-5e616e1a7459",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'bc3aee897af7d3feb9fc37b89c7d15c9']",
       "pattern_type": "stix",
@@ -902,12 +4486,40 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--be97cce5-7e8b-4df3-af18-a0ed9bb286c6",
-      "created": "2026-10-28T03:34:24+00:00Z",
-      "modified": "2026-10-28T03:34:24+00:00Z",
-      "valid_from": "2026-10-28T03:34:24+00:00Z",
+      "id": "indicator--d559064a-da3d-4af1-9343-2f22b5d67762",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'dde267e50f82fcc16a7e1e7b59b8af71']",
+      "pattern_type": "stix",
+      "labels": [
+        "botnet"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2c0e7825-88ad-48e9-8b00-ebc71ed403e2",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "SSH client fingerprint",
+      "pattern": "[x-ssh-client-fingerprint:value = 'e788c657d1a22971d5026526ffd2e918']",
+      "pattern_type": "stix",
+      "labels": [
+        "botnet"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d59276eb-57da-4a14-9cd5-fb6c42fd68dc",
+      "created": "2026-10-28T06:10:10+00:00Z",
+      "modified": "2026-10-28T06:10:10+00:00Z",
+      "valid_from": "2026-10-28T06:10:10+00:00Z",
+      "name": "SSH client fingerprint",
+      "pattern": "[x-ssh-client-fingerprint:value = 'ec9ea89c70f5fc71cf61061bff5e4740']",
       "pattern_type": "stix",
       "labels": [
         "botnet"

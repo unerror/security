@@ -6,7 +6,7 @@
   },
   {
     "cve": "CVE-2018-13379",
-    "probes": 4,
+    "probes": 3,
     "example": "/remote/login"
   }
 ]
