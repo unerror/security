@@ -53,6 +53,10 @@ Corrections or takedown requests: `unerrorlabs@proton.me`.
 deliberately so that seed-phrase sweepers find it. It derives four addresses, all of
 them watched by a timer, and every sweep is recorded.
 
+Earlier commits in this repository contain another copy of that phrase — in
+`.env.backup` and base64-encoded in `secrets.yaml`, added and then removed. Those are bait
+too, and they are watched the same way.
+
 It holds nothing, and it should stay that way. **Any money sent to those addresses will
 be taken within minutes and cannot be recovered** — by you, or by me. That is the
 experiment, not an accident in it.
