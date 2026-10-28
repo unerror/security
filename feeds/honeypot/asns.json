@@ -1,0 +1,82 @@
+[
+  {
+    "asn_org": "Modat B.V.",
+    "events": 454579
+  },
+  {
+    "asn_org": "M247 Europe SRL",
+    "events": 63035
+  },
+  {
+    "asn_org": "Akamai Connected Cloud",
+    "events": 55167
+  },
+  {
+    "asn_org": "Datacamp Limited",
+    "events": 46161
+  },
+  {
+    "asn_org": "GSL Networks Pty LTD",
+    "events": 36185
+  },
+  {
+    "asn_org": "NewVM B.V.",
+    "events": 27498
+  },
+  {
+    "asn_org": "IENTC S DE RL DE CV",
+    "events": 25157
+  },
+  {
+    "asn_org": "Tamatiya EOOD",
+    "events": 21063
+  },
+  {
+    "asn_org": "DigitalOcean, LLC",
+    "events": 17857
+  },
+  {
+    "asn_org": "Cloudflare, Inc.",
+    "events": 16209
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 14911
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 12483
+  },
+  {
+    "asn_org": "Techoff Srv Limited",
+    "events": 10177
+  },
+  {
+    "asn_org": "Limited Network LTD",
+    "events": 9611
+  },
+  {
+    "asn_org": "Orion Network Limited",
+    "events": 8951
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 7057
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 6511
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 5344
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 4127
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 3961
+  }
+]
