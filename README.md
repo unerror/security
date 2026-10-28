@@ -12,9 +12,13 @@ Honeypot indicators. Refreshed every three hours.
 
 | file | contents |
 |---|---|
-| `hashes.txt` | SHA-256 of captured payloads, with the family name where one is known |
+| `hashes.txt` | SHA-256 of captured payloads of 1 KB or more, with the family name where known |
 | `hassh.txt` | SSH client fingerprints of the bots that connected |
 | `wallets.txt` | crypto payout addresses requested from fake RPC endpoints |
+| `contacted-domains.txt` | domains a payload would actually contact — only ones inside URLs |
+| `payload-urls.txt` | full URLs a payload fetches, including `IP:port` hosts |
+| `domains.txt` | every domain referenced by a sample, context only |
+| `ai-crawlers.json` | what GPTBot/ClaudeBot/OAI-SearchBot fetched, and whether they honoured robots |
 | `cves.json` | CVE probe counts — which exploit paths were tried, and how often |
 | `asns.json` | source ASNs ranked by volume, without any addresses |
 | `paths.txt` | `count<TAB>path` for what was requested — WAF food |
@@ -26,12 +30,18 @@ Honeypot indicators. Refreshed every three hours.
 Weekly, there is also `summary/<start>_<end>.md` — one page of prose about the week,
 in the repo root rather than under `feeds/`.
 
-### No IP addresses, on purpose
+### Whose address is it?
 
-A source IP on a public honeypot is nearly always a compromised camera, router or
+A scanner's IP on a public honeypot is nearly always a compromised camera, router or
 shared host with two hundred other tenants. Publishing those blocklists punishes
-victims and goes stale within days. Report scanner IPs to the provider's abuse contact
-(found via RDAP) or to AbuseIPDB, where they belong.
+victims and goes stale within days — report them to the provider's abuse contact
+(found via RDAP) or to AbuseIPDB instead.
+
+An address **inside a payload** is the opposite: when malware carries
+`http://45.9.2.239:24381/bins/adb/akuma.arm`, the operator chose that host and serves
+binaries from it. Those URLs are published in `payload-urls.txt`, because they are the
+most actionable thing a sample contains. The rule is whose address it is: a victim's
+is withheld, the attacker's is not.
 
 What is here — file hashes, wallet addresses, SSH client fingerprints, injected public
 keys — describes the tooling. It stays true longer and hurts nobody.
@@ -60,6 +70,13 @@ curl -fsS https://raw.githubusercontent.com/unerror/security/main/feeds/honeypot
   anyone exploited it, and it says nothing about targets other than this box.
 - Presence in these files is evidence of activity on one honeypot. Absence means
   nothing at all.
+
+## app/config
+
+Three client configs — OpenAI-compatible, Anthropic, MCP — pointing at the honeypot's
+AI decoys, with keys that authenticate nothing. They are bait for credential
+harvesters; `app/config/README.md` says what gets logged. Do not use them in anything
+real, and do not point an agent at them.
 
 ## Contact
 
