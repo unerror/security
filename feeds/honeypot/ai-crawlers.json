@@ -2,14 +2,14 @@
   {
     "crawler": "GPTBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-    "requests": 676,
+    "requests": 709,
     "read_robots": false,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/",
-        18
+        29
       ],
       [
         "/?author=1",
@@ -36,18 +36,18 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 278,
+    "requests": 382,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
-        49
+        86
       ],
       [
         "/",
-        22
+        39
       ],
       [
         "/?author=1",
@@ -70,14 +70,14 @@
   {
     "crawler": "OAI-SearchBot",
     "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt",
-    "requests": 29,
+    "requests": 40,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
-        29
+        40
       ]
     ]
   }
