@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T00:56:38+00:00",
+  "generated": "2026-10-28T01:01:25+00:00",
   "window_hours": 24,
   "schema": 1,
   "counts": {
@@ -8,7 +8,9 @@
     "hassh": 29,
     "ssh_public_keys": 1,
     "cves": 4,
-    "asns": 20
+    "asns": 20,
+    "paths": 399,
+    "useragents": 0
   },
   "files": [
     "iocs.csv",
@@ -17,7 +19,9 @@
     "hassh.txt",
     "wallets.txt",
     "cves.json",
-    "asns.json"
+    "asns.json",
+    "paths.txt",
+    "useragents.txt"
   ],
   "policy": "no IP addresses: scanners are usually compromised devices"
 }
