@@ -10,6 +10,7 @@ every six hours. Free to use; no warranty, no attribution required.
 | `wallets.txt` | crypto payout addresses from fake RPC endpoints |
 | `iocs.csv` | everything, with first/last seen and counts |
 | `iocs.stix.json` | the same as a STIX 2.1 bundle |
+| `wallet-sweeps.json` | addresses that emptied a published bait wallet |
 | `index.json` | generation time and counts, for change detection |
 
 ## Consume it
