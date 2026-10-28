@@ -73,8 +73,8 @@ curl -fsS https://raw.githubusercontent.com/unerror/security/main/feeds/honeypot
 
 ## app/config
 
-Three client configs — OpenAI-compatible, Anthropic, MCP — pointing at the honeypot's
-AI decoys, with keys that authenticate nothing. They are bait for credential
+Client configs — OpenAI-compatible, Anthropic, MCP, and a kubeconfig — pointing at the
+honeypot's decoys, with keys and a token that authenticate nothing. They are bait for credential
 harvesters; `app/config/README.md` says what gets logged. Do not use them in anything
 real, and do not point an agent at them.
 
