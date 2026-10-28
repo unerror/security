@@ -2,23 +2,25 @@
 
 None of this is live configuration. It is bait.
 
-The two AI endpoints referenced here belong to a honeypot:
+The endpoints referenced here belong to a honeypot:
 
 | file | endpoint |
 |---|---|
 | `llm.json` | `https://api.bytekill.dynv6.net/v1` — OpenAI-compatible chat completions |
 | `anthropic.json` | `https://api.bytekill.dynv6.net` — Anthropic messages API |
 | `mcp-servers.json` | `https://mcp.bytekill.dynv6.net/mcp` — MCP server |
+| `kubeconfig` | `https://api.bytekill.dynv6.net:6443` — Kubernetes API |
 
 They accept any request, record it in full — path, headers including `Authorization`,
-and the prompt — and answer with a fabricated completion or tool result. The keys in
-these files are invented and authenticate nothing. Do not point a real client or agent
-at them: whatever you send is collected and read by me.
+and any request body — and answer with a fabricated completion, tool result or API
+response. The keys and tokens in these files are invented and authenticate nothing. Do
+not point a real client, agent or `kubectl` at them: whatever you send is collected and
+read by me.
 
 ## Why they are here
 
 Credential harvesters walk public repositories continuously, looking for exactly these
-shapes: a client config with a key in it, an MCP server list. The same files are what a
+shapes: a client config with a key in it, an MCP server list, a committed kubeconfig. The same files are what a
 coding assistant reads when someone hands it a repository and asks what the code does,
 and what an agent picks up when it lands in a directory.
 
