@@ -1,12 +1,4 @@
-14	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 6	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-6	docs-cortex.paloaltonetworks.com
-3	visionheight.com
-2	cdn.bytekill.dynv6.net
-2	portal.bytekill.dynv6.net
+6	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 2	best-proxies.ru
-2	ip.bablosoft.com
-1	f.cc
-1	api.ipinfo.io
-1	github.com
-1	google.com
+1	azenv.net
