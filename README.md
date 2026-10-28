@@ -85,6 +85,9 @@ with keys and tokens that authenticate nothing. They are bait for credential har
 `app/config/README.md` says what gets logged. Do not use them in anything real, and do
 not point an agent at them.
 
+One of the AWS key pairs is a canarytokens tripwire rather than a dead key: using it
+against AWS reports the attempt back. The rest authenticate nothing.
+
 The `.env` also carries a BIP39 phrase, published so that seed-phrase sweepers find it.
 Its addresses are watched and every sweep is recorded in `feeds/honeypot/wallet-sweeps.json`.
 Money sent to them is taken; it does not come back.
