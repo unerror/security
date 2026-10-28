@@ -25,6 +25,7 @@ Honeypot indicators. Refreshed every three hours.
 | `useragents.txt` | `count<TAB>user-agent`, scanners and crawlers included |
 | `iocs.csv` | everything above in one table, with first and last seen |
 | `iocs.stix.json` | the same as a STIX 2.1 bundle |
+| `wallet-sweeps.json` | addresses that emptied a published bait wallet — attacker infrastructure |
 | `index.json` | generation time and counts, so you can poll without downloading everything |
 
 Weekly, there is also `summary/<start>_<end>.md` — one page of prose about the week,
@@ -73,10 +74,15 @@ curl -fsS https://raw.githubusercontent.com/unerror/security/main/feeds/honeypot
 
 ## app/config
 
-Client configs — OpenAI-compatible, Anthropic, MCP, and a kubeconfig — pointing at the
-honeypot's decoys, with keys and a token that authenticate nothing. They are bait for credential
-harvesters; `app/config/README.md` says what gets logged. Do not use them in anything
-real, and do not point an agent at them.
+Client configs and credentials — OpenAI-compatible, Anthropic, MCP, a kubeconfig, a
+`.env`, a deploy script and a `.docker/config.json` — pointing at the honeypot's decoys,
+with keys and tokens that authenticate nothing. They are bait for credential harvesters;
+`app/config/README.md` says what gets logged. Do not use them in anything real, and do
+not point an agent at them.
+
+The `.env` also carries a BIP39 phrase, published so that seed-phrase sweepers find it.
+Its addresses are watched and every sweep is recorded in `feeds/honeypot/wallet-sweeps.json`.
+Money sent to them is taken; it does not come back.
 
 ## Contact
 
