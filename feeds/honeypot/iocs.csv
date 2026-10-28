@@ -499,7 +499,7 @@ sha256,d71f411af9c0c6fcb953725527cd140e05e39e6481d7fa6b75b1c9d2eadb8fae,honeytra
 sha256,4d0d17d32fba19d7b3d03721f3ab45179ffd41bd27eaac8e7597bdb3489559d1,honeytrap,1,,
 sha256,c6cc43bb921a55d308566e6fc6d60f1aad3f060de7aa54eaa76bdc623c2fba19,honeytrap,1,,
 sha256,b6dce6e4a47d616763e23edbc062cc15c0ea7dfb3bdc617807300e0ee84a1f68,honeytrap,1,,
-hassh,f555226df1963d1d3c09daf865abdc9a,ssh client fingerprint,1135,,
+hassh,f555226df1963d1d3c09daf865abdc9a,ssh client fingerprint,1136,,
 hassh,3356ae6145fa86124298066e281ea2d9,ssh client fingerprint,55,,
 hassh,98ddc5604ef6a1006a2b49a58759fbe6,ssh client fingerprint,45,,
 hassh,eff4c24daffc8532c160e86e5f006e53,ssh client fingerprint,25,,

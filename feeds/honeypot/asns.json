@@ -1,11 +1,11 @@
 [
   {
     "asn_org": "OVH SAS",
-    "events": 333821
+    "events": 334310
   },
   {
     "asn_org": "Modat B.V.",
-    "events": 144288
+    "events": 144273
   },
   {
     "asn_org": "DigitalOcean, LLC",
@@ -13,7 +13,7 @@
   },
   {
     "asn_org": "Google LLC",
-    "events": 32779
+    "events": 32773
   },
   {
     "asn_org": "Tamatiya EOOD",
@@ -25,7 +25,7 @@
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 16217
+    "events": 16219
   },
   {
     "asn_org": "Swissnet LLC",
@@ -37,11 +37,11 @@
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 8256
+    "events": 8257
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 8092
+    "events": 8093
   },
   {
     "asn_org": "NewVM B.V.",
@@ -53,15 +53,15 @@
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 7263
+    "events": 7267
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 7059
+    "events": 7058
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 6564
+    "events": 6562
   },
   {
     "asn_org": "Alsycon B.V.",
