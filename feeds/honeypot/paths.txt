@@ -332,6 +332,7 @@
 8	/.git/logs/HEAD
 8	/2020/wp-includes/wlwmanifest.xml
 8	/2021/wp-includes/wlwmanifest.xml
+8	/SDK/webLanguage
 8	/backend/.env
 8	/backup/
 8	/blog/wp-includes/wlwmanifest.xml
@@ -396,4 +397,3 @@
 6	/.git/refs/remotes/origin/development
 6	/.git/refs/remotes/origin/main
 6	/.git/refs/remotes/origin/master
-6	/.git/refs/remotes/origin/production
