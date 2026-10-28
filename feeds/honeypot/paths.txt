@@ -1,4 +1,4 @@
-2917	/
+2916	/
 707	/favicon.ico
 519	/robots.txt
 321	/sitemap.xml
