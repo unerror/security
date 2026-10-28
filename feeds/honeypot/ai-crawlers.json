@@ -2,18 +2,18 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 854,
+    "requests": 918,
     "read_robots": true,
     "fetched_disallowed": 4,
     "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
-        310
+        342
       ],
       [
         "/sitemap.xml",
-        236
+        268
       ],
       [
         "/",
