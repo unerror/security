@@ -13,10 +13,13 @@ The endpoints referenced here belong to a honeypot:
 | `.env` | the same endpoints, plus credentials for all of them |
 | `../deploy.sh` | a git remote whose URL carries a token, on `git.` |
 | `/.docker/config.json` | registry credentials for `api.`, at the repo root |
+| `/.aws/credentials` | the same AWS pair, in the file shape harvesters look for |
 
 They accept any request, record it in full — path, headers including `Authorization`,
 and any request body — and answer with a fabricated completion, tool result or API
-response. The keys and tokens in these files are invented and authenticate nothing. Do
+response. The keys and tokens in these files are invented and authenticate nothing. The AWS pair
+is a canarytokens tripwire: it is not a key to anything, but using it against AWS reports
+the request back — including where it came from. Do
 not point a real client, agent or `kubectl` at them: whatever you send is collected and
 read by me.
 
