@@ -1,6 +1,6 @@
 819	root
 212	admin
-194	345gs5662d34
+191	345gs5662d34
 95	pakchoi
 65	cloud
 17	user
@@ -10,11 +10,9 @@
 10	super
 10	tunnel
 9	lghkel	
-9	nagios
 9	zalee	
 6	GET / HTTP/1.1
 6	administrator
-6	mongodb
 6	systemd
 5	Admin
 5	cht
@@ -45,6 +43,7 @@
 4	e8telnet
 4	jeri
 4	mackenzee
+4	nagios
 4	telnetadmin
 3	!!Huawei
 3	*1
@@ -62,6 +61,7 @@
 3	icap
 3	logs
 3	mcserver
+3	mongodb
 3	openerp
 3	operator
 3	service
@@ -88,7 +88,6 @@
 2	telecomadmin
 2	test1
 2	unerr7f3ac91d
-2	www
 1	888888
 1	Accept-Encoding: gzip, deflate, br
 1	AdminGPON
@@ -98,3 +97,4 @@
 1	User-Agent: curl/7.64.1
 1	brad
 1	carlo
+1	chetana

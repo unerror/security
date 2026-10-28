@@ -5,7 +5,7 @@
   },
   {
     "asn_org": "Modat B.V.",
-    "events": 137829
+    "events": 137767
   },
   {
     "asn_org": "IENTC S DE RL DE CV",
@@ -13,15 +13,15 @@
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 34510
+    "events": 34405
   },
   {
     "asn_org": "Google LLC",
-    "events": 34231
+    "events": 34229
   },
   {
     "asn_org": "Tamatiya EOOD",
-    "events": 25381
+    "events": 25370
   },
   {
     "asn_org": "Amazon.com, Inc.",
@@ -37,11 +37,11 @@
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 8666
+    "events": 8668
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 8228
+    "events": 8222
   },
   {
     "asn_org": "Limited Network LTD",
@@ -57,19 +57,19 @@
   },
   {
     "asn_org": "NewVM B.V.",
-    "events": 7075
+    "events": 7059
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 7015
+    "events": 7029
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 6535
+    "events": 6534
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 6357
+    "events": 6355
   },
   {
     "asn_org": "Brain Telecommunication Ltd.",
@@ -77,6 +77,6 @@
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 5308
+    "events": 5307
   }
 ]

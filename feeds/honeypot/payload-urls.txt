@@ -19,4 +19,7 @@
 2	http://45.9.2.239:24381/bins/adb/akuma.sh4
 2	http://45.9.2.239:24381/bins/adb/akuma.spc
 2	http://45.9.2.239:24381/bins/adb/akuma.x64
+2	https://best-proxies.ru/faq/#from
 1	https://infrawat.ch/
+1	http://httpbin.org/get
+1	http://azenv.net/
