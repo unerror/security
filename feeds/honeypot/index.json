@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-28T21:10:00+00:00",
+  "generated": "2026-10-28T22:20:19+00:00",
   "window_hours": 24,
   "schema": 1,
   "counts": {
-    "hashes": 41,
+    "hashes": 16,
     "wallets": 0,
     "hassh": 33,
     "ssh_public_keys": 1,
@@ -13,7 +13,8 @@
     "ja3": 100,
     "ja4": 100,
     "usernames": 100,
-    "novel_hashes": 38,
+    "wallet_sweeps": 0,
+    "novel_hashes": 13,
     "ai_crawlers": 3,
     "useragents": 200
   },
@@ -32,7 +33,8 @@
     "usernames.txt",
     "passwords.json",
     "novel.txt",
-    "ai-crawlers.json"
+    "ai-crawlers.json",
+    "wallet-sweeps.json"
   ],
   "policy": "no IP addresses: scanners are usually compromised devices"
 }
