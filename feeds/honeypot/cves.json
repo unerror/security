@@ -3,5 +3,10 @@
     "cve": "CVE-2021-26855",
     "probes": 51,
     "example": "/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application"
+  },
+  {
+    "cve": "CVE-2018-13379",
+    "probes": 1,
+    "example": "{\"@timestamp\": \"2026-10-28T20:41:45.853Z\", \"t-pot_ip_ext\": \"38.49.214.15\", \"host\": \"99a673612fb8\", \"t-pot_hostname\": \"mi"
   }
 ]
