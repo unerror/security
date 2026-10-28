@@ -36,33 +36,33 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 382,
+    "requests": 411,
     "read_robots": true,
-    "fetched_disallowed": 0,
+    "fetched_disallowed": 4,
     "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
-        86
+        101
       ],
       [
         "/",
-        39
+        40
       ],
       [
-        "/?author=1",
+        "/sitemap.xml",
+        23
+      ],
+      [
+        "/static/wp-admin/css/colors-fresh.css",
         21
       ],
       [
-        "/?cat=1",
+        "/static/wp-admin/css/wp-admin.css",
         21
       ],
       [
-        "/?feed=comments-rss2",
-        21
-      ],
-      [
-        "/?feed=rss2",
+        "/wp-login.php?action=lostpassword",
         21
       ]
     ]

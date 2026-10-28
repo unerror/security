@@ -1,3 +1,5 @@
 12	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 4	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+2	cdn.bytekill.dynv6.net
+2	portal.bytekill.dynv6.net
 1	docs-cortex.paloaltonetworks.com
