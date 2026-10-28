@@ -1,12 +1,12 @@
 11	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-9	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+10	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 8	visionheight.com
+4	best-proxies.ru
+3	api.ipify.org
 2	icanhazip.com
-2	best-proxies.ru
 1	f.cc
 1	httpbin.org
 1	azenv.net
-1	api.ipify.org
 1	nicehash.com
 1	pool-aus.supportxmr.com
 1	pool-ca.supportxmr.com

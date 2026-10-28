@@ -1,15 +1,15 @@
 {
   "type": "bundle",
-  "id": "bundle--58b180ef-9ca5-430b-9743-b8cfd142a7aa",
+  "id": "bundle--61f6287a-3984-421b-a4cf-f153766cf880",
   "spec_version": "2.1",
   "objects": [
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--3c4d6dbd-1f78-4cbb-abf9-2cf3a763ffe2",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--5e87dec2-33b5-4e6e-9b77-fafb0514a531",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload 2b527be3170abc9bfedc71b35947fa4e",
       "pattern": "[file:hashes.'SHA-256' = 'cd4ec81c95ba5fdcd1d0eebad794846b6d682a959ed4ecaa56a7eb98e2c779e7']",
       "pattern_type": "stix",
@@ -20,10 +20,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--45367991-799f-4790-b3d8-8fd3a3639c43",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--98a546d5-6e31-47a5-987f-71c47e59f367",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = '6c8f85db6604cf701c5fbe62c872e21625a51f7edb407f813eb67918722d33b7']",
       "pattern_type": "stix",
@@ -34,52 +34,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--15059a52-1902-4298-8a7a-ffae5bdde5e2",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload WannaCry",
-      "pattern": "[file:hashes.'SHA-256' = '7d8644271eb48be35e35f1d4c06649ba6878b4672f3d57bdea1f2ff9074bc434']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--63442f4d-ba1c-4cfe-aff4-a8aadba636ad",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload CoinMiner",
-      "pattern": "[file:hashes.'SHA-256' = 'a151d3f4f2422531f30a843ffb35479596c86722bb103bdf8591105687f9b125']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--21959ce6-fbba-4c16-8978-1b15b63899bb",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload WannaCry",
-      "pattern": "[file:hashes.'SHA-256' = 'fb648bfb485f910e065cc18778364a56be32044d1ac4729449f3cc28221b12e8']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--23b7c26a-e2a3-4246-9991-bb1e08a4481c",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--c174ad3d-7ba1-4b63-a2ef-4c6c5c1a7975",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload dionaea",
       "pattern": "[file:hashes.'SHA-256' = 'c825b86111f7bfae1806f63ac823dd3a4e1fd9658a769c6b6f13202c769bbda0']",
       "pattern_type": "stix",
@@ -90,10 +48,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--f7d21550-70d9-4c9b-93c0-281593d600ed",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--c4c3c4be-eaed-4c07-8651-54c320ab8843",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = 'e1fe02b7aedd39d08211ebc47b5af21a05f8be7a6cc2de2b20835f37a5919d37']",
       "pattern_type": "stix",
@@ -104,10 +62,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--26052586-f31b-4c77-a9d9-2a3a0dbc4d1a",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--3424a5f5-d8f3-4ac0-aca6-ad480a599f39",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = '77d5f73fac458463f937e51c25e24f7debe51fde274af689a322955cd5ca519a']",
       "pattern_type": "stix",
@@ -118,10 +76,24 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--9212f7bb-5c2b-4cf7-8d79-40cae6cab3a0",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--92bbe5f1-d929-47cf-ada9-0c7c928a45d8",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload CoinMiner",
+      "pattern": "[file:hashes.'SHA-256' = 'a151d3f4f2422531f30a843ffb35479596c86722bb103bdf8591105687f9b125']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--92b9e6b7-cc04-45fb-929b-6bdfe1d5acc9",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = '64bb708b31b4b043018457c1098465ea83da7d6408c7029b2f68c333fc25891c']",
       "pattern_type": "stix",
@@ -132,10 +104,24 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--531b31eb-8490-49f1-8c0a-5fae4a6885ae",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--9bc57a10-1e20-4dcd-beee-c9b0cbcc11ff",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload dionaea",
+      "pattern": "[file:hashes.'SHA-256' = 'b6c08aff47a8949e77b05eb6485678d070c49ed8f3c12f8af568d855c954fd37']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--896c9093-0b47-45b0-9b78-3b1b32d839d3",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload dionaea",
       "pattern": "[file:hashes.'SHA-256' = '042889c7d19b1c7aec30d171c1e147953907146ff5eb81e3bfc29ca83e962658']",
       "pattern_type": "stix",
@@ -146,10 +132,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--422f070e-4e4c-484f-a3c1-414c72b1df8e",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--8a9fac1b-9169-498b-83a5-7a06ab4a2348",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = '91ff9ef066c28fea00b124573868af71654ea2de7d54d0e927f3e281544d20ae']",
       "pattern_type": "stix",
@@ -160,10 +146,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--e7bb14a2-6669-4ba1-86ae-7f8914f2299f",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--b42e4950-0ff4-4c2b-ad4e-2bcab3fe1c03",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = 'b0e30d10f4286ad0385e153ad92aada9dd80dac64fc12a5136836bdc7d693014']",
       "pattern_type": "stix",
@@ -174,10 +160,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--2c45c5c0-cef5-4e47-acd2-f5de2ab8e789",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--4f2c36fc-0f0e-4fc5-bd3b-ee76acbb577d",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload WannaCry",
       "pattern": "[file:hashes.'SHA-256' = 'e55ff68c216152b45e9e2a900cc584907c16bfcfdeb5ed6cc83ec227af907661']",
       "pattern_type": "stix",
@@ -188,10 +174,24 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--4d5bbb9e-1cb4-4817-91a7-b4a5c4e9ed49",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--d8ebbc52-6d75-46ec-9b35-4fed5dff7e86",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload WannaCry",
+      "pattern": "[file:hashes.'SHA-256' = 'fb648bfb485f910e065cc18778364a56be32044d1ac4729449f3cc28221b12e8']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--3dcf77fc-f022-4e27-adb3-38b5135930d6",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload honeytrap",
       "pattern": "[file:hashes.'SHA-256' = '97225460f762cd2901cce35d4ecb83aa5e458ed3cadc59a5b180f17fa91ca1e4']",
       "pattern_type": "stix",
@@ -202,10 +202,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--5aae2d94-86a4-4d05-bf0e-c8d08566481e",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--ceef7850-1728-466e-98a3-4bafe97aabc8",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload honeytrap",
       "pattern": "[file:hashes.'SHA-256' = '4dfbcc5fa6a8f681e491710fc52fcce9d2a2a14cfe11dc35f4b76a29736d84b0']",
       "pattern_type": "stix",
@@ -216,10 +216,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--2c663dcd-be49-4a42-afa6-886f35d116c3",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--01646eeb-fbe0-43af-868b-6d733b85b715",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload honeytrap",
       "pattern": "[file:hashes.'SHA-256' = 'd47041554a2b024b99fd27cc8bf53036286955d60f8a2c9ca5e287548f7a87d0']",
       "pattern_type": "stix",
@@ -230,10 +230,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--9e96fb47-953e-45c0-b038-b6f6f2e20005",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--ff3f7743-ce88-4083-ab2d-e27028d016d8",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '0a07365cc01fa9fc82608ba4019af499']",
       "pattern_type": "stix",
@@ -244,10 +244,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--5a2c28eb-f1bc-4e0a-a69a-3c2efbc0f2db",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--b88a264b-051f-4571-8807-6a676387d9d7",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'f555226df1963d1d3c09daf865abdc9a']",
       "pattern_type": "stix",
@@ -258,10 +258,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--db0474ac-5c41-456f-baa1-aa50615fb1f2",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--feef63b2-62ab-44ac-849a-07a92c876754",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '3356ae6145fa86124298066e281ea2d9']",
       "pattern_type": "stix",
@@ -272,10 +272,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--a9f17e8e-8f51-42bc-a351-58a317541aff",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--dfb59d06-74da-412d-8585-e3497378f0f3",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '2ec37a7cc8daf20b10e1ad6221061ca5']",
       "pattern_type": "stix",
@@ -286,10 +286,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--6e3af405-7d7d-42f2-b73b-d276184779ac",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--a512f3a0-5e92-42e1-9e9e-a170cf2b17d4",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '98ddc5604ef6a1006a2b49a58759fbe6']",
       "pattern_type": "stix",
@@ -300,10 +300,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--390570c6-5356-4279-8901-aa2d9e5a0f4c",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--3792fa1d-480e-40c5-9ed1-50f3c77e5907",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '03a80b21afa810682a776a7d42e5e6fb']",
       "pattern_type": "stix",
@@ -314,10 +314,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--2ff97eef-0983-4e14-9b10-db92edb886d9",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--7795856b-203d-47d9-87ed-469436f34490",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '46a2ae5b447a73d9fbe6516e4b25976e']",
       "pattern_type": "stix",
@@ -328,10 +328,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--0b682d82-96c6-48f0-9674-d508abcbc98d",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--78d1fba2-6ce6-451a-a0cf-48caae8d49ac",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'eff4c24daffc8532c160e86e5f006e53']",
       "pattern_type": "stix",
@@ -342,10 +342,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--a3cf71ae-8210-4a7b-b2e3-9b43c435a095",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--c0fbecaa-c25a-446d-aaa9-76f20ff2d5de",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '16443846184eafde36765c9bab2f4397']",
       "pattern_type": "stix",
@@ -356,24 +356,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--3ea5a5dd-b31c-4fc0-a483-8067d6adbe53",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "SSH client fingerprint",
-      "pattern": "[x-ssh-client-fingerprint:value = 'e54ef3ec27fe1fea7ab64d3fa05359fd']",
-      "pattern_type": "stix",
-      "labels": [
-        "botnet"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--dfbcd636-9de6-4980-b609-bbc190f5e30f",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--64fda2a1-93eb-4e96-a9f6-2bdda056308a",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '084386fa7ae5039bcf6f07298a05a227']",
       "pattern_type": "stix",
@@ -384,38 +370,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--94646e27-4399-4f8e-8d1b-54d931716de6",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "SSH client fingerprint",
-      "pattern": "[x-ssh-client-fingerprint:value = '5bd26477da5440a6187bd3f1b39a429c']",
-      "pattern_type": "stix",
-      "labels": [
-        "botnet"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--6bc6b62a-6da8-4865-a96f-d02abc977d58",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "SSH client fingerprint",
-      "pattern": "[x-ssh-client-fingerprint:value = 'dd9bcf093c355da7000132131cb36fd0']",
-      "pattern_type": "stix",
-      "labels": [
-        "botnet"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--6d00e834-5e30-4494-9ce6-3aab1d0bffe2",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--8544dde6-bc1c-4764-a7f0-dd2333f9f7e1",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '89da11ae925d8e42f773c1908a42c97c']",
       "pattern_type": "stix",
@@ -426,10 +384,38 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--e9e78a34-7238-4353-8195-7271422ff053",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--e750a0a2-c1f1-4927-8c1d-367be5eb3af1",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "SSH client fingerprint",
+      "pattern": "[x-ssh-client-fingerprint:value = 'e54ef3ec27fe1fea7ab64d3fa05359fd']",
+      "pattern_type": "stix",
+      "labels": [
+        "botnet"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f53528bc-b193-4857-98fa-d1eecb001c14",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "SSH client fingerprint",
+      "pattern": "[x-ssh-client-fingerprint:value = '5bd26477da5440a6187bd3f1b39a429c']",
+      "pattern_type": "stix",
+      "labels": [
+        "botnet"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--2ae5889a-0482-41a1-9c9b-d985a8134ff4",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '98f63c4d9c87edbd97ed4747fa031019']",
       "pattern_type": "stix",
@@ -440,10 +426,24 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--16c9c7aa-4a47-4ca8-9794-16b80776e5ea",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--494b55e5-6eca-4092-b4e8-bd29f21bd2d8",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "SSH client fingerprint",
+      "pattern": "[x-ssh-client-fingerprint:value = 'dd9bcf093c355da7000132131cb36fd0']",
+      "pattern_type": "stix",
+      "labels": [
+        "botnet"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--7eb10acb-0d85-4738-a1a7-66c42a654867",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '52c99fce46b6758a467102ce5bd1c565']",
       "pattern_type": "stix",
@@ -454,10 +454,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--e1b39718-79f2-4edc-8e0c-f01e15e3dbac",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--727d11fb-7c2f-478b-9716-d2e5e559a112",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '748f8c627d3f8ff9921d02f86f55ba2c']",
       "pattern_type": "stix",
@@ -468,10 +468,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--da34c2f6-2062-4c14-b23a-f4d4fa151da7",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--5d6013d6-c910-495f-8144-1384705f9163",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '8c95e28f1643c38e5d64511b4d499e94']",
       "pattern_type": "stix",
@@ -482,10 +482,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--d5be2986-2025-4a2a-be59-4391d5c9c588",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--ee4b70c9-b3c0-4d2f-886a-a6701ae86784",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'af8223ac9914f509afdadfaf5f7ee94e']",
       "pattern_type": "stix",
@@ -496,10 +496,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--cc53bfa6-216e-49a6-97b8-a2d45f47f584",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--fe9b8089-12d4-4810-af6a-3788c4430751",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'b21d7cdcc8133dc2b430d1a039fece20']",
       "pattern_type": "stix",
@@ -510,10 +510,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--5a49060e-af73-4012-821f-409a43ac229c",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--e6f89f5a-b686-437c-bd5d-aa9f9f03d457",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'a2de0f306611e0957be704f5b0e35a82']",
       "pattern_type": "stix",
@@ -524,10 +524,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--b3e77dcb-6595-48ff-8021-ad4f246a6fbd",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--52aeb657-1964-4636-8045-bbf38a61a489",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'a704be057881f0b1d623cd263e477a8b']",
       "pattern_type": "stix",
@@ -538,10 +538,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--7484793f-b5d1-42f6-8c06-65265dbfbf13",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--bce803f8-79cc-4625-97d0-e6f4330f6773",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '19532158b559096b89b1a5f7d17175b2']",
       "pattern_type": "stix",
@@ -552,10 +552,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--a793e738-409d-43ca-a0ba-553538417156",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--47640cbb-31a2-48d0-a71d-a535819a3442",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '4c94058d5e9e31659879f79fd5b46084']",
       "pattern_type": "stix",
@@ -566,10 +566,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--5a0c2667-b4cb-4cec-840b-485bcf6c4d0d",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--15993422-c14d-483a-b679-2683c6ad72e0",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '7216c7c473918b4f83d1139b3c70dbf9']",
       "pattern_type": "stix",
@@ -580,10 +580,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--5b1bbb3c-79ae-4e90-9d96-52dbc41d73cb",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--51259394-f553-402a-a003-caa8546710f5",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '80ed13ac81995cbc726bddf8d56cf461']",
       "pattern_type": "stix",
@@ -594,10 +594,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--9b3a63bf-bfb6-45f1-82b4-60fe91d651c5",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--621e9812-00b7-46fd-8cb9-917267460fc4",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = '9052c4ab4164c78256e71143dcfc7eac']",
       "pattern_type": "stix",
@@ -608,10 +608,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--c0c13835-d769-40b3-8e6e-53cfcddee2bd",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--6e69add8-cedc-4311-a647-f19f8b3e3b7e",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'a20aced7c9824fd804f59e68dd801ad3']",
       "pattern_type": "stix",
@@ -622,10 +622,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--af6c1884-8644-4177-aeec-7561638ce9ce",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--47bc3894-7f66-4fa4-8001-3d675954bc4b",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'b4b8ae3d7241d2c1dc54b4df7e8c19d1']",
       "pattern_type": "stix",
@@ -636,10 +636,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--b9726b7b-48da-4c98-b4ed-5deafbfd8037",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--63fec4f4-7d06-46ea-9e91-02d595acab8f",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'dde267e50f82fcc16a7e1e7b59b8af71']",
       "pattern_type": "stix",
@@ -650,10 +650,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--e6b42015-b8f1-4a9d-aa88-a0f03b4128fd",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--161c8ff6-740b-49f1-9620-1903a14f87f4",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'e37f354a101aff5871ba233aa82b84ec']",
       "pattern_type": "stix",
@@ -664,10 +664,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--45ec2fbe-ccf7-4326-ac82-d37595122aa9",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--b1cb5be6-793f-4d8c-81d5-fe4cce5aa7f9",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'e788c657d1a22971d5026526ffd2e918']",
       "pattern_type": "stix",
@@ -678,10 +678,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--f6f5875d-cf96-4fd1-ae40-f6af0d601c1c",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--199f38e1-6ba0-4c7f-81eb-2e52eb62e636",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "SSH client fingerprint",
       "pattern": "[x-ssh-client-fingerprint:value = 'ec9ea89c70f5fc71cf61061bff5e4740']",
       "pattern_type": "stix",
@@ -692,10 +692,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--12475a63-7f44-472b-8482-2ea8f3ba5daf",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--8a40d3ba-0bd0-414e-9df1-cfc80a97907c",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com']",
       "pattern_type": "stix",
@@ -706,10 +706,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--739830d2-ef18-47d7-941c-0c6632766619",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--834b250d-c574-46d3-bcff-0a6b4f17d297",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com']",
       "pattern_type": "stix",
@@ -720,276 +720,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--6b0b426c-5311-4733-bf05-86eecd960bcf",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.arc']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--4f558de8-aa8e-4e32-a8bc-f84ba9af3a0e",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.arm']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--64708c23-220d-48dd-8312-ba1283ba5860",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.arm5']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--1e95c280-ff0c-4087-a65a-bdd3b8d8219f",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.arm6']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--4fbaf122-44c5-43a2-9d92-687422193d76",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.arm64']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--c16d9b1c-2f19-4ac7-b3b4-d5abf4f4c0e5",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.arm7']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--204f381e-3936-436e-8021-363696fefe7e",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.i486']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--ca6343bc-1a8c-47be-a52b-effa86404e55",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.i586']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--e7fe4fba-46cf-430c-a656-cfaf62668f7e",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.i686']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--31f06565-5e8b-4b73-bb55-2c73dffdd27f",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.m68k']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--64b0ab71-d6d0-4be3-ae4d-c5fe2ee6cf9b",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.mips']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--8da44d51-f44e-40fc-aa1d-b579c911f7de",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.mps64']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--7a865c39-6615-4d17-ab1f-efd82d0167d5",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.mpsl']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--8a42b5d1-923d-4fbd-88e9-4f3695016a4e",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.ppc']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--1d6aa4da-0ad1-4c2f-a465-9b6915c71f0d",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.riscv32']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--321eb1ec-0a21-4fb0-9e91-7a55b2461e32",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.riscv64']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--6e497a55-6526-48c3-a91f-ad2c5e9df2a0",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.sh4']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--7d2fd88b-76cb-4d4a-8830-e35c715b95c6",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.spc']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--f014a065-f5d4-4300-a688-72f8700c3048",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload delivery URL",
-      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.x64']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--a2673445-8891-44e0-8ce9-0142883280fe",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--503412db-ffa2-454a-97e8-e11adf109fb3",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'https://best-proxies.ru/faq/#from']",
       "pattern_type": "stix",
@@ -1000,10 +734,276 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--04b1ee6b-a892-419e-b452-45d409bfadca",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--12db62ff-26d3-4690-a850-14594c909336",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.arc']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--933446bb-7708-4b6f-a18b-13973134824e",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.arm']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--00be43e3-a653-4757-8d36-8071605cc2bd",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.arm5']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--afc67e8a-4523-401a-bfe8-9b84fee58162",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.arm6']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b1dd5052-bc1a-4cdc-a0af-ab706c07650a",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.arm64']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--c2b1caee-9d29-40c0-8fdd-c2c513dd46ab",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.arm7']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4666b2cf-5c54-4284-a145-6cc108a0b92b",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.i486']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--a60fbfde-676d-4bbe-8b88-8f7e2915cca9",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.i586']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--25f62601-ebc3-4959-8dae-6d00b7c7abe0",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.i686']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--649195c7-f533-4b7f-bb11-a976a6c85fec",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.m68k']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--8ce061da-a31f-4ced-93ed-8dbceecc3fe8",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.mips']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--279c80d8-0f87-4c22-9fe9-35895181ec67",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.mps64']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5cea88ec-4164-48a3-a75b-8c6d5096d2d6",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.mpsl']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--cfe65521-2730-422f-90b0-2071afd1e41b",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.ppc']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--1494ca27-91bb-4b12-b5cc-9d64074e2e08",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.riscv32']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--72922e9b-4326-4c1e-bfeb-8b5466de5a5d",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.riscv64']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d036cd7f-4d7a-4ae2-8c8e-4eb19d2e594a",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.sh4']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--4c0b5010-cd87-40b5-840d-592b56310eed",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.spc']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--83b31d70-dfae-46b3-9dec-14cbf53e1697",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://45.9.2.239:24381/bins/adb/akuma.x64']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--196b9962-89fc-4ec5-a050-22288d125a2c",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'https://infrawat.ch/']",
       "pattern_type": "stix",
@@ -1014,10 +1014,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--2661a269-f4be-4491-b3be-903ef4766caf",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--c8a564f0-e64c-4746-b55f-c5eddf8703a7",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'http://httpbin.org/get']",
       "pattern_type": "stix",
@@ -1028,10 +1028,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--97069416-39da-4c93-90aa-23b5eb0df671",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--01448f19-fb45-4499-87fd-3a06974077ab",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'http://azenv.net/']",
       "pattern_type": "stix",
@@ -1042,10 +1042,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--1c2fe2bc-a82e-4969-906b-867b853cddbd",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--f52712f2-519e-4b6f-9acb-40f1b2788a5c",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'http://api.ipify.org']",
       "pattern_type": "stix",
@@ -1056,10 +1056,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--334756c1-f824-42c3-b342-5449b7504641",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--52931efa-844e-4b86-9384-39c9dc028dce",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'http://icanhazip.com']",
       "pattern_type": "stix",
@@ -1070,10 +1070,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--9af10f7f-8fb5-4c19-9f72-5242711c5848",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--c2153824-0a43-4087-ba66-65ae4a069d3c",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'http://ifconfig.me/ip']",
       "pattern_type": "stix",
@@ -1084,10 +1084,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--36a82144-d1f7-48d2-b5f5-59c81d9c13b4",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--9ab25bd6-94d5-4961-b78d-0ec0824263b8",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'https://1.1.1.1/cdn-cgi/trace']",
       "pattern_type": "stix",
@@ -1098,10 +1098,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--f3968c15-4714-4ab6-b117-a30c9822c000",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--95a607c3-5203-4187-9115-cb3f13adef76",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'https://curl.se/docs/alt-svc.html']",
       "pattern_type": "stix",
@@ -1112,10 +1112,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--62ba620e-561d-4114-ae39-218af0376d7e",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--1f0cd39a-48ce-476c-a20a-daa9a8c03876",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'https://curl.se/docs/http-cookies.html']",
       "pattern_type": "stix",
@@ -1126,10 +1126,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--6b755d85-54bd-4c21-8fdc-d84801da4abd",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--f91e9ee2-bfc0-40ec-bce5-8622ca0bd8b6",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'https://xmrig.com/wizard']",
       "pattern_type": "stix",
@@ -1140,10 +1140,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--305f4dec-6275-4aaf-81cb-266a10193c70",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--074b1356-56ff-40e0-8631-cacce3513213",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload delivery URL",
       "pattern": "[url:value = 'https://apcosys.net']",
       "pattern_type": "stix",
@@ -1154,10 +1154,24 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--f7136e1b-1d61-4efd-a04b-5cb36edfee3c",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--492c512c-4f39-4ea7-8ab1-a08837bffd37",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload delivery URL",
+      "pattern": "[url:value = 'http://api.ipify.org?Z71720080460Q1']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--50ce92cb-dbe6-40f7-83e8-1639d74a1c6e",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload-referenced domain",
       "pattern": "[domain-name:value = 'www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com']",
       "pattern_type": "stix",
@@ -1168,10 +1182,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--9af49fcf-d5dd-465c-847a-9b3cf1d10239",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--1a05843b-8f1a-4568-aee5-dd4f3f5a8324",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload-referenced domain",
       "pattern": "[domain-name:value = 'www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com']",
       "pattern_type": "stix",
@@ -1182,10 +1196,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--dd946a8a-0f02-45b0-bc06-d41b16c8041b",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--e433b097-f34a-46cc-8db6-505882d75e92",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload-referenced domain",
       "pattern": "[domain-name:value = 'best-proxies.ru']",
       "pattern_type": "stix",
@@ -1196,38 +1210,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--5e3e839e-d2a7-4c64-ae05-66a684572267",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload-referenced domain",
-      "pattern": "[domain-name:value = 'httpbin.org']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--7ffb03e0-8871-4c48-8854-ba5b8cad0c84",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
-      "name": "payload-referenced domain",
-      "pattern": "[domain-name:value = 'azenv.net']",
-      "pattern_type": "stix",
-      "labels": [
-        "malicious-activity"
-      ]
-    },
-    {
-      "type": "indicator",
-      "spec_version": "2.1",
-      "id": "indicator--e5de7e76-a6cd-4d6c-a919-6031ba808d16",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--153be91c-868d-4b6e-ae1d-6d01cd24b6bb",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload-referenced domain",
       "pattern": "[domain-name:value = 'api.ipify.org']",
       "pattern_type": "stix",
@@ -1238,10 +1224,38 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--da3dc32c-e6f9-416a-8f70-36ec924c89ea",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--79e85a32-80cd-42d6-9891-d17f006f07ba",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload-referenced domain",
+      "pattern": "[domain-name:value = 'httpbin.org']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--6da6ddc7-0155-4429-b129-e259ee34a283",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
+      "name": "payload-referenced domain",
+      "pattern": "[domain-name:value = 'azenv.net']",
+      "pattern_type": "stix",
+      "labels": [
+        "malicious-activity"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e41331a9-c471-4dc3-8fb8-eb5684f6d5f9",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload-referenced domain",
       "pattern": "[domain-name:value = 'icanhazip.com']",
       "pattern_type": "stix",
@@ -1252,10 +1266,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--71973133-b936-448e-b077-05efbe6d4d75",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--5ea1e749-6850-4c9e-8712-b33bfcfb6e6b",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload-referenced domain",
       "pattern": "[domain-name:value = 'xmrig.com']",
       "pattern_type": "stix",
@@ -1266,10 +1280,10 @@
     {
       "type": "indicator",
       "spec_version": "2.1",
-      "id": "indicator--ff22bf0c-24bb-433f-a8fb-63092c0af5d6",
-      "created": "2026-10-28T22:20:20+00:00Z",
-      "modified": "2026-10-28T22:20:20+00:00Z",
-      "valid_from": "2026-10-28T22:20:20+00:00Z",
+      "id": "indicator--54dbcb2e-cc86-4f87-8499-239e49d079f8",
+      "created": "2026-10-28T22:50:07+00:00Z",
+      "modified": "2026-10-28T22:50:07+00:00Z",
+      "valid_from": "2026-10-28T22:50:07+00:00Z",
       "name": "payload-referenced domain",
       "pattern": "[domain-name:value = 'apcosys.net']",
       "pattern_type": "stix",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T22:20:19+00:00",
+  "generated": "2026-10-28T22:50:07+00:00",
   "window_hours": 24,
   "schema": 1,
   "counts": {
@@ -14,7 +14,7 @@
     "ja4": 100,
     "usernames": 100,
     "wallet_sweeps": 0,
-    "novel_hashes": 13,
+    "novel_hashes": 14,
     "ai_crawlers": 3,
     "useragents": 200
   },

@@ -1,9 +1,9 @@
 11	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-9	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
-2	best-proxies.ru
+10	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+4	best-proxies.ru
+2	api.ipify.org
 1	httpbin.org
 1	azenv.net
-1	api.ipify.org
 1	icanhazip.com
 1	xmrig.com
 1	apcosys.net
