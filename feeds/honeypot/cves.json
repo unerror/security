@@ -8,10 +8,5 @@
     "cve": "CVE-2018-13379",
     "probes": 4,
     "example": "/remote/login"
-  },
-  {
-    "cve": "CVE-2021-41773",
-    "probes": 2,
-    "example": "/cgi-bin/.%2e/.%2e/.%2e/.%2e/etc/passwd"
   }
 ]
