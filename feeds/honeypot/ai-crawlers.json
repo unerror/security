@@ -2,18 +2,18 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 918,
+    "requests": 1018,
     "read_robots": true,
     "fetched_disallowed": 4,
     "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
-        342
+        392
       ],
       [
         "/sitemap.xml",
-        268
+        318
       ],
       [
         "/",
@@ -70,14 +70,14 @@
   {
     "crawler": "OAI-SearchBot",
     "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt",
-    "requests": 40,
+    "requests": 41,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
-        40
+        41
       ]
     ]
   }
