@@ -1,11 +1,11 @@
-1251	/
+1260	/
 153	/favicon.ico
 136	/wp-login.php
 106	/static/wp-content/themes/twentyeleven/style.css
 75	/static/wp-content/themes/twentyeleven/images/comment-bubble.png
 75	/static/wp-content/themes/twentyeleven/images/search.png
 73	/.env
-66	/robots.txt
+73	/robots.txt
 64	/?p=1
 56	/?rest_route=/batch/v1
 53	/.vscode/sftp.json

@@ -37,3 +37,5 @@ injected public keys — identifies the tooling, not a person, and stays true lo
 
 Presence in this feed is evidence of malicious activity on one honeypot. Absence
 means nothing.
+
+Corrections, false positives or takedown requests: unerrorlabs@proton.me
