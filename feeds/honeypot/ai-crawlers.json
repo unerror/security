@@ -5,6 +5,7 @@
     "requests": 676,
     "read_robots": false,
     "fetched_disallowed": 0,
+    "fetched_private": 0,
     "top_paths": [
       [
         "/",
@@ -38,6 +39,7 @@
     "requests": 278,
     "read_robots": true,
     "fetched_disallowed": 0,
+    "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
@@ -71,6 +73,7 @@
     "requests": 29,
     "read_robots": true,
     "fetched_disallowed": 0,
+    "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
