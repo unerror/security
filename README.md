@@ -17,9 +17,14 @@ Honeypot indicators. Refreshed every three hours.
 | `wallets.txt` | crypto payout addresses requested from fake RPC endpoints |
 | `cves.json` | CVE probe counts — which exploit paths were tried, and how often |
 | `asns.json` | source ASNs ranked by volume, without any addresses |
+| `paths.txt` | `count<TAB>path` for what was requested — WAF food |
+| `useragents.txt` | `count<TAB>user-agent`, scanners and crawlers included |
 | `iocs.csv` | everything above in one table, with first and last seen |
 | `iocs.stix.json` | the same as a STIX 2.1 bundle |
 | `index.json` | generation time and counts, so you can poll without downloading everything |
+
+Weekly, there is also `summary/<start>_<end>.md` — one page of prose about the week,
+in the repo root rather than under `feeds/`.
 
 ### No IP addresses, on purpose
 
@@ -55,6 +60,11 @@ curl -fsS https://raw.githubusercontent.com/unerror/security/main/feeds/honeypot
   anyone exploited it, and it says nothing about targets other than this box.
 - Presence in these files is evidence of activity on one honeypot. Absence means
   nothing at all.
+
+## Contact
+
+`unerrorlabs@proton.me` for corrections, takedown requests or a false positive.
+Include the file and the value; I can pull anything that is wrong.
 
 ## Use
 
