@@ -1,5 +1,5 @@
-9	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-6	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+10	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+8	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 2	http://45.9.2.239:24381/bins/adb/akuma.arc
 2	http://45.9.2.239:24381/bins/adb/akuma.arm
 2	http://45.9.2.239:24381/bins/adb/akuma.arm5
@@ -23,3 +23,10 @@
 1	https://infrawat.ch/
 1	http://httpbin.org/get
 1	http://azenv.net/
+1	http://api.ipify.org
+1	http://icanhazip.com
+1	http://ifconfig.me/ip
+1	https://1.1.1.1/cdn-cgi/trace
+1	https://curl.se/docs/alt-svc.html
+1	https://curl.se/docs/http-cookies.html
+1	https://xmrig.com/wizard
