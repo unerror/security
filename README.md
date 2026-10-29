@@ -77,6 +77,20 @@ curl -fsS https://raw.githubusercontent.com/unerror/security/main/feeds/honeypot
 - Presence in these files is evidence of activity on one honeypot. Absence means
   nothing at all.
 
+## sites.json
+
+Every hostname this honeypot answers on, 43 of them, with a coarse role: clones of
+GitLab, MediaWiki, Joomla, Tomcat and Grav, a static bait tree, and the AI endpoints at
+`api.` and `mcp.`. All of it is a decoy.
+
+Publishing the list is not a disclosure — every name has been in Certificate Transparency
+since its certificate was issued, so a scanner that cares has had it for weeks. What this
+adds is one place to find the surface and an explicit statement that **scanning it is
+permitted and expected**. Requests, headers and submitted data are recorded; source
+addresses are never published.
+
+Roles are coarse on purpose. `"role": "ai"` says the endpoint exists, not how it answers.
+
 ## app/config
 
 Client configs and credentials — OpenAI-compatible, Anthropic, MCP, a kubeconfig, a
