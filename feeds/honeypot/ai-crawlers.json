@@ -2,82 +2,82 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 1440,
+    "requests": 1154,
     "read_robots": true,
     "fetched_disallowed": 4,
     "fetched_private": 0,
     "top_paths": [
       [
-        "/robots.txt",
-        602
-      ],
-      [
         "/sitemap.xml",
-        536
+        566
       ],
       [
-        "/",
-        34
+        "/robots.txt",
+        559
+      ],
+      [
+        "/invoice-4471.pdf",
+        3
+      ],
+      [
+        "/offer-letter.docx",
+        3
+      ],
+      [
+        "/payroll-2026.xlsx",
+        3
       ],
       [
         "/?author=1",
-        22
-      ],
-      [
-        "/?feed=comments-rss2",
-        22
-      ],
-      [
-        "/?m=201206",
-        22
+        2
       ]
     ]
   },
   {
     "crawler": "GPTBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-    "requests": 514,
+    "requests": 48,
     "read_robots": false,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/",
-        22
+        1
       ],
       [
         "/?author=1",
-        10
+        1
       ],
       [
         "/?cat=1",
-        10
+        1
       ],
       [
         "/?feed=comments-rss2",
-        10
+        1
       ],
       [
         "/?feed=rss2",
-        10
+        1
       ],
       [
         "/?m=201206",
-        10
+        1
       ]
     ]
   },
   {
     "crawler": "OAI-SearchBot",
     "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt",
-    "requests": 33,
+    "requests": 4,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
-        33
+        4
       ]
     ]
   }
