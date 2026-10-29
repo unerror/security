@@ -2,18 +2,18 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 1154,
+    "requests": 1117,
     "read_robots": true,
-    "fetched_disallowed": 4,
+    "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/sitemap.xml",
-        566
+        549
       ],
       [
         "/robots.txt",
-        559
+        544
       ],
       [
         "/invoice-4471.pdf",

@@ -1,7 +1,7 @@
 [
   {
     "asn_org": "OVH SAS",
-    "events": 343008
+    "events": 342933
   },
   {
     "asn_org": "Hydra Communications Ltd",
@@ -9,19 +9,19 @@
   },
   {
     "asn_org": "Google LLC",
-    "events": 39899
+    "events": 39203
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 34347
+    "events": 34767
   },
   {
     "asn_org": "Tamatiya EOOD",
-    "events": 31352
+    "events": 31566
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 29194
+    "events": 29273
   },
   {
     "asn_org": "Swissnet LLC",
@@ -33,15 +33,15 @@
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 21013
+    "events": 20510
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 17553
+    "events": 17748
   },
   {
     "asn_org": "Cloudflare, Inc.",
-    "events": 13502
+    "events": 13448
   },
   {
     "asn_org": "Tc Datacenter Limited",
@@ -49,34 +49,34 @@
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 10276
+    "events": 10299
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 7935
+    "events": 7985
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 7860
+    "events": 7844
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 7785
-  },
-  {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 7465
+    "events": 7782
   },
   {
     "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 7363
+    "events": 7475
+  },
+  {
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 7473
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 6505
+    "events": 6515
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 6278
+    "events": 6384
   }
 ]
