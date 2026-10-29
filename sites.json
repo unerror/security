@@ -1,0 +1,179 @@
+{
+  "domain": "bytekill.dynv6.net",
+  "note": "Every hostname below is a decoy run by a public honeypot. Scanning is permitted and expected; requests, headers and submitted data are recorded. See the repository README. No source addresses are published.",
+  "count": 43,
+  "sites": [
+    {
+      "host": "admin.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "api.bytekill.dynv6.net",
+      "role": "ai"
+    },
+    {
+      "host": "app.bytekill.dynv6.net",
+      "role": "webapp"
+    },
+    {
+      "host": "autodiscover.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "backup.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "backups.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "blog.bytekill.dynv6.net",
+      "role": "webapp"
+    },
+    {
+      "host": "bookings.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "cache.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "canary.bytekill.dynv6.net",
+      "role": "canary"
+    },
+    {
+      "host": "cctv.bytekill.dynv6.net",
+      "role": "webapp"
+    },
+    {
+      "host": "cdn.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "community.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "confluence.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "corp.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "cpanel.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "crm.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "db.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "dbadmin.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "demo.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "devel.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "directory.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "domain-controller.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "domaincontrolpanel.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "domainmanagement.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "downloads.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "drupal.bytekill.dynv6.net",
+      "role": "webapp"
+    },
+    {
+      "host": "files.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "git.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "gitlab.bytekill.dynv6.net",
+      "role": "webapp"
+    },
+    {
+      "host": "intranet.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "jenkins.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "jira.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "joomla.bytekill.dynv6.net",
+      "role": "webapp"
+    },
+    {
+      "host": "mail.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "mcp.bytekill.dynv6.net",
+      "role": "ai"
+    },
+    {
+      "host": "portal.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "sso.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "staging.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "tomcat.bytekill.dynv6.net",
+      "role": "webapp"
+    },
+    {
+      "host": "vpn.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "webmail.bytekill.dynv6.net",
+      "role": "decoy"
+    },
+    {
+      "host": "wiki.bytekill.dynv6.net",
+      "role": "webapp"
+    }
+  ]
+}
