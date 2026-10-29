@@ -1,4 +1,4 @@
-17	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+19	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 14	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 4	https://best-proxies.ru/faq/#from
 2	http://45.9.2.239:24381/bins/adb/akuma.arc
@@ -33,3 +33,4 @@
 1	https://apcosys.net
 1	http://api.ipify.org?Z71720080460Q1
 1	http://38.49.214.15:4444/
+1	http://38.49.214.15:10000/
