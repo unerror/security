@@ -2,34 +2,18 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 1117,
+    "requests": 976,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/sitemap.xml",
-        549
+        489
       ],
       [
         "/robots.txt",
-        544
-      ],
-      [
-        "/invoice-4471.pdf",
-        3
-      ],
-      [
-        "/offer-letter.docx",
-        3
-      ],
-      [
-        "/payroll-2026.xlsx",
-        3
-      ],
-      [
-        "/?author=1",
-        2
+        487
       ]
     ]
   },

@@ -1,5 +1,5 @@
-12	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-10	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+14	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+12	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 9	visionheight.com
 4	best-proxies.ru
 3	api.ipify.org
@@ -17,3 +17,5 @@
 1	pool-sg.supportxmr.com
 1	xmrig.com
 1	apcosys.net
+1	libssh.org
+1	openssh.com
