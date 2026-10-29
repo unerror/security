@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "OVH SAS",
-    "events": 266204
+    "events": 145015
   },
   {
     "asn_org": "Hydra Communications Ltd",
-    "events": 64846
+    "events": 72583
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 51027
   },
   {
     "asn_org": "IENTC S DE RL DE CV",
     "events": 50844
   },
   {
-    "asn_org": "Banatsync Srl",
-    "events": 41553
-  },
-  {
     "asn_org": "Google LLC",
-    "events": 35812
+    "events": 36163
   },
   {
     "asn_org": "Tamatiya EOOD",
-    "events": 31918
+    "events": 31588
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 29590
+    "events": 29175
   },
   {
     "asn_org": "Swissnet LLC",
     "events": 27984
   },
   {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 18975
+    "asn_org": "ONYPHE SAS",
+    "events": 17846
   },
   {
-    "asn_org": "ONYPHE SAS",
-    "events": 17807
+    "asn_org": "Amazon.com, Inc.",
+    "events": 17288
   },
   {
     "asn_org": "Cloudflare, Inc.",
-    "events": 14598
+    "events": 12782
+  },
+  {
+    "asn_org": "F.n.s. Holdings Limited",
+    "events": 12026
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 10277
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 8450
+    "events": 9831
   },
   {
     "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 8101
+    "events": 8362
   },
   {
-    "asn_org": "Tc Datacenter Limited",
-    "events": 7766
-  },
-  {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 7695
+    "asn_org": "Microsoft Corporation",
+    "events": 8268
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 7572
-  },
-  {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 7433
+    "events": 7388
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 6748
+    "events": 7238
+  },
+  {
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 7216
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 6355
+    "events": 6524
+  },
+  {
+    "asn_org": "Oracle Corporation",
+    "events": 5814
   }
 ]
