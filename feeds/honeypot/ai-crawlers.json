@@ -2,18 +2,18 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 678,
+    "requests": 516,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/sitemap.xml",
-        340
+        259
       ],
       [
         "/robots.txt",
-        338
+        257
       ]
     ]
   },
@@ -52,16 +52,160 @@
     ]
   },
   {
+    "crawler": "CCBot",
+    "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
+    "requests": 6,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 1,
+    "top_paths": [
+      [
+        "/.env",
+        1
+      ],
+      [
+        "/.ssh/id_rsa",
+        1
+      ],
+      [
+        "/debug/pprof/cmdline",
+        1
+      ],
+      [
+        "/keys/sa.json",
+        1
+      ],
+      [
+        "/openapi.json",
+        1
+      ],
+      [
+        "/private/",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "Google-Extended",
+    "user_agent": "Mozilla/5.0 (compatible; Google-Extended/1.0; +http://www.google.com/bot.html)",
+    "requests": 4,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.docker",
+        1
+      ],
+      [
+        "/admin/credentials.json",
+        1
+      ],
+      [
+        "/secrets/google.json",
+        1
+      ],
+      [
+        "/serviceAccountKey.json",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "OAI-SearchBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "requests": 4,
+    "read_robots": false,
+    "fetched_disallowed": 0,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/api.env",
+        1
+      ],
+      [
+        "/config/gcp/sa.json",
+        1
+      ],
+      [
+        "/firebase-config.json",
+        1
+      ],
+      [
+        "/service-account.json",
+        1
+      ]
+    ]
+  },
+  {
     "crawler": "OAI-SearchBot",
     "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt",
-    "requests": 4,
+    "requests": 3,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
-        4
+        3
+      ]
+    ]
+  },
+  {
+    "crawler": "PerplexityBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
+    "requests": 3,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.pypirc",
+        1
+      ],
+      [
+        "/backup/",
+        1
+      ],
+      [
+        "/env.js",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "GPTBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "requests": 2,
+    "read_robots": false,
+    "fetched_disallowed": 0,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/api/v1/settings",
+        1
+      ],
+      [
+        "/manifest.webmanifest",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "anthropic-ai",
+    "user_agent": "anthropic-ai",
+    "requests": 2,
+    "read_robots": false,
+    "fetched_disallowed": 0,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/api/env",
+        1
+      ],
+      [
+        "/v1/graphql",
+        1
       ]
     ]
   }
