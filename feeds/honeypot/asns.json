@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "Banatsync Srl",
-    "events": 114975
+    "events": 107971
+  },
+  {
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 97359
+  },
+  {
+    "asn_org": "Alferov Aleksey Aleksandrovich",
+    "events": 89106
   },
   {
     "asn_org": "HostPapa",
-    "events": 76744
-  },
-  {
-    "asn_org": "Hydra Communications Ltd",
-    "events": 64370
+    "events": 82908
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 60443
+    "events": 60455
+  },
+  {
+    "asn_org": "Hydra Communications Ltd",
+    "events": 58508
   },
   {
     "asn_org": "Google LLC",
-    "events": 35757
+    "events": 36665
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 31727
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
-    "events": 28745
+    "events": 27623
+  },
+  {
+    "asn_org": "GALAXY ENTERTAINMENT DE VENEZUELA, S.C.A.",
+    "events": 27341
+  },
+  {
+    "asn_org": "DigitalOcean, LLC",
+    "events": 26476
   },
   {
     "asn_org": "IENTC S DE RL DE CV",
     "events": 25583
   },
   {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 22198
-  },
-  {
     "asn_org": "ONYPHE SAS",
-    "events": 18157
+    "events": 18309
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 14883
+    "events": 15700
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 14179
+    "events": 13672
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 11812
+    "events": 12416
   },
   {
     "asn_org": "BestDC Limited",
-    "events": 8395
-  },
-  {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 7817
+    "events": 9303
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 7529
+    "events": 8114
   },
   {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 7379
+    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "events": 7587
   },
   {
-    "asn_org": "31173 Services AB",
-    "events": 6866
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 6798
-  },
-  {
-    "asn_org": "OVH SAS",
-    "events": 5906
-  },
-  {
-    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
-    "events": 5819
+    "asn_org": "INTERDIGI JOINT STOCK COMPANY",
+    "events": 7097
   }
 ]
