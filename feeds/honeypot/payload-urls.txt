@@ -1,5 +1,5 @@
 23	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-15	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+16	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 4	https://best-proxies.ru/faq/#from
 2	http://45.9.2.239:24381/bins/adb/akuma.arc
 2	http://45.9.2.239:24381/bins/adb/akuma.arm
@@ -34,3 +34,4 @@
 1	http://api.ipify.org?Z71720080460Q1
 1	http://38.49.214.15:4444/
 1	http://38.49.214.15:10000/
+1	http://38.49.214.15:10000/session_login.cgi

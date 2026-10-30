@@ -1,7 +1,7 @@
 [
   {
     "cve": "CVE-2021-26855",
-    "probes": 56,
+    "probes": 58,
     "example": "/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application"
   }
 ]
