@@ -2,52 +2,18 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 92,
+    "requests": 24,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
-        46
+        12
       ],
       [
         "/sitemap.xml",
-        46
-      ]
-    ]
-  },
-  {
-    "crawler": "GPTBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-    "requests": 48,
-    "read_robots": false,
-    "fetched_disallowed": 0,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/",
-        1
-      ],
-      [
-        "/?author=1",
-        1
-      ],
-      [
-        "/?cat=1",
-        1
-      ],
-      [
-        "/?feed=comments-rss2",
-        1
-      ],
-      [
-        "/?feed=rss2",
-        1
-      ],
-      [
-        "/?m=201206",
-        1
+        12
       ]
     ]
   },
@@ -138,20 +104,6 @@
     ]
   },
   {
-    "crawler": "OAI-SearchBot",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt",
-    "requests": 3,
-    "read_robots": true,
-    "fetched_disallowed": 0,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/robots.txt",
-        3
-      ]
-    ]
-  },
-  {
     "crawler": "PerplexityBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
     "requests": 3,
@@ -205,6 +157,34 @@
       ],
       [
         "/v1/graphql",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "OAI-SearchBot",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt",
+    "requests": 1,
+    "read_robots": true,
+    "fetched_disallowed": 0,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/robots.txt",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "Bytespider",
+    "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
+    "requests": 1,
+    "read_robots": false,
+    "fetched_disallowed": 0,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/settings.py",
         1
       ]
     ]
