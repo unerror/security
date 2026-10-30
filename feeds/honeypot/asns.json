@@ -1,15 +1,15 @@
 [
   {
     "asn_org": "Banatsync Srl",
-    "events": 83754
+    "events": 107506
   },
   {
     "asn_org": "Hydra Communications Ltd",
-    "events": 43127
+    "events": 50318
   },
   {
     "asn_org": "Google LLC",
-    "events": 34917
+    "events": 33811
   },
   {
     "asn_org": "Power VT S.A.",
@@ -21,51 +21,55 @@
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 23110
-  },
-  {
-    "asn_org": "Tamatiya EOOD",
-    "events": 20081
+    "events": 22600
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18301
+    "events": 18299
+  },
+  {
+    "asn_org": "Tamatiya EOOD",
+    "events": 16860
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 11718
+    "events": 12423
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 9556
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 9026
+    "events": 9709
   },
   {
     "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 9003
+    "events": 9564
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 9402
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
-    "events": 8699
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 7425
+    "events": 8181
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 7064
+    "events": 7142
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 7116
+  },
+  {
+    "asn_org": "HostPapa",
+    "events": 6356
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 6091
+    "events": 5829
   },
   {
     "asn_org": "Cloudflare, Inc.",
-    "events": 5371
+    "events": 5508
   },
   {
     "asn_org": "IONOS SE",
@@ -73,10 +77,6 @@
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 4556
-  },
-  {
-    "asn_org": "Feo Prest SRL",
-    "events": 4480
+    "events": 4765
   }
 ]
