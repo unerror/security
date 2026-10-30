@@ -2,18 +2,18 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 1618,
+    "requests": 1726,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
-        205
+        243
       ],
       [
         "/sitemap.xml",
-        204
+        242
       ],
       [
         "/",
@@ -36,7 +36,7 @@
   {
     "crawler": "OAI-SearchBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
-    "requests": 11,
+    "requests": 7,
     "read_robots": false,
     "fetched_disallowed": 3,
     "fetched_private": 0,
@@ -54,83 +54,15 @@
         1
       ],
       [
-        "/api.env",
-        1
-      ],
-      [
         "/api/health",
         1
       ],
       [
         "/api/v1/config",
         1
-      ]
-    ]
-  },
-  {
-    "crawler": "CCBot",
-    "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
-    "requests": 10,
-    "read_robots": false,
-    "fetched_disallowed": 2,
-    "fetched_private": 2,
-    "top_paths": [
-      [
-        "/.env",
-        2
       ],
       [
-        "/debug/pprof/cmdline",
-        2
-      ],
-      [
-        "/private/",
-        2
-      ],
-      [
-        "/.ssh/id_rsa",
-        1
-      ],
-      [
-        "/keys/sa.json",
-        1
-      ],
-      [
-        "/openapi.json",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "Google-Extended",
-    "user_agent": "Mozilla/5.0 (compatible; Google-Extended/1.0; +http://www.google.com/bot.html)",
-    "requests": 8,
-    "read_robots": false,
-    "fetched_disallowed": 3,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/.env.docker",
-        1
-      ],
-      [
-        "/.env.example",
-        1
-      ],
-      [
-        "/admin/credentials.json",
-        1
-      ],
-      [
-        "/backup/",
-        1
-      ],
-      [
-        "/firebase-config.json",
-        1
-      ],
-      [
-        "/secrets/google.json",
+        "/health",
         1
       ]
     ]
@@ -170,27 +102,41 @@
     ]
   },
   {
-    "crawler": "PerplexityBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
-    "requests": 6,
+    "crawler": "CCBot",
+    "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
+    "requests": 4,
     "read_robots": false,
-    "fetched_disallowed": 3,
+    "fetched_disallowed": 1,
+    "fetched_private": 1,
+    "top_paths": [
+      [
+        "/.env",
+        1
+      ],
+      [
+        "/debug/pprof/cmdline",
+        1
+      ],
+      [
+        "/private/",
+        1
+      ],
+      [
+        "/secrets.yml",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "Google-Extended",
+    "user_agent": "Mozilla/5.0 (compatible; Google-Extended/1.0; +http://www.google.com/bot.html)",
+    "requests": 4,
+    "read_robots": false,
+    "fetched_disallowed": 2,
     "fetched_private": 0,
     "top_paths": [
       [
-        "/.env.test",
-        1
-      ],
-      [
-        "/.git/config",
-        1
-      ],
-      [
-        "/.pypirc",
-        1
-      ],
-      [
-        "/api/settings",
+        "/.env.example",
         1
       ],
       [
@@ -198,7 +144,11 @@
         1
       ],
       [
-        "/env.js",
+        "/firebase-config.json",
+        1
+      ],
+      [
+        "/storage/logs/laravel.log",
         1
       ]
     ]
@@ -206,14 +156,14 @@
   {
     "crawler": "anthropic-ai",
     "user_agent": "anthropic-ai",
-    "requests": 6,
+    "requests": 4,
     "read_robots": false,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/api/env",
-        2
+        1
       ],
       [
         "/api/v1/env",
@@ -226,17 +176,13 @@
       [
         "/settings.json",
         1
-      ],
-      [
-        "/v1/graphql",
-        1
       ]
     ]
   },
   {
     "crawler": "GPTBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot",
-    "requests": 5,
+    "requests": 3,
     "read_robots": false,
     "fetched_disallowed": 1,
     "fetched_private": 0,
@@ -250,15 +196,29 @@
         1
       ],
       [
-        "/api/v1/settings",
-        1
-      ],
-      [
         "/app/.env",
         1
+      ]
+    ]
+  },
+  {
+    "crawler": "PerplexityBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
+    "requests": 3,
+    "read_robots": false,
+    "fetched_disallowed": 2,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.test",
+        1
       ],
       [
-        "/manifest.webmanifest",
+        "/.git/config",
+        1
+      ],
+      [
+        "/api/settings",
         1
       ]
     ]
