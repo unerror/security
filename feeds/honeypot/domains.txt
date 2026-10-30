@@ -1,11 +1,11 @@
-26	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-17	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+27	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+19	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 9	visionheight.com
 8	www.nokia.com
 4	best-proxies.ru
 3	api.ipify.org
+2	f.cc
 2	icanhazip.com
-1	f.cc
 1	httpbin.org
 1	azenv.net
 1	nicehash.com
@@ -40,3 +40,4 @@
 1	www.myivo.com
 1	www.orbitdownloader.com
 1	www.scrapbookmax.com
+1	ts-ocsp.ws

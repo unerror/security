@@ -2,21 +2,33 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 58,
+    "requests": 222,
     "read_robots": true,
-    "fetched_disallowed": 0,
+    "fetched_disallowed": 13,
     "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
-        29
+        85
       ],
       [
         "/sitemap.xml",
-        28
+        79
       ],
       [
         "/",
+        3
+      ],
+      [
+        "/2018/08/",
+        1
+      ],
+      [
+        "/2018/08/07/hello-world/",
+        1
+      ],
+      [
+        "/bitnami.css",
         1
       ]
     ]
@@ -161,20 +173,6 @@
       ],
       [
         "/v1/graphql",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "Bytespider",
-    "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
-    "requests": 1,
-    "read_robots": false,
-    "fetched_disallowed": 0,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/settings.py",
         1
       ]
     ]

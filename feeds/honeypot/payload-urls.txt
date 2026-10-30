@@ -1,5 +1,5 @@
-26	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-17	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+27	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+19	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 8	https://www.nokia.com/genomecrawler
 4	https://best-proxies.ru/faq/#from
 2	http://45.9.2.239:24381/bins/adb/akuma.arc
@@ -36,3 +36,5 @@
 1	http://38.49.214.15:4444/
 1	http://38.49.214.15:10000/
 1	http://38.49.214.15:10000/session_login.cgi
+1	http://www.avast.com0
+1	http://www.avast.com0/
