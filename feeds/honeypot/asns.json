@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "Banatsync Srl",
-    "events": 115899
+    "events": 118660
   },
   {
     "asn_org": "Hydra Communications Ltd",
-    "events": 50397
+    "events": 43307
   },
   {
     "asn_org": "Google LLC",
-    "events": 35046
-  },
-  {
-    "asn_org": "Power VT S.A.",
-    "events": 25799
-  },
-  {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 22266
+    "events": 36068
   },
   {
     "asn_org": "HostPapa",
-    "events": 20394
+    "events": 34943
+  },
+  {
+    "asn_org": "Power VT S.A.",
+    "events": 25442
+  },
+  {
+    "asn_org": "DigitalOcean, LLC",
+    "events": 22633
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18314
+    "events": 18158
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 13570
-  },
-  {
-    "asn_org": "Tamatiya EOOD",
-    "events": 11622
+    "events": 14769
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 10883
+    "events": 12039
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 9710
+    "events": 9844
   },
   {
     "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 8873
-  },
-  {
-    "asn_org": "F.n.s. Holdings Limited",
-    "events": 7811
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 7117
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 6702
+    "events": 8677
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 5636
+    "events": 7176
+  },
+  {
+    "asn_org": "Tamatiya EOOD",
+    "events": 7128
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 6908
+  },
+  {
+    "asn_org": "31173 Services AB",
+    "events": 6795
+  },
+  {
+    "asn_org": "BestDC Limited",
+    "events": 6569
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 6354
+  },
+  {
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 6320
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 5466
+    "events": 5194
   },
   {
     "asn_org": "IONOS SE",
-    "events": 5051
-  },
-  {
-    "asn_org": "Feo Prest SRL",
-    "events": 4626
-  },
-  {
-    "asn_org": "OVH SAS",
-    "events": 4584
+    "events": 5045
   }
 ]
