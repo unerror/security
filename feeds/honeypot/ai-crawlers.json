@@ -2,33 +2,33 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 2042,
+    "requests": 1941,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
-        "/robots.txt",
-        401
+        "/sitemap.xml",
+        384
       ],
       [
-        "/sitemap.xml",
-        401
+        "/robots.txt",
+        374
       ],
       [
         "/",
-        3
-      ],
-      [
-        "/2018/08/",
-        1
-      ],
-      [
-        "/2018/08/07/hello-world/",
         1
       ],
       [
         "/RELEASE-NOTES.txt",
+        1
+      ],
+      [
+        "/RUNNING.txt",
+        1
+      ],
+      [
+        "/access_requests.md",
         1
       ]
     ]

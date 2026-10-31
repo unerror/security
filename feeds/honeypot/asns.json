@@ -1,47 +1,47 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 168361
+    "events": 255415
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
     "events": 154945
   },
   {
-    "asn_org": "HostPapa",
-    "events": 74997
+    "asn_org": "AO ALMAZ",
+    "events": 87404
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 66042
+    "events": 65994
   },
   {
-    "asn_org": "AO ALMAZ",
-    "events": 60449
+    "asn_org": "HostPapa",
+    "events": 62542
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 57043
+    "events": 50859
   },
   {
     "asn_org": "Hydra Communications Ltd",
-    "events": 42980
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 37457
+    "events": 35951
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 34204
+    "events": 35876
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 35716
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 31966
+    "events": 32501
   },
   {
     "asn_org": "BestDC Limited",
-    "events": 30161
+    "events": 30425
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
@@ -57,26 +57,26 @@
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18616
+    "events": 18720
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 17633
+    "events": 17093
   },
   {
     "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
-    "events": 14238
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 13074
+    "events": 16832
   },
   {
     "asn_org": "UAB Cherry Servers",
-    "events": 11980
+    "events": 14471
   },
   {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 11484
+    "asn_org": "Censys, Inc.",
+    "events": 12829
+  },
+  {
+    "asn_org": "INTERDIGI JOINT STOCK COMPANY",
+    "events": 11663
   }
 ]
