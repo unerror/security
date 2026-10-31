@@ -1,5 +1,5 @@
-31	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-25	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+32	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+26	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 8	www.nokia.com
 4	best-proxies.ru
 2	api.ipify.org
@@ -9,3 +9,4 @@
 1	xmrig.com
 1	apcosys.net
 1	www.onvif.org
+1	api.9hits.com

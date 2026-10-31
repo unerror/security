@@ -1,5 +1,5 @@
-31	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-25	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+32	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+26	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 9	visionheight.com
 8	www.nokia.com
 4	best-proxies.ru
@@ -42,3 +42,4 @@
 1	www.scrapbookmax.com
 1	ts-ocsp.ws
 1	www.onvif.org
+1	api.9hits.com

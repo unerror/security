@@ -1,5 +1,5 @@
-31	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-25	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+32	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+26	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 8	https://www.nokia.com/genomecrawler
 4	https://best-proxies.ru/faq/#from
 2	http://45.9.2.239:24381/bins/adb/akuma.arc
@@ -21,7 +21,7 @@
 2	http://45.9.2.239:24381/bins/adb/akuma.sh4
 2	http://45.9.2.239:24381/bins/adb/akuma.spc
 2	http://45.9.2.239:24381/bins/adb/akuma.x64
-1	https://infrawat.ch/
+2	https://infrawat.ch/
 1	http://httpbin.org/get
 1	http://azenv.net/
 1	http://api.ipify.org
@@ -39,3 +39,4 @@
 1	http://www.avast.com0
 1	http://www.avast.com0/
 1	http://www.onvif.org/ver10/media/wsdl
+1	http://api.9hits.com/test
