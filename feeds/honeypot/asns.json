@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 434823
-  },
-  {
-    "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 154981
-  },
-  {
-    "asn_org": "Chinanet",
-    "events": 74578
+    "events": 385676
   },
   {
     "asn_org": "ColocaTel Inc.",
-    "events": 66873
+    "events": 157812
+  },
+  {
+    "asn_org": "Chinanet",
+    "events": 74677
   },
   {
     "asn_org": "Scaleway SAS",
-    "events": 66109
+    "events": 67349
+  },
+  {
+    "asn_org": "Alferov Aleksey Aleksandrovich",
+    "events": 66205
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 65653
+    "events": 65584
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 65459
+    "events": 65496
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
-    "events": 57212
+    "events": 64905
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 42243
+    "events": 42834
   },
   {
     "asn_org": "Google LLC",
-    "events": 36904
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 35072
-  },
-  {
-    "asn_org": "GALAXY ENTERTAINMENT DE VENEZUELA, S.C.A.",
-    "events": 24362
-  },
-  {
-    "asn_org": "BestDC Limited",
-    "events": 21496
+    "events": 36288
   },
   {
     "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
-    "events": 20760
+    "events": 21708
+  },
+  {
+    "asn_org": "Tc Datacenter Limited",
+    "events": 21535
   },
   {
     "asn_org": "SK Broadband Co Ltd",
-    "events": 17667
+    "events": 20972
+  },
+  {
+    "asn_org": "BestDC Limited",
+    "events": 20588
+  },
+  {
+    "asn_org": "WholeSale Internet, Inc.",
+    "events": 16126
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 17227
+    "events": 16052
   },
   {
     "asn_org": "UAB Cherry Servers",
-    "events": 15477
+    "events": 15462
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 15273
+    "events": 14904
   },
   {
     "asn_org": "INTERDIGI JOINT STOCK COMPANY",
-    "events": 13833
+    "events": 14812
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 12246
+    "events": 12051
   }
 ]
