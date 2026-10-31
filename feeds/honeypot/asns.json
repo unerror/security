@@ -1,55 +1,47 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 269722
+    "events": 360315
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 154966
+    "events": 154961
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 125881
+    "events": 94984
   },
   {
     "asn_org": "Chinanet",
-    "events": 74286
-  },
-  {
-    "asn_org": "F.n.s. Holdings Limited",
-    "events": 68646
+    "events": 74414
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 65809
+    "events": 65727
   },
   {
     "asn_org": "Scaleway SAS",
-    "events": 64604
+    "events": 64932
+  },
+  {
+    "asn_org": "F.n.s. Holdings Limited",
+    "events": 57485
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 39356
+    "events": 40667
   },
   {
     "asn_org": "Google LLC",
-    "events": 36584
-  },
-  {
-    "asn_org": "HostPapa",
-    "events": 35444
-  },
-  {
-    "asn_org": "Hydra Communications Ltd",
-    "events": 35286
+    "events": 37194
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 34933
+    "events": 34950
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 31405
+    "events": 30283
   },
   {
     "asn_org": "GALAXY ENTERTAINMENT DE VENEZUELA, S.C.A.",
@@ -57,26 +49,34 @@
   },
   {
     "asn_org": "BestDC Limited",
-    "events": 21589
+    "events": 21576
+  },
+  {
+    "asn_org": "HostPapa",
+    "events": 21440
   },
   {
     "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
-    "events": 18808
+    "events": 20211
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18427
+    "events": 18204
   },
   {
     "asn_org": "UAB Cherry Servers",
-    "events": 15493
+    "events": 15477
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 14929
+    "events": 15037
   },
   {
-    "asn_org": "INTERDIGI JOINT STOCK COMPANY",
-    "events": 12193
+    "asn_org": "Hydra Communications Ltd",
+    "events": 14593
+  },
+  {
+    "asn_org": "SK Broadband Co Ltd",
+    "events": 14327
   }
 ]
