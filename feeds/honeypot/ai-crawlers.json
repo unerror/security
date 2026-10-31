@@ -2,33 +2,33 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 1690,
+    "requests": 740,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/sitemap.xml",
-        355
+        359
       ],
       [
         "/robots.txt",
-        338
-      ],
-      [
-        "/access_requests.md",
-        1
-      ],
-      [
-        "/account/delete_account.md",
-        1
+        349
       ],
       [
         "/account/two_factor_authentication.md",
         1
       ],
       [
-        "/active_sessions.md",
+        "/ci/review_apps/index.md",
+        1
+      ],
+      [
+        "/close_issue_mr.png",
+        1
+      ],
+      [
+        "/customization/branded_login_page.md",
         1
       ]
     ]

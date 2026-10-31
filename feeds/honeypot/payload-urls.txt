@@ -1,7 +1,7 @@
 32	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-26	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+28	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 8	https://www.nokia.com/genomecrawler
-4	https://best-proxies.ru/faq/#from
+6	https://best-proxies.ru/faq/#from
 2	http://45.9.2.239:24381/bins/adb/akuma.arc
 2	http://45.9.2.239:24381/bins/adb/akuma.arm
 2	http://45.9.2.239:24381/bins/adb/akuma.arm5

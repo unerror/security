@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 255534
+    "events": 269722
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 154959
+    "events": 154966
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 112854
+    "events": 125881
   },
   {
     "asn_org": "Chinanet",
-    "events": 74192
-  },
-  {
-    "asn_org": "Alsycon B.V.",
-    "events": 65877
-  },
-  {
-    "asn_org": "HostPapa",
-    "events": 48976
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 40940
-  },
-  {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 37430
-  },
-  {
-    "asn_org": "Hydra Communications Ltd",
-    "events": 36174
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 36048
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 34624
+    "events": 74286
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
-    "events": 27623
+    "events": 68646
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 65809
+  },
+  {
+    "asn_org": "Scaleway SAS",
+    "events": 64604
+  },
+  {
+    "asn_org": "DigitalOcean, LLC",
+    "events": 39356
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 36584
+  },
+  {
+    "asn_org": "HostPapa",
+    "events": 35444
+  },
+  {
+    "asn_org": "Hydra Communications Ltd",
+    "events": 35286
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 34933
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 31405
   },
   {
     "asn_org": "GALAXY ENTERTAINMENT DE VENEZUELA, S.C.A.",
     "events": 27341
   },
   {
-    "asn_org": "IENTC S DE RL DE CV",
-    "events": 25242
-  },
-  {
     "asn_org": "BestDC Limited",
-    "events": 23322
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 18815
+    "events": 21589
   },
   {
     "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
-    "events": 17063
+    "events": 18808
   },
   {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 16360
+    "asn_org": "ONYPHE SAS",
+    "events": 18427
   },
   {
     "asn_org": "UAB Cherry Servers",
-    "events": 15764
+    "events": 15493
   },
   {
-    "asn_org": "Censys, Inc.",
-    "events": 12799
+    "asn_org": "Amazon.com, Inc.",
+    "events": 14929
+  },
+  {
+    "asn_org": "INTERDIGI JOINT STOCK COMPANY",
+    "events": 12193
   }
 ]
