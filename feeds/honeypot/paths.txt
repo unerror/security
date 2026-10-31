@@ -1,8 +1,8 @@
-1720	/
-405	/robots.txt
-402	/sitemap.xml
+1701	/
+408	/robots.txt
+405	/sitemap.xml
 400	/v1/chat/completions
-380	/.env
+382	/.env
 321	/.git/config
 205	/info.php
 173	/.git/HEAD
@@ -44,11 +44,11 @@
 67	/.env.production.local
 65	/.env.local.bak
 65	/app.js
-65	/graphql
 64	/api
+63	/graphql
 62	/?rest_route=/batch/v1
-62	/api/graphql
 61	/config/config.js
+60	/api/graphql
 59	/.DS_Store
 59	/wp-json/batch/v1
 58	/..;/env.dev.js
@@ -106,8 +106,8 @@
 47	/app/.env
 47	/aws-exports.js
 47	/env.txt
-47	/xmlrpc.php
 46	/config/.env
+46	/xmlrpc.php
 45	/.gitlab-ci.yml
 43	/.svn/entries
 43	/api/config
@@ -207,7 +207,6 @@
 22	/wp-config.php.save
 21	/backup.sql
 21	/passwords.txt
-21	/static/wp-content/themes/twentyeleven/js/html5.js
 20	/.git/logs/refs/stash
 20	/i.php
 20	/pi.php
@@ -216,6 +215,7 @@
 19	/.git/refs/heads/develop
 19	/info.php.bak
 19	/phpinfo.php.bak
+19	/static/wp-content/themes/twentyeleven/js/html5.js
 19	/wp-config.bak
 19	/wp-config.php.swp
 19	/wp-config.txt
@@ -233,6 +233,7 @@
 17	/gcp-credentials.json
 17	/site/.env
 17	/swagger.json
+17	/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 17	/wp-config.php.dist
 17	/wp-config.php.orig
 17	/wp-json/wp/v2/users
@@ -242,7 +243,6 @@
 16	/.htpasswd
 16	/serviceAccount.json
 16	/settings.php
-16	/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 15	/admin/phpinfo.php
 15	/administrator/
 15	/config.env
@@ -303,7 +303,6 @@
 12	/.git/logs/refs/remotes/origin/main
 12	/.git/logs/refs/remotes/origin/master
 12	/.s3cfg
-12	/SDK/webLanguage
 12	/api/config.php
 12	/app/config.php
 12	/composer.json
@@ -331,6 +330,7 @@
 11	/.git/refs/heads/staging
 11	/.git/refs/heads/trunk
 11	/.hg/requires
+11	/SDK/webLanguage
 11	/amplifyconfiguration.json
 11	/config/db.php
 11	/data.sql
@@ -380,7 +380,6 @@
 10	/v1/.env
 10	/wp-config.php.backup
 10	/wp-content/mysql.sql
-10	/wp-json/wp/v2/users/me
 9	/.env.preprod
 9	/.env.yaml
 9	/.env.yml
@@ -397,3 +396,4 @@
 9	/crm/.env
 9	/database/.env
 9	/docker/.env
+9	/firebase.json
