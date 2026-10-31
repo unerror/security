@@ -1,35 +1,47 @@
 [
   {
-    "asn_org": "Banatsync Srl",
-    "events": 107971
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 98577
   },
   {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 97359
+    "asn_org": "Banatsync Srl",
+    "events": 95388
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 89106
+    "events": 89051
   },
   {
     "asn_org": "HostPapa",
-    "events": 82908
+    "events": 82921
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 66107
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 60455
+    "events": 60466
   },
   {
     "asn_org": "Hydra Communications Ltd",
-    "events": 58508
+    "events": 50171
   },
   {
     "asn_org": "Google LLC",
-    "events": 36665
+    "events": 38123
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 31727
+    "events": 31938
+  },
+  {
+    "asn_org": "DigitalOcean, LLC",
+    "events": 31032
+  },
+  {
+    "asn_org": "BestDC Limited",
+    "events": 29920
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
@@ -40,43 +52,31 @@
     "events": 27341
   },
   {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 26476
-  },
-  {
     "asn_org": "IENTC S DE RL DE CV",
     "events": 25583
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18309
+    "events": 18363
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 15700
+    "events": 17157
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 13672
+    "events": 12941
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 12416
+    "events": 12796
   },
   {
-    "asn_org": "BestDC Limited",
-    "events": 9303
+    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
+    "events": 10730
   },
   {
-    "asn_org": "Techoff Srv Limited",
-    "events": 8114
-  },
-  {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 7587
-  },
-  {
-    "asn_org": "INTERDIGI JOINT STOCK COMPANY",
-    "events": 7097
+    "asn_org": "Tc Datacenter Limited",
+    "events": 10635
   }
 ]
