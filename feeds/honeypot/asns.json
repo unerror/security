@@ -1,7 +1,7 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 407080
+    "events": 384950
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -9,7 +9,7 @@
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
-    "events": 100016
+    "events": 100560
   },
   {
     "asn_org": "Chinanet",
@@ -21,19 +21,19 @@
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 65521
+    "events": 65516
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 41501
+    "events": 41464
   },
   {
     "asn_org": "Google LLC",
-    "events": 35137
+    "events": 34788
   },
   {
     "asn_org": "WholeSale Internet, Inc.",
-    "events": 29494
+    "events": 30241
   },
   {
     "asn_org": "Tc Datacenter Limited",
@@ -45,38 +45,38 @@
   },
   {
     "asn_org": "SK Broadband Co Ltd",
-    "events": 20586
-  },
-  {
-    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
-    "events": 16840
+    "events": 20198
   },
   {
     "asn_org": "INTERDIGI JOINT STOCK COMPANY",
-    "events": 16584
+    "events": 16823
+  },
+  {
+    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
+    "events": 16520
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 14345
+    "events": 14567
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 13138
+    "events": 13003
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 12510
+    "events": 12436
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 10472
+    "events": 10537
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 9796
+    "events": 9834
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 8646
+    "events": 8617
   }
 ]

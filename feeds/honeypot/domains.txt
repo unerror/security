@@ -5,9 +5,9 @@
 6	best-proxies.ru
 3	f.cc
 3	api.ipify.org
+3	libssh.org
+3	openssh.com
 2	icanhazip.com
-2	libssh.org
-2	openssh.com
 1	httpbin.org
 1	azenv.net
 1	nicehash.com
