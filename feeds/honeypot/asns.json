@@ -1,7 +1,7 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 384950
+    "events": 341139
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -9,74 +9,74 @@
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
-    "events": 100560
+    "events": 108321
   },
   {
     "asn_org": "Chinanet",
-    "events": 74850
+    "events": 74490
   },
   {
     "asn_org": "Scaleway SAS",
-    "events": 68406
-  },
-  {
-    "asn_org": "AO ALMAZ",
-    "events": 65516
-  },
-  {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 41464
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 34788
-  },
-  {
-    "asn_org": "WholeSale Internet, Inc.",
-    "events": 30241
-  },
-  {
-    "asn_org": "Tc Datacenter Limited",
-    "events": 27365
+    "events": 68405
   },
   {
     "asn_org": "IONOS SE",
-    "events": 23003
+    "events": 54190
   },
   {
-    "asn_org": "SK Broadband Co Ltd",
-    "events": 20198
+    "asn_org": "DigitalOcean, LLC",
+    "events": 40768
+  },
+  {
+    "asn_org": "AO ALMAZ",
+    "events": 38566
+  },
+  {
+    "asn_org": "WholeSale Internet, Inc.",
+    "events": 36045
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 35635
+  },
+  {
+    "asn_org": "Tc Datacenter Limited",
+    "events": 28928
   },
   {
     "asn_org": "INTERDIGI JOINT STOCK COMPANY",
-    "events": 16823
+    "events": 17415
   },
   {
-    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
-    "events": 16520
+    "asn_org": "SK Broadband Co Ltd",
+    "events": 17340
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 14567
+    "events": 14524
   },
   {
-    "asn_org": "ONYPHE SAS",
-    "events": 13003
+    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
+    "events": 14328
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 12436
+    "events": 12785
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 10537
+    "events": 11859
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 11715
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 9834
+    "events": 10538
   },
   {
-    "asn_org": "Banatsync Srl",
-    "events": 8617
+    "asn_org": "Techoff Srv Limited",
+    "events": 8932
   }
 ]
