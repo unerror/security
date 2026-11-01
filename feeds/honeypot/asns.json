@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 359726
+    "events": 285261
   },
   {
     "asn_org": "ColocaTel Inc.",
-    "events": 148980
+    "events": 90939
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
-    "events": 83748
-  },
-  {
-    "asn_org": "WholeSale Internet, Inc.",
-    "events": 56532
-  },
-  {
-    "asn_org": "IONOS SE",
-    "events": 54205
+    "events": 70763
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 42668
+    "events": 68071
+  },
+  {
+    "asn_org": "WholeSale Internet, Inc.",
+    "events": 56113
+  },
+  {
+    "asn_org": "IONOS SE",
+    "events": 54221
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 41323
+    "events": 40472
   },
   {
     "asn_org": "Google LLC",
-    "events": 36567
+    "events": 37273
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 30544
+    "events": 27450
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 15019
+    "events": 14895
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 12583
+    "events": 13706
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 12098
-  },
-  {
-    "asn_org": "INTERDIGI JOINT STOCK COMPANY",
-    "events": 12053
-  },
-  {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 10402
+    "events": 12389
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 10164
+    "events": 10248
   },
   {
-    "asn_org": "ONYPHE SAS",
-    "events": 8146
+    "asn_org": "INTERDIGI JOINT STOCK COMPANY",
+    "events": 9605
   },
   {
-    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
-    "events": 7588
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 7519
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 7465
+    "events": 7512
   },
   {
-    "asn_org": "SK Broadband Co Ltd",
-    "events": 7224
+    "asn_org": "ONYPHE SAS",
+    "events": 7484
   },
   {
     "asn_org": "PT Jala Lintas Media",
     "events": 7072
+  },
+  {
+    "asn_org": "Techoff Srv Limited",
+    "events": 6700
+  },
+  {
+    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
+    "events": 6141
   }
 ]
