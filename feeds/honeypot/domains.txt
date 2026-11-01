@@ -1,4 +1,4 @@
-38	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+39	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 33	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 9	visionheight.com
 8	best-proxies.ru
@@ -46,3 +46,6 @@
 1	k.ml
 1	ip.ifconfig.dpdns.org
 1	clientapi.ipip.net
+1	2y.cf
+1	upx.sf.net
+1	z.io

@@ -1,79 +1,79 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 450629
+    "events": 359726
   },
   {
     "asn_org": "ColocaTel Inc.",
-    "events": 157812
+    "events": 148980
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
-    "events": 83638
-  },
-  {
-    "asn_org": "IONOS SE",
-    "events": 54151
+    "events": 83748
   },
   {
     "asn_org": "WholeSale Internet, Inc.",
-    "events": 51705
+    "events": 56532
+  },
+  {
+    "asn_org": "IONOS SE",
+    "events": 54205
+  },
+  {
+    "asn_org": "AO ALMAZ",
+    "events": 42668
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 41833
+    "events": 41323
   },
   {
     "asn_org": "Google LLC",
-    "events": 33926
+    "events": 36567
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 30552
+    "events": 30544
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 14915
-  },
-  {
-    "asn_org": "INTERDIGI JOINT STOCK COMPANY",
-    "events": 14400
+    "events": 15019
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 12689
+    "events": 12583
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 11897
+    "events": 12098
   },
   {
-    "asn_org": "SK Broadband Co Ltd",
-    "events": 10549
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 9943
+    "asn_org": "INTERDIGI JOINT STOCK COMPANY",
+    "events": 12053
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 9713
+    "events": 10402
   },
   {
-    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
-    "events": 9611
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 10164
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 9488
+    "events": 8146
   },
   {
-    "asn_org": "Techoff Srv Limited",
-    "events": 7449
+    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
+    "events": 7588
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 7331
+    "events": 7465
+  },
+  {
+    "asn_org": "SK Broadband Co Ltd",
+    "events": 7224
   },
   {
     "asn_org": "PT Jala Lintas Media",
