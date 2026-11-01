@@ -1,7 +1,7 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 394863
+    "events": 450629
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -9,74 +9,74 @@
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
-    "events": 116619
-  },
-  {
-    "asn_org": "Scaleway SAS",
-    "events": 67697
+    "events": 83638
   },
   {
     "asn_org": "IONOS SE",
-    "events": 54124
+    "events": 54151
   },
   {
     "asn_org": "WholeSale Internet, Inc.",
-    "events": 42775
+    "events": 51705
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 42325
+    "events": 41833
   },
   {
     "asn_org": "Google LLC",
-    "events": 34954
+    "events": 33926
   },
   {
     "asn_org": "Tc Datacenter Limited",
     "events": 30552
   },
   {
-    "asn_org": "INTERDIGI JOINT STOCK COMPANY",
-    "events": 16814
-  },
-  {
     "asn_org": "Amazon.com, Inc.",
-    "events": 14512
+    "events": 14915
   },
   {
-    "asn_org": "SK Broadband Co Ltd",
-    "events": 13927
-  },
-  {
-    "asn_org": "AO ALMAZ",
-    "events": 13067
+    "asn_org": "INTERDIGI JOINT STOCK COMPANY",
+    "events": 14400
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 12671
-  },
-  {
-    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
-    "events": 12022
+    "events": 12689
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 11610
+    "events": 11897
   },
   {
-    "asn_org": "ONYPHE SAS",
-    "events": 10534
+    "asn_org": "SK Broadband Co Ltd",
+    "events": 10549
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 10058
-  },
-  {
-    "asn_org": "Techoff Srv Limited",
-    "events": 8887
+    "events": 9943
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 7767
+    "events": 9713
+  },
+  {
+    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
+    "events": 9611
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 9488
+  },
+  {
+    "asn_org": "Techoff Srv Limited",
+    "events": 7449
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 7331
+  },
+  {
+    "asn_org": "PT Jala Lintas Media",
+    "events": 7072
   }
 ]
