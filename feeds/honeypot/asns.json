@@ -1,71 +1,67 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 285261
-  },
-  {
-    "asn_org": "ColocaTel Inc.",
-    "events": 90939
-  },
-  {
-    "asn_org": "F.n.s. Holdings Limited",
-    "events": 70763
+    "events": 241915
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 68071
+    "events": 159840
   },
   {
-    "asn_org": "WholeSale Internet, Inc.",
-    "events": 56113
+    "asn_org": "F.n.s. Holdings Limited",
+    "events": 66436
   },
   {
     "asn_org": "IONOS SE",
-    "events": 54221
+    "events": 52403
   },
   {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 40472
+    "asn_org": "WholeSale Internet, Inc.",
+    "events": 51215
   },
   {
     "asn_org": "Google LLC",
-    "events": 37273
+    "events": 37960
+  },
+  {
+    "asn_org": "DigitalOcean, LLC",
+    "events": 35779
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 27450
+    "events": 16815
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 14895
+    "events": 14592
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 13706
+    "events": 14028
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 12389
+    "events": 12610
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 10248
-  },
-  {
-    "asn_org": "INTERDIGI JOINT STOCK COMPANY",
-    "events": 9605
-  },
-  {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 7519
+    "events": 10249
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 7512
+    "events": 7824
+  },
+  {
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 7563
+  },
+  {
+    "asn_org": "INTERDIGI JOINT STOCK COMPANY",
+    "events": 7169
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 7484
+    "events": 7142
   },
   {
     "asn_org": "PT Jala Lintas Media",
@@ -73,10 +69,14 @@
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 6700
+    "events": 6618
   },
   {
-    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
-    "events": 6141
+    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "events": 5357
+  },
+  {
+    "asn_org": "Feo Prest SRL",
+    "events": 5319
   }
 ]

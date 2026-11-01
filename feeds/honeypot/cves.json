@@ -1,12 +1,12 @@
 [
   {
     "cve": "CVE-2021-26855",
-    "probes": 54,
+    "probes": 49,
     "example": "/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application"
   },
   {
     "cve": "CVE-2018-13379",
-    "probes": 1,
+    "probes": 2,
     "example": "{\"src_port\": 37128, \"src_ip\": \"216.180.246.223\", \"@version\": \"1\", \"request_uri\": \"GET /remote/login HTTP/1.1\", \"t-pot_ip"
   }
 ]
