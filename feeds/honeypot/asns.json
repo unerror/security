@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 385676
+    "events": 455497
   },
   {
     "asn_org": "ColocaTel Inc.",
     "events": 157812
   },
   {
+    "asn_org": "F.n.s. Holdings Limited",
+    "events": 89010
+  },
+  {
     "asn_org": "Chinanet",
-    "events": 74677
+    "events": 74840
   },
   {
     "asn_org": "Scaleway SAS",
-    "events": 67349
+    "events": 67755
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 66205
-  },
-  {
-    "asn_org": "Alsycon B.V.",
-    "events": 65584
+    "events": 66239
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 65496
-  },
-  {
-    "asn_org": "F.n.s. Holdings Limited",
-    "events": 64905
+    "events": 65526
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 42834
+    "events": 41589
   },
   {
     "asn_org": "Google LLC",
-    "events": 36288
+    "events": 35880
   },
   {
-    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
-    "events": 21708
-  },
-  {
-    "asn_org": "Tc Datacenter Limited",
-    "events": 21535
-  },
-  {
-    "asn_org": "SK Broadband Co Ltd",
-    "events": 20972
-  },
-  {
-    "asn_org": "BestDC Limited",
-    "events": 20588
+    "asn_org": "IONOS SE",
+    "events": 23003
   },
   {
     "asn_org": "WholeSale Internet, Inc.",
-    "events": 16126
+    "events": 22954
   },
   {
-    "asn_org": "ONYPHE SAS",
-    "events": 16052
+    "asn_org": "SK Broadband Co Ltd",
+    "events": 21535
   },
   {
-    "asn_org": "UAB Cherry Servers",
-    "events": 15462
+    "asn_org": "Tc Datacenter Limited",
+    "events": 20442
   },
   {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 14904
+    "asn_org": "Taiwan Fixed Network, Telco and Network Service Provider.",
+    "events": 19434
   },
   {
     "asn_org": "INTERDIGI JOINT STOCK COMPANY",
-    "events": 14812
+    "events": 15664
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 14801
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 14584
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 12051
+    "events": 12173
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 10562
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 8954
   }
 ]
