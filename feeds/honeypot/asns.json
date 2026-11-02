@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "AO ALMAZ",
-    "events": 159932
-  },
-  {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 128897
+    "events": 159912
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 100343
+    "events": 99263
+  },
+  {
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 75480
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
-    "events": 58475
+    "events": 73253
   },
   {
     "asn_org": "Google LLC",
-    "events": 36787
+    "events": 37522
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 32525
-  },
-  {
-    "asn_org": "WholeSale Internet, Inc.",
-    "events": 31210
-  },
-  {
-    "asn_org": "Interserver, Inc",
-    "events": 29243
-  },
-  {
-    "asn_org": "Level 3 Parent, LLC",
-    "events": 22433
+    "events": 34740
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 22090
+    "events": 30219
+  },
+  {
+    "asn_org": "Interserver, Inc",
+    "events": 29808
+  },
+  {
+    "asn_org": "Alferov Aleksey Aleksandrovich",
+    "events": 28584
+  },
+  {
+    "asn_org": "Level 3 Parent, LLC",
+    "events": 24932
+  },
+  {
+    "asn_org": "WholeSale Internet, Inc.",
+    "events": 24421
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 14946
+    "events": 15022
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 14675
+    "events": 14905
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 10901
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 10027
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 7779
-  },
-  {
-    "asn_org": "Alsycon B.V.",
-    "events": 7641
+    "events": 9754
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 6535
+    "events": 9558
   },
   {
-    "asn_org": "Feo Prest SRL",
-    "events": 6519
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 9410
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 7634
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 7161
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 5265
+    "events": 6585
   },
   {
-    "asn_org": "Cloudflare, Inc.",
-    "events": 4842
+    "asn_org": "Feo Prest SRL",
+    "events": 5488
   }
 ]

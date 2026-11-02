@@ -1,12 +1,12 @@
-44	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-37	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+45	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+41	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 10	best-proxies.ru
 8	www.nokia.com
-2	api.ipify.org
+3	api.ipify.org
+2	icanhazip.com
+2	xmrig.com
 1	httpbin.org
 1	azenv.net
-1	icanhazip.com
-1	xmrig.com
 1	apcosys.net
 1	www.onvif.org
 1	api.9hits.com
