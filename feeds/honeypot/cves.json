@@ -8,10 +8,5 @@
     "cve": "CVE-2017-9841",
     "probes": 32,
     "example": "/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php"
-  },
-  {
-    "cve": "CVE-2018-13379",
-    "probes": 1,
-    "example": "{\"geoip\": {\"as_org\": \"Google LLC\", \"ip\": \"216.180.246.93\", \"continent_code\": \"NA\", \"asn\": 396982, \"country_code2\": \"US\","
   }
 ]
