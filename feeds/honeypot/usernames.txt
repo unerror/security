@@ -1,8 +1,8 @@
-1295	root
-306	admin
+1299	root
+307	admin
 108	ubuntu
 81	345gs5662d34
-76	user
+77	user
 47	test
 37	postgres
 35	deploy
@@ -54,6 +54,7 @@
 7	username
 6	lgsm
 6	marko
+6	master
 6	myuser
 6	node
 6	openclaw
@@ -86,7 +87,6 @@
 5	maison
 5	major
 5	martavious
-5	master
 5	rdpuser
 5	webadmin
 4	Admin
