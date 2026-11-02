@@ -1,7 +1,7 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 171708
+    "events": 171686
   },
   {
     "asn_org": "AO ALMAZ",
@@ -13,70 +13,70 @@
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
-    "events": 43002
+    "events": 44024
   },
   {
     "asn_org": "WholeSale Internet, Inc.",
-    "events": 37803
+    "events": 37048
   },
   {
     "asn_org": "Google LLC",
-    "events": 36340
+    "events": 36337
   },
   {
     "asn_org": "IONOS SE",
-    "events": 33125
+    "events": 33282
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 32930
+    "events": 32869
   },
   {
     "asn_org": "Interserver, Inc",
-    "events": 23490
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 14643
+    "events": 24560
   },
   {
     "asn_org": "Level 3 Parent, LLC",
-    "events": 14613
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 14383
+    "events": 15585
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 14183
+    "events": 15145
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 14544
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 14390
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 11879
+    "events": 11767
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 11238
+    "events": 11242
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 7820
-  },
-  {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 7589
+    "events": 7780
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 7556
+    "events": 7600
+  },
+  {
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 6721
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 5954
+    "events": 6147
   },
   {
     "asn_org": "Modat B.V.",
-    "events": 5519
+    "events": 5566
   }
 ]

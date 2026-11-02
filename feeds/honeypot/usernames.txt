@@ -1,8 +1,8 @@
-671	root
-246	admin
+663	root
+242	admin
 156	345gs5662d34
 54	ubuntu
-39	user
+40	user
 23	ftpuser
 18	nuc
 17	edu
