@@ -1,5 +1,5 @@
 42	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-33	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+35	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 10	https://best-proxies.ru/faq/#from
 8	https://www.nokia.com/genomecrawler
 2	http://45.9.2.239:24381/bins/adb/akuma.arc
@@ -48,3 +48,4 @@
 1	http://probe.invalid/
 1	http://38.49.214.15:1111/
 1	http://38.49.214.15:11111/
+1	http://38.49.214.15:1133/

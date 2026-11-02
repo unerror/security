@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 170203
+    "events": 171835
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 159978
+    "events": 159952
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 84521
+    "events": 103302
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
-    "events": 45104
+    "events": 42755
   },
   {
     "asn_org": "WholeSale Internet, Inc.",
-    "events": 44392
+    "events": 39656
   },
   {
     "asn_org": "Google LLC",
-    "events": 36899
+    "events": 36382
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 35886
+    "events": 34013
   },
   {
     "asn_org": "IONOS SE",
-    "events": 31701
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 14419
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 14062
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 12660
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 10155
+    "events": 32728
   },
   {
     "asn_org": "Interserver, Inc",
-    "events": 9948
+    "events": 19833
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 14803
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 14639
+  },
+  {
+    "asn_org": "Level 3 Parent, LLC",
+    "events": 12241
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 12214
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 11844
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 10756
+  },
+  {
+    "asn_org": "Techoff Srv Limited",
+    "events": 7875
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 7820
+    "events": 7790
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
     "events": 7603
   },
   {
-    "asn_org": "Techoff Srv Limited",
-    "events": 6827
+    "asn_org": "Alsycon B.V.",
+    "events": 5654
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 6381
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 6025
-  },
-  {
-    "asn_org": "Level 3 Parent, LLC",
-    "events": 5955
-  },
-  {
-    "asn_org": "Feo Prest SRL",
-    "events": 5300
+    "events": 5604
   }
 ]
