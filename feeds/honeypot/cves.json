@@ -1,12 +1,12 @@
 [
   {
     "cve": "CVE-2017-9841",
-    "probes": 88,
+    "probes": 90,
     "example": "/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php"
   },
   {
     "cve": "CVE-2021-26855",
-    "probes": 65,
+    "probes": 76,
     "example": "/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application"
   }
 ]

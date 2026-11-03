@@ -5,19 +5,19 @@
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 448803
+    "events": 750853
   },
   {
     "asn_org": "OVH SAS",
-    "events": 400271
+    "events": 430519
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 104630
+    "events": 226367
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 103988
+    "events": 104052
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -25,58 +25,58 @@
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 69262
+    "events": 80331
   },
   {
     "asn_org": "T-Systems International GmbH",
-    "events": 48693
-  },
-  {
-    "asn_org": "UAB Cherry Servers",
-    "events": 41092
+    "events": 48395
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 38653
+    "events": 42334
+  },
+  {
+    "asn_org": "UAB Cherry Servers",
+    "events": 39679
   },
   {
     "asn_org": "Google LLC",
-    "events": 36278
+    "events": 34613
   },
   {
     "asn_org": "Level 3 Parent, LLC",
-    "events": 29136
+    "events": 32951
   },
   {
     "asn_org": "IONOS SE",
-    "events": 26448
+    "events": 26005
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18341
+    "events": 18274
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 17899
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 15059
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 14408
+    "events": 17722
   },
   {
     "asn_org": "OOREDOO TUNISIE SA",
     "events": 14239
   },
   {
-    "asn_org": "Interserver, Inc",
-    "events": 11451
+    "asn_org": "Amazon.com, Inc.",
+    "events": 14091
   },
   {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 7566
+    "asn_org": "Censys, Inc.",
+    "events": 13730
+  },
+  {
+    "asn_org": "Tc Datacenter Limited",
+    "events": 12637
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 7923
   }
 ]
