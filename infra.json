@@ -30,5 +30,13 @@
       "retrieved": "MalwareBazaar, not observed on this sensor",
       "behaviour": "picks a hidden random filename (fallback literal '.redtail'), runs the C2's /clean, then downloads the binary matching 'uname -mp' from /x86_64, /i686, /aarch64, /arm7 or /riscv and executes it with the argument it was called with (e.g. 'telnet')"
     }
+  ],
+  "fingerprints": [
+    {
+      "type": "ja3",
+      "value": "8d9f7747675e24454cd9b7ed35c58707",
+      "seen_on": "54 addresses across Datacamp Limited and Kyonix Networks",
+      "note": "TLS client of the fleet that used the published AWS canary: 53 of the 64 addresses that swept the honeypot from one /24 present it, and it barely appears outside that fleet, so it identifies the client rather than a host"
+    }
   ]
 }
