@@ -5,78 +5,78 @@
   },
   {
     "asn_org": "OVH SAS",
-    "events": 220045
+    "events": 277351
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 94634
+    "events": 91825
+  },
+  {
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 90011
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 86691
+    "events": 86686
+  },
+  {
+    "asn_org": "ColocaTel Inc.",
+    "events": 72579
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
-    "events": 65154
-  },
-  {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 37716
-  },
-  {
-    "asn_org": "UAB Cherry Servers",
-    "events": 37470
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 37352
+    "events": 42942
   },
   {
     "asn_org": "T-Systems International GmbH",
-    "events": 35538
+    "events": 40592
+  },
+  {
+    "asn_org": "DigitalOcean, LLC",
+    "events": 40404
+  },
+  {
+    "asn_org": "UAB Cherry Servers",
+    "events": 40362
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 34630
   },
   {
     "asn_org": "IONOS SE",
-    "events": 27078
-  },
-  {
-    "asn_org": "Interserver, Inc",
-    "events": 24537
+    "events": 26688
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 22183
+    "events": 21462
+  },
+  {
+    "asn_org": "Interserver, Inc",
+    "events": 19855
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 17273
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 15159
+    "events": 18603
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 14991
+    "events": 15272
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 15009
   },
   {
     "asn_org": "OOREDOO TUNISIE SA",
     "events": 14239
   },
   {
-    "asn_org": "Level 3 Parent, LLC",
-    "events": 9347
-  },
-  {
     "asn_org": "Unmanaged Ltd",
-    "events": 8297
+    "events": 7959
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 7788
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 7648
+    "events": 7682
   }
 ]
