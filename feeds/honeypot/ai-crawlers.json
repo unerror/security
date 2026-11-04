@@ -2,18 +2,52 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 792,
+    "requests": 790,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
-        396
+        395
       ],
       [
         "/sitemap.xml",
-        396
+        395
+      ]
+    ]
+  },
+  {
+    "crawler": "GPTBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
+    "requests": 48,
+    "read_robots": false,
+    "fetched_disallowed": 0,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/",
+        1
+      ],
+      [
+        "/?author=1",
+        1
+      ],
+      [
+        "/?cat=1",
+        1
+      ],
+      [
+        "/?feed=comments-rss2",
+        1
+      ],
+      [
+        "/?feed=rss2",
+        1
+      ],
+      [
+        "/?m=201206",
+        1
       ]
     ]
   },
@@ -88,6 +122,20 @@
       [
         "/runtime-config.js",
         1
+      ]
+    ]
+  },
+  {
+    "crawler": "OAI-SearchBot",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt",
+    "requests": 2,
+    "read_robots": true,
+    "fetched_disallowed": 0,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/robots.txt",
+        2
       ]
     ]
   },
