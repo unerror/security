@@ -2,32 +2,32 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 829,
+    "requests": 787,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/sitemap.xml",
-        415
+        394
       ],
       [
         "/robots.txt",
-        414
+        393
       ]
     ]
   },
   {
     "crawler": "GPTBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.4; +https://openai.com/gptbot)",
-    "requests": 48,
+    "requests": 50,
     "read_robots": false,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/",
-        1
+        3
       ],
       [
         "/?author=1",
@@ -82,6 +82,20 @@
     ]
   },
   {
+    "crawler": "OAI-SearchBot",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt",
+    "requests": 4,
+    "read_robots": true,
+    "fetched_disallowed": 0,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/robots.txt",
+        4
+      ]
+    ]
+  },
+  {
     "crawler": "CCBot",
     "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
     "requests": 3,
@@ -122,20 +136,6 @@
       [
         "/runtime-config.js",
         1
-      ]
-    ]
-  },
-  {
-    "crawler": "OAI-SearchBot",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; robots.txt",
-    "requests": 2,
-    "read_robots": true,
-    "fetched_disallowed": 0,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/robots.txt",
-        2
       ]
     ]
   },
