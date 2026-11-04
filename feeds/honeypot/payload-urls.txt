@@ -1,5 +1,5 @@
 55	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-48	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+50	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 12	https://best-proxies.ru/faq/#from
 8	https://www.nokia.com/genomecrawler
 4	http://45.9.2.239:24381/bins/adb/akuma.arc
@@ -52,3 +52,18 @@
 1	http://38.49.214.15:5432/
 1	http://38.49.214.15:11000/
 1	http://clientapi.ipip.net/echo.php?info=20261102235855
+1	http://160.119.66.206/bins/net.arc
+1	http://160.119.66.206/bins/net.arm
+1	http://160.119.66.206/bins/net.arm5
+1	http://160.119.66.206/bins/net.arm6
+1	http://160.119.66.206/bins/net.arm7
+1	http://160.119.66.206/bins/net.i486
+1	http://160.119.66.206/bins/net.i686
+1	http://160.119.66.206/bins/net.m68k
+1	http://160.119.66.206/bins/net.mips
+1	http://160.119.66.206/bins/net.mpsl
+1	http://160.119.66.206/bins/net.ppc
+1	http://160.119.66.206/bins/net.sh4
+1	http://160.119.66.206/bins/net.spc
+1	http://160.119.66.206/bins/net.x86
+1	http://160.119.66.206/bins/net.x86_64
