@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "Alsycon B.V.",
-    "events": 2395769
+    "events": 2198118
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 165192
-  },
-  {
-    "asn_org": "AO ALMAZ",
-    "events": 82344
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 67963
+    "events": 105267
   },
   {
     "asn_org": "Husam A. H. Hijazi",
-    "events": 61621
+    "events": 72053
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 67593
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 58753
+    "events": 58746
   },
   {
     "asn_org": "IONOS SE",
-    "events": 43396
+    "events": 54067
   },
   {
     "asn_org": "T-Systems International GmbH",
-    "events": 35346
+    "events": 29593
   },
   {
     "asn_org": "Google LLC",
-    "events": 26405
+    "events": 25779
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18359
-  },
-  {
-    "asn_org": "HostPapa",
-    "events": 17597
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 14963
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 14545
-  },
-  {
-    "asn_org": "Contabo GmbH",
-    "events": 12597
+    "events": 18352
   },
   {
     "asn_org": "Connect, Surf and Smile Limited",
-    "events": 11585
+    "events": 16038
   },
   {
-    "asn_org": "Microsoft Corporation",
-    "events": 9431
+    "asn_org": "Censys, Inc.",
+    "events": 14767
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 14719
+  },
+  {
+    "asn_org": "HostPapa",
+    "events": 12266
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 8954
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 8732
-  },
-  {
-    "asn_org": "Feo Prest SRL",
-    "events": 7125
+    "events": 11352
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 5964
+    "events": 9911
+  },
+  {
+    "asn_org": "Contabo GmbH",
+    "events": 9842
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 9446
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 8523
+  },
+  {
+    "asn_org": "Feo Prest SRL",
+    "events": 7885
+  },
+  {
+    "asn_org": "AO ALMAZ",
+    "events": 7551
   }
 ]
