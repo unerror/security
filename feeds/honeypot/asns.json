@@ -1,15 +1,15 @@
 [
   {
     "asn_org": "Alsycon B.V.",
-    "events": 1287447
+    "events": 1268543
   },
   {
     "asn_org": "Husam A. H. Hijazi",
-    "events": 85269
+    "events": 85755
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 60895
+    "events": 60806
   },
   {
     "asn_org": "IONOS SE",
@@ -17,51 +17,55 @@
   },
   {
     "asn_org": "Connect, Surf and Smile Limited",
-    "events": 26143
+    "events": 26292
   },
   {
     "asn_org": "Google LLC",
-    "events": 25081
+    "events": 25333
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18101
+    "events": 18081
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 15586
+    "events": 15911
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14178
+    "events": 14187
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 13957
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 12833
+    "events": 13944
   },
   {
     "asn_org": "T-Systems International GmbH",
-    "events": 11782
+    "events": 11133
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 10661
+    "events": 10650
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 10347
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 9654
+    "events": 9712
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 8326
+    "events": 8259
+  },
+  {
+    "asn_org": "GSL Networks Pty LTD",
+    "events": 6835
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 7084
+    "events": 6767
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
@@ -69,14 +73,10 @@
   },
   {
     "asn_org": "Feo Prest SRL",
-    "events": 6005
+    "events": 5993
   },
   {
     "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 5461
-  },
-  {
-    "asn_org": "Unmanaged Ltd",
-    "events": 5362
+    "events": 5483
   }
 ]

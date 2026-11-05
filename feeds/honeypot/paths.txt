@@ -1,10 +1,10 @@
-3760	/
-253	/sitemap.xml
-238	/wp-login.php
-235	/.env
-233	/api/auth
-227	/robots.txt
-157	/.git/config
+3733	/
+237	/wp-login.php
+234	/.env
+233	/sitemap.xml
+228	/api/auth
+203	/robots.txt
+156	/.git/config
 145	/info.php
 133	/api/graphql
 133	/graphql
@@ -14,7 +14,7 @@
 107	/.vscode/sftp.json
 104	/.DS_Store
 104	/wp-json/batch/v1
-103	/.well-known/security.txt
+100	/.well-known/security.txt
 99	/actuator/env
 98	/phpinfo.php
 97	/?rest_route=/batch/v1
@@ -56,13 +56,13 @@
 38	/web/app_dev.php/_profiler/open?file=app/config/parameters.yml
 34	/.aws/credentials
 33	/feed/
-31	/wp-json/
+30	/wp-json/
 29	/.env.production
 28	/.git/HEAD
 28	/owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php
-26	/.env.local
 26	/docker-compose.yml
 26	/download/resources/jira.webresources:color-picker-popup/images/..::..::..::..::..::META-INF::maven::com.atlassian.jira::atlassian-jira-webapp::pom.properties
+25	/.env.local
 24	/config.js
 23	/.env.dev
 23	/.env.save
@@ -138,13 +138,13 @@
 18	/.env.bak
 18	/.env.prod
 18	/?author=2
-18	/SDK/webLanguage
 18	/config.php
 18	/env.js
 17	/.env.development
 17	/.env.old
 17	/config/parameters.yml
 17	/static/wp-content/themes/twentyeleven/js/html5.js
+16	/SDK/webLanguage
 16	/admin/.env
 15	/.env.live
 15	/backup.tar.gz
@@ -166,7 +166,6 @@
 14	/.git/COMMIT_EDITMSG
 14	/.git/description
 14	/.npmrc
-14	/?feed=rss2
 14	/__debug__/render_panel/?panel_id=SettingsPanel
 14	/api/config.js
 14	/app.js
@@ -192,8 +191,8 @@
 13	/.git/logs/HEAD
 13	/.git/packed-refs
 13	/.svn/wc.db
+13	/?feed=rss2
 13	/_profiler/phpinfo.php
-13	/app/config/parameters.yml
 13	/aws.json
 13	/backend/.env
 13	/docker-compose.yaml
@@ -201,6 +200,7 @@
 13	/static/js/config.js
 13	/web/.env
 12	/.docker/config.json
+12	/app/config/parameters.yml
 12	/appsettings.Development.json
 12	/appsettings.json
 12	/config.php.bak
@@ -258,7 +258,6 @@
 11	/?author=7
 11	/?author=8
 11	/?author=9
-11	/?cat=1
 11	/?p=1
 11	/?rest_route=/wp/v2/users&per_page=100
 11	/appsettings.Production.json
@@ -280,6 +279,7 @@
 10	/.docker-compose.yml
 10	/.git/
 10	/.netrc
+10	/?cat=1
 10	/?m=201206
 10	/?page_id=2
 10	/Jenkinsfile
@@ -331,6 +331,7 @@
 9	/prod/.env
 9	/smtp/.env
 9	/static/wp-content/themes/twentyeleven/style.css
+9	/wp-includes/wlwmanifest.xml
 8	/.env.development.local
 8	/.env.php
 8	/.env.production.local
@@ -348,7 +349,6 @@
 8	/tool/view/phpinfo.view.php
 8	/web/debug/default/view
 8	/wp-admin/
-8	/wp-includes/wlwmanifest.xml
 8	/wp-login.php?action=lostpassword
 7	/.__info.php
 7	/.env.dist
