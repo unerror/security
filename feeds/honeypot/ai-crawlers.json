@@ -1,24 +1,6 @@
 [
   {
     "crawler": "ClaudeBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 60,
-    "read_robots": true,
-    "fetched_disallowed": 0,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/robots.txt",
-        30
-      ],
-      [
-        "/sitemap.xml",
-        30
-      ]
-    ]
-  },
-  {
-    "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
     "requests": 6,
     "read_robots": false,
