@@ -2,18 +2,204 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 141,
+    "requests": 60,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
-        "/sitemap.xml",
-        71
+        "/robots.txt",
+        30
       ],
       [
-        "/robots.txt",
-        70
+        "/sitemap.xml",
+        30
+      ]
+    ]
+  },
+  {
+    "crawler": "ClaudeBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
+    "requests": 6,
+    "read_robots": false,
+    "fetched_disallowed": 3,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.docker",
+        1
+      ],
+      [
+        "/.env.example",
+        1
+      ],
+      [
+        "/.env.test",
+        1
+      ],
+      [
+        "/admin/.env",
+        1
+      ],
+      [
+        "/backend/.env",
+        1
+      ],
+      [
+        "/storage/logs/laravel.log",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "CCBot",
+    "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
+    "requests": 5,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 1,
+    "top_paths": [
+      [
+        "/.aws/credentials",
+        1
+      ],
+      [
+        "/.env.staging",
+        1
+      ],
+      [
+        "/__/firebase/init.json",
+        1
+      ],
+      [
+        "/private/",
+        1
+      ],
+      [
+        "/settings.json",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "Google-Extended",
+    "user_agent": "Mozilla/5.0 (compatible; Google-Extended/1.0; +http://www.google.com/bot.html)",
+    "requests": 4,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.dev",
+        1
+      ],
+      [
+        "/api/config",
+        1
+      ],
+      [
+        "/config/application.properties",
+        1
+      ],
+      [
+        "/firebase-config.json",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "OAI-SearchBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "requests": 4,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.bak",
+        1
+      ],
+      [
+        "/config.js",
+        1
+      ],
+      [
+        "/config/secrets.yml",
+        1
+      ],
+      [
+        "/secrets.json",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "anthropic-ai",
+    "user_agent": "anthropic-ai",
+    "requests": 4,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.development",
+        1
+      ],
+      [
+        "/api/.env",
+        1
+      ],
+      [
+        "/config.env",
+        1
+      ],
+      [
+        "/secrets.yml",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "GPTBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "requests": 3,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/application.properties",
+        1
+      ],
+      [
+        "/backup/",
+        1
+      ],
+      [
+        "/public/.env",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "PerplexityBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
+    "requests": 3,
+    "read_robots": false,
+    "fetched_disallowed": 2,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.old",
+        1
+      ],
+      [
+        "/.git/",
+        1
+      ],
+      [
+        "/v1/graphql",
+        1
       ]
     ]
   }

