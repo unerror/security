@@ -1,7 +1,7 @@
 [
   {
     "cve": "CVE-2017-9841",
-    "probes": 86,
+    "probes": 88,
     "example": "/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php"
   },
   {
