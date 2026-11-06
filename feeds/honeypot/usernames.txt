@@ -1,8 +1,8 @@
-1940	root
-370	admin
+1928	root
+378	admin
 213	ubuntu
 118	user
-81	deploy
+80	deploy
 61	test
 47	administrator
 38	debian
@@ -17,10 +17,10 @@
 29	postgres
 25	frappe
 24	git
-23	rootssssss23424123123
-21	post
 21	testuser
 20	pi
+20	post
+20	rootssssss23424123123
 20	steam
 20	user2
 19	admin1
@@ -41,7 +41,6 @@
 13	devops
 13	hadoop
 13	node
-13	rdpuser
 13	server
 13	web
 12	operator
@@ -50,6 +49,7 @@
 11	master
 11	myuser
 11	odoo
+11	rdpuser
 11	username
 10	appuser
 10	fastuser
