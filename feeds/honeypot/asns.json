@@ -1,9 +1,5 @@
 [
   {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 253683
-  },
-  {
     "asn_org": "ColocaTel Inc.",
     "events": 221256
   },
@@ -12,20 +8,36 @@
     "events": 219696
   },
   {
-    "asn_org": "Banatsync Srl",
-    "events": 72670
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 162785
+  },
+  {
+    "asn_org": "F.n.s. Holdings Limited",
+    "events": 64672
   },
   {
     "asn_org": "Psychz Networks",
-    "events": 61609
+    "events": 61620
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 57142
+    "events": 55556
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 50317
   },
   {
     "asn_org": "Google LLC",
-    "events": 43266
+    "events": 42713
+  },
+  {
+    "asn_org": "SolidCore Hosting LTD",
+    "events": 28729
+  },
+  {
+    "asn_org": "UAB Cherry Servers",
+    "events": 28419
   },
   {
     "asn_org": "MNR Broadband Services Pvt. Ltd.",
@@ -36,47 +48,35 @@
     "events": 25814
   },
   {
-    "asn_org": "UAB Cherry Servers",
-    "events": 19963
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 19714
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 19039
-  },
-  {
-    "asn_org": "SolidCore Hosting LTD",
-    "events": 18770
-  },
-  {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 18400
+    "events": 18811
   },
   {
     "asn_org": "Chinanet",
-    "events": 17264
+    "events": 17594
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 15809
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 15279
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 14957
+    "events": 15740
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14864
+    "events": 14742
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 14471
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 14380
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 13141
-  },
-  {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 10539
+    "events": 14058
   }
 ]
