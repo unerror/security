@@ -1,10 +1,10 @@
 61	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-55	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+56	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 12	best-proxies.ru
 8	www.nokia.com
-3	api.ipify.org
-2	icanhazip.com
-2	xmrig.com
+4	api.ipify.org
+3	icanhazip.com
+3	xmrig.com
 2	clientapi.ipip.net
 1	httpbin.org
 1	azenv.net
