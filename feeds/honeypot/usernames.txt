@@ -1,12 +1,12 @@
-2259	root
-342	admin
-216	ubuntu
+2264	root
+343	admin
+218	ubuntu
 130	user
 104	deploy
 75	test
 60	user1
 54	claude
-45	minecraft
+48	minecraft
 42	guest
 41	developer
 40	postgres
@@ -44,9 +44,9 @@
 18	runner
 18	zalee	
 17	myuser
+17	rootssssss23424123123
 16	alex
 16	kingbase
-16	rootssssss23424123123
 15	azureuser
 15	john
 15	newuser
@@ -61,6 +61,7 @@
 13	sam
 12	cloud
 12	ec2-user
+12	super
 12	ts3
 12	vncuser
 12	webadmin
@@ -68,7 +69,6 @@
 11	kevin
 11	main
 11	service
-11	super
 10	bob
 10	codex
 10	gitlab-runner
@@ -79,6 +79,7 @@
 9	Tronlong
 9	aiuser
 9	apache
+9	bot
 9	chris
 9	customer
 9	demo
@@ -97,4 +98,3 @@
 9	worker
 8	admin2
 8	ai
-8	amir

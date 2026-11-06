@@ -1,15 +1,15 @@
 [
   {
     "asn_org": "BestDC Limited",
-    "events": 185837
+    "events": 185829
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 117052
+    "events": 117088
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 73460
+    "events": 73455
   },
   {
     "asn_org": "Psychz Networks",
@@ -17,15 +17,15 @@
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 53485
+    "events": 53624
   },
   {
     "asn_org": "Google LLC",
-    "events": 36702
+    "events": 37717
   },
   {
     "asn_org": "VPS Dedicated LLC",
-    "events": 33343
+    "events": 33323
   },
   {
     "asn_org": "China Telecom (Group)",
@@ -37,19 +37,19 @@
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18354
+    "events": 18364
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 14787
+    "events": 14827
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14254
+    "events": 14263
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 14137
+    "events": 13828
   },
   {
     "asn_org": "Tc Datacenter Limited",
@@ -61,22 +61,22 @@
   },
   {
     "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 9682
-  },
-  {
-    "asn_org": "GSL Networks Pty LTD",
-    "events": 9022
+    "events": 9700
   },
   {
     "asn_org": "HUAWEI CLOUDS",
-    "events": 8739
+    "events": 9349
   },
   {
     "asn_org": "Husam A. H. Hijazi",
-    "events": 8168
+    "events": 7673
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 7383
+    "events": 7426
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 7374
   }
 ]
