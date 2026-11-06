@@ -1,11 +1,15 @@
 [
   {
     "asn_org": "BestDC Limited",
-    "events": 185609
+    "events": 184658
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 142632
+    "events": 142714
+  },
+  {
+    "asn_org": "ColocaTel Inc.",
+    "events": 61526
   },
   {
     "asn_org": "Psychz Networks",
@@ -13,70 +17,66 @@
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 53847
+    "events": 56521
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 53508
+    "events": 52888
+  },
+  {
+    "asn_org": "AO ALMAZ",
+    "events": 49852
   },
   {
     "asn_org": "Google LLC",
-    "events": 40630
+    "events": 39195
   },
   {
     "asn_org": "VPS Dedicated LLC",
-    "events": 33305
+    "events": 32766
   },
   {
     "asn_org": "China Telecom (Group)",
     "events": 27860
   },
   {
+    "asn_org": "MNR Broadband Services Pvt. Ltd.",
+    "events": 26398
+  },
+  {
     "asn_org": "ONYPHE SAS",
-    "events": 18457
+    "events": 18456
   },
   {
     "asn_org": "Space Exploration Technologies Corporation",
     "events": 16609
   },
   {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 14470
-  },
-  {
     "asn_org": "Host Europe GmbH",
-    "events": 14225
+    "events": 14398
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 13646
+    "events": 14305
   },
   {
-    "asn_org": "Tc Datacenter Limited",
-    "events": 13226
+    "asn_org": "Amazon.com, Inc.",
+    "events": 14254
+  },
+  {
+    "asn_org": "Akamai Connected Cloud",
+    "events": 12471
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
     "events": 9772
   },
   {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 9670
-  },
-  {
-    "asn_org": "HUAWEI CLOUDS",
-    "events": 9349
-  },
-  {
-    "asn_org": "Feo Prest SRL",
-    "events": 7635
-  },
-  {
     "asn_org": "Techoff Srv Limited",
-    "events": 7203
+    "events": 9607
   },
   {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 6710
+    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "events": 9468
   }
 ]

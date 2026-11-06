@@ -1,12 +1,12 @@
 [
   {
     "cve": "CVE-2021-41773",
-    "probes": 1356,
+    "probes": 1614,
     "example": "/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.aws/config"
   },
   {
     "cve": "CVE-2017-9841",
-    "probes": 127,
+    "probes": 129,
     "example": "/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php"
   },
   {
