@@ -5,43 +5,43 @@
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 219704
+    "events": 219657
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 144690
+    "events": 144711
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 119427
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 66244
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
     "events": 64672
   },
   {
-    "asn_org": "Psychz Networks",
-    "events": 61620
-  },
-  {
     "asn_org": "DigitalOcean, LLC",
-    "events": 58421
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 56999
-  },
-  {
-    "asn_org": "Alsycon B.V.",
-    "events": 53893
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 42591
+    "events": 58199
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 39978
+    "events": 51593
   },
   {
     "asn_org": "UAB Cherry Servers",
-    "events": 35542
+    "events": 43323
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 43138
+  },
+  {
+    "asn_org": "Private Layer INC",
+    "events": 29526
   },
   {
     "asn_org": "MNR Broadband Services Pvt. Ltd.",
@@ -53,30 +53,30 @@
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 20969
+    "events": 22285
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18733
+    "events": 18945
   },
   {
     "asn_org": "Chinanet",
-    "events": 17623
+    "events": 18551
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 16510
+    "events": 18530
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 15159
+    "events": 15421
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 15023
+    "events": 15173
   },
   {
-    "asn_org": "Host Europe GmbH",
-    "events": 14732
+    "asn_org": "CHINA UNICOM China169 Backbone",
+    "events": 14795
   }
 ]
