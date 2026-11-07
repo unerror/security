@@ -1,8 +1,8 @@
-4900	/
-346	/robots.txt
-327	/.env
-304	/sitemap.xml
-294	/canary/ug7H1ZsHFeFLlrFoLZ6ikmJN
+4910	/
+355	/robots.txt
+329	/.env
+313	/sitemap.xml
+304	/canary/ug7H1ZsHFeFLlrFoLZ6ikmJN
 219	/info.php
 203	/wp-json/batch/v1
 187	/v1/chat/completions
@@ -16,7 +16,7 @@
 133	/.DS_Store
 133	/manager/html
 129	/debug/default/view?panel=config
-118	/.git/config
+117	/.git/config
 98	/.aws/credentials
 94	/config.js
 89	/env.js
@@ -126,8 +126,8 @@
 52	/wp-login.php
 47	/?author=1
 47	/?p=1
+47	/favicon.ico
 46	/?page_id=2
-46	/favicon.ico
 44	/?cat=1
 43	/?m=201206
 42	/.env.production
