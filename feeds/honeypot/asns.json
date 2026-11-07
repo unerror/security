@@ -1,27 +1,27 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 263276
+    "events": 476526
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 253363
+    "events": 320669
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 169846
-  },
-  {
-    "asn_org": "ColocaTel Inc.",
-    "events": 159726
+    "events": 99975
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 73440
+    "events": 85041
+  },
+  {
+    "asn_org": "ColocaTel Inc.",
+    "events": 77108
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 71675
+    "events": 71691
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
@@ -29,54 +29,54 @@
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 60740
+    "events": 59223
   },
   {
     "asn_org": "UAB Cherry Servers",
-    "events": 46163
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 39841
+    "events": 44251
   },
   {
     "asn_org": "Private Layer INC",
-    "events": 38842
+    "events": 39191
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 38581
   },
   {
     "asn_org": "Cloudflare, Inc.",
-    "events": 26213
-  },
-  {
-    "asn_org": "KINX",
-    "events": 25814
+    "events": 26789
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 23465
+    "events": 23453
   },
   {
-    "asn_org": "ONYPHE SAS",
-    "events": 18731
+    "asn_org": "Microsoft Corporation",
+    "events": 19858
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 17069
+    "events": 19400
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 18473
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 16195
-  },
-  {
-    "asn_org": "CHINA UNICOM China169 Backbone",
-    "events": 15441
+    "events": 16632
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 15182
+    "events": 15748
+  },
+  {
+    "asn_org": "CHINA UNICOM China169 Backbone",
+    "events": 15579
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14827
+    "events": 14884
   }
 ]
