@@ -1,21 +1,21 @@
 {
-  "generated": "2026-11-07T06:10:09+00:00",
+  "generated": "2026-11-07T09:10:07+00:00",
   "window_hours": 24,
   "schema": 1,
   "counts": {
-    "hashes": 8,
+    "hashes": 7,
     "wallets": 0,
-    "hassh": 35,
+    "hassh": 33,
     "ssh_public_keys": 2,
     "cves": 1,
     "asns": 20,
     "paths": 399,
     "ja3": 100,
-    "ja4": 98,
+    "ja4": 99,
     "usernames": 100,
     "wallet_sweeps": 0,
-    "novel_hashes": 4,
-    "ai_crawlers": 9,
+    "novel_hashes": 3,
+    "ai_crawlers": 8,
     "useragents": 200
   },
   "files": [

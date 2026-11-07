@@ -1,51 +1,51 @@
 [
   {
-    "asn_org": "ColocaTel Inc.",
-    "events": 221256
-  },
-  {
-    "asn_org": "AO ALMAZ",
-    "events": 219653
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 263276
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 183914
+    "events": 253363
   },
   {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 118824
+    "asn_org": "AO ALMAZ",
+    "events": 169846
   },
   {
-    "asn_org": "Banatsync Srl",
-    "events": 79174
-  },
-  {
-    "asn_org": "F.n.s. Holdings Limited",
-    "events": 64672
+    "asn_org": "ColocaTel Inc.",
+    "events": 159726
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 62253
+    "events": 73440
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 71675
+  },
+  {
+    "asn_org": "F.n.s. Holdings Limited",
+    "events": 64652
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 59686
+    "events": 60740
   },
   {
     "asn_org": "UAB Cherry Servers",
-    "events": 46074
+    "events": 46163
   },
   {
     "asn_org": "Google LLC",
-    "events": 40566
+    "events": 39841
   },
   {
     "asn_org": "Private Layer INC",
-    "events": 38547
+    "events": 38842
   },
   {
-    "asn_org": "MNR Broadband Services Pvt. Ltd.",
-    "events": 26081
+    "asn_org": "Cloudflare, Inc.",
+    "events": 26213
   },
   {
     "asn_org": "KINX",
@@ -53,30 +53,30 @@
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 23529
-  },
-  {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 19223
+    "events": 23465
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18948
+    "events": 18731
   },
   {
-    "asn_org": "Chinanet",
-    "events": 16533
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 15950
+    "asn_org": "CMC Telecom Infrastructure Company",
+    "events": 17069
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 15803
+    "events": 16195
   },
   {
     "asn_org": "CHINA UNICOM China169 Backbone",
-    "events": 15062
+    "events": 15441
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 15182
+  },
+  {
+    "asn_org": "Host Europe GmbH",
+    "events": 14827
   }
 ]
