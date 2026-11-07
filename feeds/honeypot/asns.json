@@ -5,11 +5,11 @@
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 219696
+    "events": 219704
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 162785
+    "events": 144690
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
@@ -21,23 +21,27 @@
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 55556
+    "events": 58421
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 50317
+    "events": 56999
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 53893
   },
   {
     "asn_org": "Google LLC",
-    "events": 42713
+    "events": 42591
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 28729
+    "events": 39978
   },
   {
     "asn_org": "UAB Cherry Servers",
-    "events": 28419
+    "events": 35542
   },
   {
     "asn_org": "MNR Broadband Services Pvt. Ltd.",
@@ -49,34 +53,30 @@
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 19714
+    "events": 20969
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18811
+    "events": 18733
   },
   {
     "asn_org": "Chinanet",
-    "events": 17594
+    "events": 17623
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 15740
-  },
-  {
-    "asn_org": "Host Europe GmbH",
-    "events": 14742
+    "events": 16510
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 14471
+    "events": 15159
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 14380
+    "events": 15023
   },
   {
-    "asn_org": "Techoff Srv Limited",
-    "events": 14058
+    "asn_org": "Host Europe GmbH",
+    "events": 14732
   }
 ]
