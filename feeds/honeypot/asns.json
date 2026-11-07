@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 573238
+    "events": 506243
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 386677
+    "events": 453085
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 89430
+    "events": 90472
   },
   {
-    "asn_org": "Banatsync Srl",
-    "events": 71477
+    "asn_org": "Primesoftex Ltd",
+    "events": 78167
   },
   {
     "asn_org": "F.n.s. Holdings Limited",
     "events": 64652
   },
   {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 59506
-  },
-  {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 46370
+    "events": 60376
   },
   {
-    "asn_org": "Private Layer INC",
-    "events": 39336
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 37757
+    "asn_org": "DigitalOcean, LLC",
+    "events": 57835
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 36252
+    "events": 41269
+  },
+  {
+    "asn_org": "Private Layer INC",
+    "events": 39464
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 38952
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 36496
   },
   {
     "asn_org": "UAB Cherry Servers",
-    "events": 36052
+    "events": 29993
   },
   {
     "asn_org": "Cloudflare, Inc.",
-    "events": 27559
-  },
-  {
-    "asn_org": "AO ALMAZ",
-    "events": 25487
-  },
-  {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 23455
+    "events": 27555
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 21317
+    "events": 21241
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 17990
+    "events": 16980
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 16213
+    "events": 16590
   },
   {
     "asn_org": "CHINA UNICOM China169 Backbone",
-    "events": 15790
+    "events": 15834
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 14989
+    "events": 14866
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14811
+    "events": 14827
+  },
+  {
+    "asn_org": "Akamai Connected Cloud",
+    "events": 11532
   }
 ]
