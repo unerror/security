@@ -1,11 +1,11 @@
 [
   {
     "asn_org": "Alsycon B.V.",
-    "events": 554265
+    "events": 564501
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 506650
+    "events": 506766
   },
   {
     "asn_org": "Primesoftex Ltd",
@@ -13,70 +13,70 @@
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 91275
+    "events": 90049
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 62734
+    "events": 65486
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 55207
+    "events": 58503
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 44635
-  },
-  {
-    "asn_org": "Private Layer INC",
-    "events": 39860
+    "events": 45197
   },
   {
     "asn_org": "Google LLC",
-    "events": 37219
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 30025
+    "events": 36888
   },
   {
     "asn_org": "Cloudflare, Inc.",
-    "events": 27965
+    "events": 28816
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 22151
+    "events": 22196
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 20739
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 16626
-  },
-  {
-    "asn_org": "CHINA UNICOM China169 Backbone",
-    "events": 16127
-  },
-  {
-    "asn_org": "Host Europe GmbH",
-    "events": 14871
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 14453
+    "events": 16705
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 14266
+    "events": 15092
   },
   {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 12955
+    "asn_org": "Host Europe GmbH",
+    "events": 14805
   },
   {
-    "asn_org": "UAB Cherry Servers",
-    "events": 11948
+    "asn_org": "ONYPHE SAS",
+    "events": 13006
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 11481
+    "events": 11657
+  },
+  {
+    "asn_org": "Akamai Connected Cloud",
+    "events": 11446
+  },
+  {
+    "asn_org": "Private Layer INC",
+    "events": 10342
+  },
+  {
+    "asn_org": "DELUXHOST",
+    "events": 10076
+  },
+  {
+    "asn_org": "Comcast Cable Communications, LLC",
+    "events": 9692
   }
 ]
