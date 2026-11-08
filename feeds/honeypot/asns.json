@@ -1,11 +1,11 @@
 [
   {
     "asn_org": "Alsycon B.V.",
-    "events": 568747
+    "events": 689711
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 506779
+    "events": 546306
   },
   {
     "asn_org": "Primesoftex Ltd",
@@ -13,70 +13,70 @@
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 89911
+    "events": 90363
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 65729
+    "events": 68109
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 58783
+    "events": 59583
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 45249
+    "events": 45586
   },
   {
     "asn_org": "Google LLC",
-    "events": 36975
+    "events": 38915
   },
   {
     "asn_org": "Cloudflare, Inc.",
-    "events": 29016
+    "events": 29013
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 22178
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 17933
+    "events": 21994
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 16648
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 14835
+    "events": 16468
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14794
+    "events": 14803
   },
   {
-    "asn_org": "ONYPHE SAS",
-    "events": 12864
+    "asn_org": "Techoff Srv Limited",
+    "events": 14780
   },
   {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 11662
+    "asn_org": "Censys, Inc.",
+    "events": 14716
   },
   {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 11219
+    "asn_org": "Tc Datacenter Limited",
+    "events": 13272
   },
   {
     "asn_org": "DELUXHOST",
-    "events": 10364
+    "events": 12302
   },
   {
-    "asn_org": "Private Layer INC",
-    "events": 10298
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 12031
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 11667
+  },
+  {
+    "asn_org": "Akamai Connected Cloud",
+    "events": 11551
   },
   {
     "asn_org": "Comcast Cable Communications, LLC",
-    "events": 9692
+    "events": 9251
   }
 ]
