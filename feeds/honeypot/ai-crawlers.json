@@ -2,18 +2,18 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 681,
+    "requests": 669,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/sitemap.xml",
-        341
+        335
       ],
       [
         "/robots.txt",
-        340
+        334
       ]
     ]
   },
@@ -123,6 +123,34 @@
       ],
       [
         "/graphql/console",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "ClaudeBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
+    "requests": 1,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.development",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "anthropic-ai",
+    "user_agent": "anthropic-ai",
+    "requests": 1,
+    "read_robots": false,
+    "fetched_disallowed": 0,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/backend/.env",
         1
       ]
     ]

@@ -2,6 +2,13 @@
 60	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 12	https://best-proxies.ru/faq/#from
 8	https://www.nokia.com/genomecrawler
+5	http://api.ipify.org
+5	http://icanhazip.com
+5	http://ifconfig.me/ip
+5	https://1.1.1.1/cdn-cgi/trace
+5	https://curl.se/docs/alt-svc.html
+5	https://curl.se/docs/http-cookies.html
+5	https://xmrig.com/wizard
 4	http://45.9.2.239:24381/bins/adb/akuma.arc
 4	http://45.9.2.239:24381/bins/adb/akuma.arm
 4	http://45.9.2.239:24381/bins/adb/akuma.arm5
@@ -20,13 +27,6 @@
 4	http://45.9.2.239:24381/bins/adb/akuma.sh4
 4	http://45.9.2.239:24381/bins/adb/akuma.spc
 4	http://45.9.2.239:24381/bins/adb/akuma.x64
-4	http://api.ipify.org
-4	http://icanhazip.com
-4	http://ifconfig.me/ip
-4	https://1.1.1.1/cdn-cgi/trace
-4	https://curl.se/docs/alt-svc.html
-4	https://curl.se/docs/http-cookies.html
-4	https://xmrig.com/wizard
 2	http://45.9.2.239:24381/bins/adb/akuma.arm64
 2	https://infrawat.ch/
 1	http://httpbin.org/get
