@@ -1,11 +1,11 @@
 [
   {
     "asn_org": "Alsycon B.V.",
-    "events": 564501
+    "events": 568747
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 506766
+    "events": 506779
   },
   {
     "asn_org": "Primesoftex Ltd",
@@ -13,67 +13,67 @@
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 90049
+    "events": 89911
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 65486
+    "events": 65729
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 58503
+    "events": 58783
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 45197
+    "events": 45249
   },
   {
     "asn_org": "Google LLC",
-    "events": 36888
+    "events": 36975
   },
   {
     "asn_org": "Cloudflare, Inc.",
-    "events": 28816
+    "events": 29016
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 22196
+    "events": 22178
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 20739
+    "events": 17933
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 16705
+    "events": 16648
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 15092
+    "events": 14835
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14805
+    "events": 14794
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 13006
+    "events": 12864
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 11657
+    "events": 11662
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 11446
-  },
-  {
-    "asn_org": "Private Layer INC",
-    "events": 10342
+    "events": 11219
   },
   {
     "asn_org": "DELUXHOST",
-    "events": 10076
+    "events": 10364
+  },
+  {
+    "asn_org": "Private Layer INC",
+    "events": 10298
   },
   {
     "asn_org": "Comcast Cable Communications, LLC",

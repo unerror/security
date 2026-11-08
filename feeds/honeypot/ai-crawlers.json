@@ -2,18 +2,128 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 717,
+    "requests": 689,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/sitemap.xml",
-        359
+        345
       ],
       [
         "/robots.txt",
-        358
+        344
+      ]
+    ]
+  },
+  {
+    "crawler": "CCBot",
+    "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
+    "requests": 4,
+    "read_robots": false,
+    "fetched_disallowed": 3,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.staging",
+        1
+      ],
+      [
+        "/.git/",
+        1
+      ],
+      [
+        "/.git/config",
+        1
+      ],
+      [
+        "/firebase-config.json",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "Bytespider",
+    "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
+    "requests": 4,
+    "read_robots": false,
+    "fetched_disallowed": 0,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.aws/credentials",
+        1
+      ],
+      [
+        "/api/config",
+        1
+      ],
+      [
+        "/application.properties",
+        1
+      ],
+      [
+        "/service-worker.js",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "PerplexityBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
+    "requests": 3,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.backup",
+        1
+      ],
+      [
+        "/config.js",
+        1
+      ],
+      [
+        "/storage/logs/laravel.log",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "GPTBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "requests": 2,
+    "read_robots": false,
+    "fetched_disallowed": 0,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/admin/.env",
+        1
+      ],
+      [
+        "/config/application.properties",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "OAI-SearchBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+    "requests": 2,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.production",
+        1
+      ],
+      [
+        "/graphql/console",
+        1
       ]
     ]
   }
