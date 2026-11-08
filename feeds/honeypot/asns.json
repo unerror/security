@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "Alsycon B.V.",
-    "events": 956916
-  },
-  {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 190428
+    "events": 890564
   },
   {
     "asn_org": "Primesoftex Ltd",
     "events": 92241
   },
   {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 72159
+    "asn_org": "DigitalOcean, LLC",
+    "events": 65233
+  },
+  {
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 64416
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 72090
+    "events": 59889
   },
   {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 64127
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 38808
   },
   {
     "asn_org": "Google LLC",
-    "events": 36661
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 35157
+    "events": 35842
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 23497
+    "events": 30268
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 22716
+    "events": 23498
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 20091
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 20012
+    "events": 20074
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 17219
+    "events": 17541
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 16555
+    "events": 16709
   },
   {
     "asn_org": "IDDQD-AS",
-    "events": 16200
-  },
-  {
-    "asn_org": "Host Europe GmbH",
-    "events": 14437
+    "events": 16201
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 14436
+    "events": 14373
   },
   {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 13001
+    "asn_org": "Host Europe GmbH",
+    "events": 14347
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 12378
-  },
-  {
-    "asn_org": "DELUXHOST",
-    "events": 12130
+    "events": 12564
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 11020
+    "events": 12535
+  },
+  {
+    "asn_org": "Akamai Connected Cloud",
+    "events": 12276
+  },
+  {
+    "asn_org": "DELUXHOST",
+    "events": 12131
   }
 ]
