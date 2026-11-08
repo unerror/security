@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T15:10:03+00:00",
+  "generated": "2026-11-08T18:10:05+00:00",
   "window_hours": 24,
   "schema": 1,
   "counts": {
@@ -16,7 +16,7 @@
     "wallet_sweeps": 0,
     "novel_hashes": 1,
     "ai_crawlers": 8,
-    "useragents": 188
+    "useragents": 184
   },
   "files": [
     "iocs.csv",

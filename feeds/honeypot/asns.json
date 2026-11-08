@@ -1,55 +1,51 @@
 [
   {
     "asn_org": "Alsycon B.V.",
-    "events": 890564
-  },
-  {
-    "asn_org": "Primesoftex Ltd",
-    "events": 92241
+    "events": 824067
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 65233
+    "events": 67116
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 64416
+    "events": 51504
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 59889
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 38808
+    "events": 48851
   },
   {
     "asn_org": "Google LLC",
-    "events": 35842
+    "events": 36651
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 30268
+    "events": 30493
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 26650
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 23498
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 20091
+    "events": 24013
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 20074
+    "events": 20195
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 17541
+    "events": 18397
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 16709
+    "events": 16916
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 16577
   },
   {
     "asn_org": "IDDQD-AS",
@@ -57,26 +53,30 @@
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 14373
+    "events": 14959
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14347
+    "events": 14062
   },
   {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 12564
+    "asn_org": "Primesoftex Ltd",
+    "events": 14044
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 12535
+    "events": 13909
   },
   {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 12276
+    "asn_org": "Datacamp Limited",
+    "events": 12462
   },
   {
-    "asn_org": "DELUXHOST",
-    "events": 12131
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 12383
+  },
+  {
+    "asn_org": "Comcast Cable Communications, LLC",
+    "events": 12221
   }
 ]
