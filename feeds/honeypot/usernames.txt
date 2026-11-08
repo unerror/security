@@ -1,100 +1,100 @@
-486	root
-237	admin
+1043	root
+286	admin
 146	jrodrig
-73	User-Agent: python-requests/2.27.1
-46	Accept: */*
-41	ubuntu
-34	administrator
-26	rootssssss23424123123
-20	user
-14	admin1
-12	developer
+125	User-Agent: python-requests/2.27.1
+94	Accept: */*
+86	ubuntu
+66	user
+38	administrator
+37	deploy
+30	test
+23	rootssssss23424123123
+21	admin1
+19	developer
+19	user1
+17	Tronlong
+14	debian
+14	guest
+13	claude
+13	dev
+13	postgres
+13	support
+11	azureuser
+11	ftpuser
+11	git
+11	super
+10	deployer
+10	devops
+10	minecraft
+10	testuser
+9	GET /phpversions.php HTTP/1.1
 9	lghkel	
+9	pi
 9	zalee	
+8	GET /_asterisk/graph.php HTTP/1.1
+8	GET /recordings/misc/graph.php HTTP/1.1
+8	openclaw
 8	post
-8	super
-8	support
-8	test
-7	deploy
-7	ubnt
-6	apache
-6	backup
-6	dev
-6	guest
-5	Administrator
+8	steam
+8	user2
+7	Administrator
+7	GET /_asterisk/phpversions.php HTTP/1.1
+7	GET /assets/phpversions.php HTTP/1.1
+7	GET /recordings/misc/phpversions.php HTTP/1.1
+7	GET /vtigercrm/phpversions.php HTTP/1.1
+7	apache
+7	backup
+7	linaro
+7	oracle
+7	student
+7	trader
+6	Admin
+6	GET /assets/graph.php HTTP/1.1
+6	GET /graph.php HTTP/1.1
+6	GET /vtigercrm/graph.php HTTP/1.1
+6	frappe
+6	jenkins
+6	mysql
+6	root1
+6	runner
+6	test1
+6	ubnt
 5	GET / HTTP/1.1
-5	GET /_asterisk/graph.php HTTP/1.1
-5	GET /recordings/misc/graph.php HTTP/1.1
-5	anusha
+5	appuser
 5	arkserver
-5	azureuser
-5	cailee
 5	cody
 5	corin
 5	daeja
+5	elasticsearch
 5	elli
 5	ellison
 5	gisele
+5	hadoop
 5	idalis
 5	jakiya
 5	janelly
 5	jazmen
 5	jenica
+5	john
 5	joshua
-4	GET /_asterisk/phpversions.php HTTP/1.1
-4	GET /assets/graph.php HTTP/1.1
-4	GET /assets/phpversions.php HTTP/1.1
-4	GET /graph.php HTTP/1.1
-4	GET /phpversions.php HTTP/1.1
-4	GET /recordings/misc/phpversions.php HTTP/1.1
-4	GET /vtigercrm/phpversions.php HTTP/1.1
+5	kateri
+5	kieran
+5	myuser
+5	newuser
+5	node
+5	odoo
+5	operator
+5	rdpuser
+5	server
+5	username
+4	GET /admin/assets/js/views/login.js HTTP/1.1
+4	GET /admin/views/phpversions.php HTTP/1.1
 4	TMAR#DLKT20060205
+4	adminuser
+4	alex
+4	ansible
+4	cloud
 4	cuadmin
-4	sanjay
-4	yhtcAdmin
-3	*1
-3	1234
-3	345gs5662d34
-3	Admin
-3	CMCCAdmin
-3	GET /admin/assets/js/views/login.js HTTP/1.1
-3	GET /vtigercrm/graph.php HTTP/1.1
-3	OPTIONS rtsp://example.com RTSP/1.0
-3	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-3	b'\xdf\xda\xd3\xd7\xd0'
-3	debian
-3	deployer
-3	devops
-3	docker
-3	doris
-3	ftp
-3	ftpuser
-3	joslynn
-3	netscreen
-3	pi
-3	smart
-3	test1234
-3	tom
-3	user1
-3	ximo
-2	123456
-2	GET /a2billing/admin/Public/graph.php HTTP/1.1
-2	GET /admin/modules/core/graph.php HTTP/1.1
-2	GET /admin/views/config.php HTTP/1.1
-2	GET /admin/views/graph.php HTTP/1.1
-2	GET /admin/views/phpversions.php HTTP/1.1
-2	GET /assets HTTP/1.1
-2	GET /digium_phones/ajax.php HTTP/1.1
-2	GET /recordings/graph.php HTTP/1.1
-2	GET /recordings/index.php HTTP/1.1
-2	GET /recordings/phpversions.php HTTP/1.1
-2	GET /recordings/theme/main.css HTTP/1.1
-2	GET /restapps/ HTTP/1.1
-2	GET /vtigercrm/index.php HTTP/1.1
-2	Manager
-2	User-Agent: Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity
-2	ansible
-2	applmgr
-2	be
-2	bogdan
-2	boss
+4	demo
+4	docker
+4	fastuser

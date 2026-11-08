@@ -1,11 +1,11 @@
 [
   {
     "asn_org": "Alsycon B.V.",
-    "events": 689711
+    "events": 923940
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 546306
+    "events": 402870
   },
   {
     "asn_org": "Primesoftex Ltd",
@@ -13,70 +13,70 @@
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 90363
+    "events": 83691
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 68109
+    "events": 70151
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 59583
+    "events": 63081
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 45586
+    "events": 45466
   },
   {
     "asn_org": "Google LLC",
-    "events": 38915
+    "events": 38053
   },
   {
-    "asn_org": "Cloudflare, Inc.",
-    "events": 29013
+    "asn_org": "Banatsync Srl",
+    "events": 23251
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 21994
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 16468
-  },
-  {
-    "asn_org": "Host Europe GmbH",
-    "events": 14803
-  },
-  {
-    "asn_org": "Techoff Srv Limited",
-    "events": 14780
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 14716
+    "events": 21927
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 13272
+    "events": 19889
   },
   {
-    "asn_org": "DELUXHOST",
-    "events": 12302
+    "asn_org": "Amazon.com, Inc.",
+    "events": 16865
   },
   {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 12031
+    "asn_org": "Techoff Srv Limited",
+    "events": 15631
   },
   {
-    "asn_org": "ONYPHE SAS",
-    "events": 11667
+    "asn_org": "Censys, Inc.",
+    "events": 14899
+  },
+  {
+    "asn_org": "Host Europe GmbH",
+    "events": 14640
+  },
+  {
+    "asn_org": "IDDQD-AS",
+    "events": 13575
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 11551
+    "events": 12287
   },
   {
-    "asn_org": "Comcast Cable Communications, LLC",
-    "events": 9251
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 12221
+  },
+  {
+    "asn_org": "DELUXHOST",
+    "events": 12105
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 10515
   }
 ]
