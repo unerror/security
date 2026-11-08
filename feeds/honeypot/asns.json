@@ -1,11 +1,11 @@
 [
   {
     "asn_org": "Alsycon B.V.",
-    "events": 531140
+    "events": 554265
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 506485
+    "events": 506650
   },
   {
     "asn_org": "Primesoftex Ltd",
@@ -13,70 +13,70 @@
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 91683
+    "events": 91275
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 60170
+    "events": 62734
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 57385
+    "events": 55207
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 42702
+    "events": 44635
   },
   {
     "asn_org": "Private Layer INC",
-    "events": 39596
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 39006
+    "events": 39860
   },
   {
     "asn_org": "Google LLC",
-    "events": 37025
+    "events": 37219
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 30025
   },
   {
     "asn_org": "Cloudflare, Inc.",
-    "events": 27542
+    "events": 27965
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 21563
-  },
-  {
-    "asn_org": "UAB Cherry Servers",
-    "events": 21011
+    "events": 22151
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 17099
+    "events": 16626
   },
   {
     "asn_org": "CHINA UNICOM China169 Backbone",
-    "events": 15971
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 15870
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 15163
+    "events": 16127
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14826
+    "events": 14871
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 14453
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 14266
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 12597
+    "events": 12955
+  },
+  {
+    "asn_org": "UAB Cherry Servers",
+    "events": 11948
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 11170
+    "events": 11481
   }
 ]
