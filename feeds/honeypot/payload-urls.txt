@@ -1,4 +1,4 @@
-65	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+66	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 62	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 12	https://best-proxies.ru/faq/#from
 8	https://www.nokia.com/genomecrawler
@@ -27,9 +27,10 @@
 4	http://45.9.2.239:24381/bins/adb/akuma.sh4
 4	http://45.9.2.239:24381/bins/adb/akuma.spc
 4	http://45.9.2.239:24381/bins/adb/akuma.x64
-3	http://$H/superior.apk
+4	http://$H/superior.apk
 2	http://45.9.2.239:24381/bins/adb/akuma.arm64
 2	https://infrawat.ch/
+2	http://upx.sf.net
 1	http://httpbin.org/get
 1	http://azenv.net/
 1	https://apcosys.net
@@ -41,7 +42,6 @@
 1	http://proxy.flarevpn.digital:8080/judge
 1	http://clientapi.ipip.net/echo.php?info=20261031190407
 1	http://hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.h
-1	http://upx.sf.net
 1	http://v4.ident.me?Z71720080460Q1
 1	http://probe.invalid/
 1	http://clientapi.ipip.net/echo.php?info=20261102235855

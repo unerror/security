@@ -1,4 +1,4 @@
-65	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+66	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 62	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 12	best-proxies.ru
 8	www.nokia.com
@@ -6,10 +6,10 @@
 5	icanhazip.com
 5	xmrig.com
 2	clientapi.ipip.net
+2	upx.sf.net
 1	httpbin.org
 1	azenv.net
 1	apcosys.net
 1	www.onvif.org
 1	api.9hits.com
-1	upx.sf.net
 1	www.ayylmaotjhsstasdfasdfasdfasdfasdfasdfasdf.com

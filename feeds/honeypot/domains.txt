@@ -1,4 +1,4 @@
-65	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+66	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 62	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 13	visionheight.com
 12	best-proxies.ru
@@ -18,6 +18,7 @@
 4	libssh.org
 4	openssh.com
 2	clientapi.ipip.net
+2	upx.sf.net
 1	httpbin.org
 1	azenv.net
 1	apcosys.net
@@ -47,7 +48,6 @@
 1	k.ml
 1	ip.ifconfig.dpdns.org
 1	2y.cf
-1	upx.sf.net
 1	z.io
 1	u.net
 1	www.ayylmaotjhsstasdfasdfasdfasdfasdfasdfasdf.com
