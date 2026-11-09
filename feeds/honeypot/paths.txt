@@ -1,9 +1,9 @@
-3555	/
+3552	/
 348	/robots.txt
 343	/sitemap.xml
-334	/v1/chat/completions
+332	/v1/chat/completions
 269	/.env
-241	/canary/ug7H1ZsHFeFLlrFoLZ6ikmJN
+242	/canary/ug7H1ZsHFeFLlrFoLZ6ikmJN
 120	/.git/config
 117	/.well-known/security.txt
 110	/info.php
@@ -35,7 +35,7 @@
 64	/s/5313e2431323e29343e28333/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
 64	/server
 64	/v2/_catalog
-52	/favicon.ico
+50	/favicon.ico
 48	/.git/logs/HEAD
 48	/phpinfo.php
 44	/wp-login.php

@@ -1,23 +1,23 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 510421
+    "events": 514167
   },
   {
     "asn_org": "Latitude.sh",
-    "events": 326980
+    "events": 329229
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 59077
+    "events": 59048
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 50460
+    "events": 50209
   },
   {
     "asn_org": "Google LLC",
-    "events": 42749
+    "events": 43275
   },
   {
     "asn_org": "Husam A. H. Hijazi",
@@ -25,27 +25,27 @@
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 28508
+    "events": 28466
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 20317
+    "events": 20328
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 16967
+    "events": 16900
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14569
+    "events": 14573
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 14299
+    "events": 14320
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 12742
+    "events": 12743
   },
   {
     "asn_org": "Datacamp Limited",
@@ -57,26 +57,26 @@
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 10966
+    "events": 10907
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 9817
+    "events": 9766
   },
   {
     "asn_org": "Tencent Building, Kejizhongyi Avenue",
-    "events": 9613
+    "events": 9642
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 9577
+    "events": 9589
   },
   {
     "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 9499
+    "events": 9561
   },
   {
     "asn_org": "netcup GmbH",
-    "events": 9153
+    "events": 9103
   }
 ]
