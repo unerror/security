@@ -1,5 +1,5 @@
-23146	http://77.239.124.167/apk.sh
-11032	http://77.239.124.167/superior.apk
+23532	http://77.239.124.167/apk.sh
+11276	http://77.239.124.167/superior.apk
 67	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 66	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 12	https://best-proxies.ru/faq/#from
@@ -64,3 +64,4 @@
 1	http://160.119.66.206/bins/net.x86_64
 1	http://$C2:$PORT/$BOT
 1	http://www.ayylmaoTJHSSTasdfasdfasdfasdfasdfasdfasdf.com
+1	http://45.9.2.239:24381/bins/payloads/c.sh
