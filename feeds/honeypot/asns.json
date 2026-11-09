@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 609974
+    "events": 597521
   },
   {
     "asn_org": "Latitude.sh",
-    "events": 412735
-  },
-  {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 62669
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 58571
+    "events": 489147
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 56671
+    "events": 67383
+  },
+  {
+    "asn_org": "DigitalOcean, LLC",
+    "events": 67155
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 58715
   },
   {
     "asn_org": "Google LLC",
-    "events": 48023
+    "events": 50600
   },
   {
     "asn_org": "Husam A. H. Hijazi",
-    "events": 34023
+    "events": 28835
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 18941
+    "events": 17984
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 16685
+    "events": 16451
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14827
+    "events": 14806
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 14152
+    "events": 14041
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 13118
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 12832
+    "events": 12907
   },
   {
     "asn_org": "Tc Datacenter Limited",
     "events": 12064
   },
   {
-    "asn_org": "ONYPHE SAS",
-    "events": 11316
+    "asn_org": "Akamai Connected Cloud",
+    "events": 11419
   },
   {
     "asn_org": "Tencent Building, Kejizhongyi Avenue",
-    "events": 9700
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 9460
-  },
-  {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 9378
-  },
-  {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 9219
+    "events": 9518
   },
   {
     "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
-    "events": 9110
+    "events": 9128
+  },
+  {
+    "asn_org": "Oracle Corporation",
+    "events": 8962
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 9070
+    "events": 8613
+  },
+  {
+    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "events": 8325
   }
 ]

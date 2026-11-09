@@ -52,3 +52,6 @@
 1	u.net
 1	www.ayylmaotjhsstasdfasdfasdfasdfasdfasdfasdf.com
 1	22fjhgosurijfaewrwergwea.com
+1	duckduckgo.com
+1	twitter.com
+1	www.facebook.com

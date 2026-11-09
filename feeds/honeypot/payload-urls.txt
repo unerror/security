@@ -1,5 +1,5 @@
-67940	http://77.239.124.167/apk.sh
-16996	http://77.239.124.167/superior.apk
+86912	http://77.239.124.167/apk.sh
+21612	http://77.239.124.167/superior.apk
 69	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 66	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 12	https://best-proxies.ru/faq/#from
@@ -29,11 +29,11 @@
 4	http://45.9.2.239:24381/bins/adb/akuma.sh4
 4	http://45.9.2.239:24381/bins/adb/akuma.spc
 4	http://45.9.2.239:24381/bins/adb/akuma.x64
+4	http://45.9.2.239:24381/bins/payloads/w.sh
+4	http://45.9.2.239:24381/bins/payloads/c.sh
 2	http://45.9.2.239:24381/bins/adb/akuma.arm64
 2	https://infrawat.ch/
 2	http://upx.sf.net
-2	http://45.9.2.239:24381/bins/payloads/w.sh
-2	http://45.9.2.239:24381/bins/payloads/c.sh
 1	http://httpbin.org/get
 1	http://azenv.net/
 1	https://apcosys.net
@@ -64,3 +64,6 @@
 1	http://160.119.66.206/bins/net.x86
 1	http://160.119.66.206/bins/net.x86_64
 1	http://www.ayylmaoTJHSSTasdfasdfasdfasdfasdfasdfasdf.com
+1	https://duckduckgo.com/
+1	https://twitter.com/
+1	https://www.facebook.com/

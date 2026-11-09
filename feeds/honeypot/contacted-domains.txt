@@ -13,3 +13,6 @@
 1	www.onvif.org
 1	api.9hits.com
 1	www.ayylmaotjhsstasdfasdfasdfasdfasdfasdfasdf.com
+1	duckduckgo.com
+1	twitter.com
+1	www.facebook.com
