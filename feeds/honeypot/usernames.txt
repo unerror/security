@@ -1,27 +1,27 @@
-2124	root
-326	admin
-216	ubuntu
-130	user
-129	jrodrig
-98	User-Agent: python-requests/2.27.1
-94	deploy
-70	test
+2185	root
+318	admin
+223	ubuntu
+131	user
+116	jrodrig
+93	deploy
+72	test
+71	User-Agent: python-requests/2.27.1
 67	Accept: */*
 41	user1
 39	claude
-34	dev
-34	postgres
-30	testuser
+35	postgres
+33	dev
+32	testuser
 28	Tronlong
 28	debian
 28	git
 26	admin1
-26	deployer
 26	minecraft
+25	deployer
 25	ftpuser
-25	pi
+24	administrator
 24	frappe
-23	administrator
+24	pi
 23	developer
 23	trader
 22	guest
@@ -43,17 +43,17 @@
 14	linaro
 14	myuser
 14	operator
-14	rdpuser
-14	root1
 14	support
 13	newuser
 13	node
+13	rdpuser
 12	User-Agent: Go-http-client/1.1
 12	demo
 12	fastuser
 12	kingbase
 12	master
 12	odoo
+12	root1
 12	web
 11	alex
 11	cloud
@@ -66,11 +66,13 @@
 10	webadmin
 9	app
 9	bob
-9	botuser
+9	dmdba
+9	ec2-user
 9	lghkel	
 9	sol
 9	super
 9	zalee	
+8	botuser
 8	codex
 8	david
 8	erp
@@ -80,6 +82,7 @@
 8	odoo18
 8	service
 8	vncuser
+7	345gs5662d34
 7	ai
 7	aiuser
 7	bot
@@ -90,11 +93,8 @@
 7	milad
 7	teamspeak
 7	tom
-6	345gs5662d34
-6	GET /_asterisk/graph.php HTTP/1.1
-6	GET /_asterisk/phpversions.php HTTP/1.1
-6	GET /assets/phpversions.php HTTP/1.1
-6	GET /phpversions.php HTTP/1.1
-6	GET /recordings/misc/graph.php HTTP/1.1
-6	GET /recordings/misc/phpversions.php HTTP/1.1
-6	GET /vtigercrm/phpversions.php HTTP/1.1
+6	a
+6	ali
+6	amir
+6	bitrix
+6	default
