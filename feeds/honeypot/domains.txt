@@ -1,5 +1,5 @@
-70	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
-68	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+71	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+69	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 13	visionheight.com
 12	best-proxies.ru
 9	api.ipify.org
@@ -55,3 +55,5 @@
 1	duckduckgo.com
 1	twitter.com
 1	www.facebook.com
+1	e.ml
+1	s.cn
