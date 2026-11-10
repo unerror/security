@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 597521
+    "events": 599286
   },
   {
     "asn_org": "Latitude.sh",
-    "events": 489147
+    "events": 480037
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 67383
+    "events": 80019
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 67155
+    "events": 61649
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 58715
+    "events": 60626
   },
   {
     "asn_org": "Google LLC",
-    "events": 50600
+    "events": 53224
   },
   {
     "asn_org": "Husam A. H. Hijazi",
-    "events": 28835
+    "events": 19891
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 17984
+    "events": 17659
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 16451
-  },
-  {
-    "asn_org": "Host Europe GmbH",
-    "events": 14806
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 14041
+    "events": 16008
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 13118
+    "events": 15458
+  },
+  {
+    "asn_org": "Host Europe GmbH",
+    "events": 14857
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 13449
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 12907
+    "events": 12852
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 12064
+    "events": 12129
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 11419
-  },
-  {
-    "asn_org": "Tencent Building, Kejizhongyi Avenue",
-    "events": 9518
-  },
-  {
-    "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
-    "events": 9128
-  },
-  {
-    "asn_org": "Oracle Corporation",
-    "events": 8962
+    "events": 11826
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 8613
+    "events": 10440
   },
   {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 8325
+    "asn_org": "Tencent Building, Kejizhongyi Avenue",
+    "events": 9767
+  },
+  {
+    "asn_org": "Contabo Asia Private Limited",
+    "events": 9590
+  },
+  {
+    "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
+    "events": 9164
+  },
+  {
+    "asn_org": "Servicos de Infraestrutura e Datacenter",
+    "events": 9039
   }
 ]

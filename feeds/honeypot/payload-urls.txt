@@ -1,5 +1,5 @@
-86912	http://77.239.124.167/apk.sh
-21612	http://77.239.124.167/superior.apk
+103915	http://77.239.124.167/apk.sh
+25380	http://77.239.124.167/superior.apk
 69	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 66	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 12	https://best-proxies.ru/faq/#from
@@ -11,6 +11,8 @@
 7	https://curl.se/docs/alt-svc.html
 7	https://curl.se/docs/http-cookies.html
 7	https://xmrig.com/wizard
+5	http://45.9.2.239:24381/bins/payloads/w.sh
+5	http://45.9.2.239:24381/bins/payloads/c.sh
 4	http://45.9.2.239:24381/bins/adb/akuma.arc
 4	http://45.9.2.239:24381/bins/adb/akuma.arm
 4	http://45.9.2.239:24381/bins/adb/akuma.arm5
@@ -29,8 +31,6 @@
 4	http://45.9.2.239:24381/bins/adb/akuma.sh4
 4	http://45.9.2.239:24381/bins/adb/akuma.spc
 4	http://45.9.2.239:24381/bins/adb/akuma.x64
-4	http://45.9.2.239:24381/bins/payloads/w.sh
-4	http://45.9.2.239:24381/bins/payloads/c.sh
 2	http://45.9.2.239:24381/bins/adb/akuma.arm64
 2	https://infrawat.ch/
 2	http://upx.sf.net
