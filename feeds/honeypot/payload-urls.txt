@@ -1,11 +1,11 @@
 103915	http://77.239.124.167/apk.sh
 25380	http://77.239.124.167/superior.apk
 71	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
-69	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+70	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 12	https://best-proxies.ru/faq/#from
+9	http://45.9.2.239:24381/bins/payloads/w.sh
+9	http://45.9.2.239:24381/bins/payloads/c.sh
 8	https://www.nokia.com/genomecrawler
-8	http://45.9.2.239:24381/bins/payloads/w.sh
-8	http://45.9.2.239:24381/bins/payloads/c.sh
 7	http://api.ipify.org
 7	http://icanhazip.com
 7	http://ifconfig.me/ip

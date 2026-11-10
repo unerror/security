@@ -1,12 +1,12 @@
-1837	root
-209	admin
-109	ubuntu
-70	user
+1762	root
+206	admin
+102	ubuntu
+67	user
 38	test
 35	deploy
 28	debian
 23	administrator
-22	rootssssss23424123123
+18	rootssssss23424123123
 18	user1
 14	Tronlong
 12	guest
@@ -15,6 +15,7 @@
 11	ftpuser
 11	minecraft
 11	testuser
+11	tomcat
 10	admin1
 10	deployer
 10	lghkel	
@@ -36,6 +37,7 @@
 6	a
 6	appuser
 6	azureuser
+6	bot
 6	cloud
 6	devops
 6	john
@@ -45,8 +47,7 @@
 6	supervisor
 6	trader
 5	GET / HTTP/1.1
-5	bot
-5	jacobe
+5	alexyss
 5	jacolby
 5	jaelon
 5	jarin
@@ -64,9 +65,9 @@
 5	taquan
 5	tavares
 5	tryston
+5	ulices
 5	username
 5	vncuser
-4	admin2
 4	alex
 4	b'\xcc\xd1\xd1\xca'
 4	bob
@@ -88,13 +89,12 @@
 4	tom
 4	www
 3	*1
-3	345gs5662d34
 3	Admin
 3	OPTIONS rtsp://example.com RTSP/1.0
 3	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+3	admin2
 3	adminuser
 3	agent
 3	ai
 3	app
 3	dmdba
-3	ec2-user
