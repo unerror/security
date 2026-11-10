@@ -13,70 +13,70 @@
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 129357
+    "events": 129473
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 115701
+    "events": 116320
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 85200
-  },
-  {
-    "asn_org": "Latitude.sh",
-    "events": 76385
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 57852
+    "events": 78215
   },
   {
     "asn_org": "Google LLC",
-    "events": 54052
+    "events": 50146
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 47102
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 24046
+    "events": 23482
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 20692
+    "events": 22334
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 19934
+    "events": 19370
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18378
+    "events": 18161
+  },
+  {
+    "asn_org": "Shesternin Vladimir Anatolievich",
+    "events": 16163
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 15844
-  },
-  {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 15539
+    "events": 15885
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14529
-  },
-  {
-    "asn_org": "HOSTRAM",
-    "events": 14353
+    "events": 14501
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 14169
+    "events": 13965
+  },
+  {
+    "asn_org": "HOSTRAM",
+    "events": 13886
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 13571
+    "events": 13416
+  },
+  {
+    "asn_org": "Akamai Connected Cloud",
+    "events": 13183
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 13127
+    "events": 12726
   }
 ]
