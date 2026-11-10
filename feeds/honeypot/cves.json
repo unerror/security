@@ -1,7 +1,12 @@
 [
   {
     "cve": "CVE-2021-26855",
-    "probes": 50,
+    "probes": 80,
     "example": "/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application"
+  },
+  {
+    "cve": "CVE-2017-9841",
+    "probes": 16,
+    "example": "/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php"
   }
 ]

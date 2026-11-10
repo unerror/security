@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T06:10:06+00:00",
+  "generated": "2026-11-10T09:10:00+00:00",
   "window_hours": 24,
   "schema": 1,
   "counts": {
@@ -7,7 +7,7 @@
     "wallets": 1,
     "hassh": 35,
     "ssh_public_keys": 2,
-    "cves": 1,
+    "cves": 2,
     "asns": 20,
     "paths": 399,
     "ja3": 100,

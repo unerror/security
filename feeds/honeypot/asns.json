@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 430965
+    "events": 336605
   },
   {
     "asn_org": "Latitude.sh",
-    "events": 375980
+    "events": 303658
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 129229
   },
   {
     "asn_org": "Clouvider Limited",
     "events": 127082
   },
   {
+    "asn_org": "AO ALMAZ",
+    "events": 99975
+  },
+  {
     "asn_org": "DigitalOcean, LLC",
-    "events": 65376
+    "events": 78542
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 63148
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 59413
+    "events": 63520
   },
   {
     "asn_org": "Google LLC",
-    "events": 56786
+    "events": 62321
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 59176
+  },
+  {
+    "asn_org": "ColocaTel Inc.",
+    "events": 58047
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 19428
+    "events": 19701
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 19003
+    "events": 19042
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 17120
-  },
-  {
-    "asn_org": "Host Europe GmbH",
-    "events": 14602
-  },
-  {
-    "asn_org": "Techoff Srv Limited",
-    "events": 14355
+    "events": 16366
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 13550
+    "events": 15285
+  },
+  {
+    "asn_org": "Techoff Srv Limited",
+    "events": 14870
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 13290
+    "events": 14850
+  },
+  {
+    "asn_org": "Host Europe GmbH",
+    "events": 14610
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 13004
+    "events": 13416
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 12514
-  },
-  {
-    "asn_org": "Servicos de Infraestrutura e Datacenter",
-    "events": 11350
+    "events": 12477
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 11093
-  },
-  {
-    "asn_org": "Contabo Asia Private Limited",
-    "events": 11068
-  },
-  {
-    "asn_org": "Tencent Building, Kejizhongyi Avenue",
-    "events": 9593
+    "events": 12212
   }
 ]
