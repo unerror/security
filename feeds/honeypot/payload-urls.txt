@@ -1,6 +1,6 @@
 103915	http://77.239.124.167/apk.sh
 25380	http://77.239.124.167/superior.apk
-69	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+70	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 68	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 12	https://best-proxies.ru/faq/#from
 8	https://www.nokia.com/genomecrawler
@@ -11,8 +11,8 @@
 7	https://curl.se/docs/alt-svc.html
 7	https://curl.se/docs/http-cookies.html
 7	https://xmrig.com/wizard
-6	http://45.9.2.239:24381/bins/payloads/w.sh
-6	http://45.9.2.239:24381/bins/payloads/c.sh
+7	http://45.9.2.239:24381/bins/payloads/w.sh
+7	http://45.9.2.239:24381/bins/payloads/c.sh
 4	http://45.9.2.239:24381/bins/adb/akuma.arc
 4	http://45.9.2.239:24381/bins/adb/akuma.arm
 4	http://45.9.2.239:24381/bins/adb/akuma.arm5
