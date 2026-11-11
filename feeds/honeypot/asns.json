@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 137554
+    "events": 139929
   },
   {
     "asn_org": "Scaleway SAS",
-    "events": 65925
+    "events": 66915
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 63706
+    "events": 54622
   },
   {
     "asn_org": "Google LLC",
-    "events": 43992
+    "events": 41990
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 27016
+    "events": 27404
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 20865
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 18574
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 18101
-  },
-  {
-    "asn_org": "Iran Telecommunication Company PJS",
-    "events": 17984
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 16235
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 15510
-  },
-  {
-    "asn_org": "Shesternin Vladimir Anatolievich",
-    "events": 15313
+    "events": 23097
   },
   {
     "asn_org": "SS-Net",
-    "events": 15274
+    "events": 21982
   },
   {
-    "asn_org": "Host Europe GmbH",
-    "events": 14421
+    "asn_org": "ONYPHE SAS",
+    "events": 18423
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 18305
   },
   {
     "asn_org": "RCN",
-    "events": 13707
+    "events": 18305
   },
   {
-    "asn_org": "HOSTRAM",
-    "events": 12738
+    "asn_org": "Iran Telecommunication Company PJS",
+    "events": 18012
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 17392
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 15729
+  },
+  {
+    "asn_org": "Shesternin Vladimir Anatolievich",
+    "events": 15370
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 12543
+    "events": 14984
   },
   {
-    "asn_org": "Censys, Inc.",
-    "events": 11537
+    "asn_org": "Host Europe GmbH",
+    "events": 14503
+  },
+  {
+    "asn_org": "HOSTRAM",
+    "events": 13981
   },
   {
     "asn_org": "VPS Dedicated LLC",
     "events": 11242
   },
   {
+    "asn_org": "Censys, Inc.",
+    "events": 10859
+  },
+  {
     "asn_org": "OVH SAS",
-    "events": 10604
+    "events": 10319
   }
 ]
