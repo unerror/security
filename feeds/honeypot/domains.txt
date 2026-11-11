@@ -1,5 +1,5 @@
 73	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
-71	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+72	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 13	visionheight.com
 12	best-proxies.ru
 9	api.ipify.org
@@ -14,6 +14,7 @@
 7	pool-phx.supportxmr.com
 7	pool-sg.supportxmr.com
 7	xmrig.com
+5	mc.heyiwei.net
 4	f.cc
 4	libssh.org
 4	openssh.com
