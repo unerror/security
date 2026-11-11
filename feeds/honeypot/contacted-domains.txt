@@ -5,8 +5,8 @@
 8	www.nokia.com
 7	icanhazip.com
 7	xmrig.com
+6	upx.sf.net
 2	clientapi.ipip.net
-2	upx.sf.net
 1	httpbin.org
 1	azenv.net
 1	apcosys.net

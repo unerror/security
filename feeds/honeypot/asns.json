@@ -1,47 +1,39 @@
 [
   {
-    "asn_org": "ColocaTel Inc.",
-    "events": 160151
-  },
-  {
-    "asn_org": "AO ALMAZ",
-    "events": 117905
-  },
-  {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 67329
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 104545
   },
   {
     "asn_org": "Scaleway SAS",
-    "events": 65514
+    "events": 65706
   },
   {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 59371
+    "asn_org": "DigitalOcean, LLC",
+    "events": 64714
   },
   {
     "asn_org": "Google LLC",
-    "events": 48766
+    "events": 44513
+  },
+  {
+    "asn_org": "ColocaTel Inc.",
+    "events": 36777
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 38356
-  },
-  {
-    "asn_org": "Shesternin Vladimir Anatolievich",
-    "events": 23423
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 21739
+    "events": 26441
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 20755
+    "events": 20774
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 19906
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18016
+    "events": 18080
   },
   {
     "asn_org": "Iran Telecommunication Company PJS",
@@ -49,34 +41,42 @@
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 15894
+    "events": 15887
+  },
+  {
+    "asn_org": "Shesternin Vladimir Anatolievich",
+    "events": 15479
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 15130
+    "events": 15105
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14421
+    "events": 14370
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 12616
-  },
-  {
-    "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 12534
+    "events": 12376
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 11642
+    "events": 12052
   },
   {
     "asn_org": "VPS Dedicated LLC",
     "events": 11266
   },
   {
+    "asn_org": "CMC Telecom Infrastructure Company",
+    "events": 11031
+  },
+  {
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 10095
+  },
+  {
     "asn_org": "HOSTRAM",
-    "events": 10906
+    "events": 9893
   }
 ]

@@ -14,12 +14,12 @@
 7	pool-phx.supportxmr.com
 7	pool-sg.supportxmr.com
 7	xmrig.com
+6	upx.sf.net
 5	mc.heyiwei.net
 4	f.cc
 4	libssh.org
 4	openssh.com
 2	clientapi.ipip.net
-2	upx.sf.net
 1	httpbin.org
 1	azenv.net
 1	apcosys.net
