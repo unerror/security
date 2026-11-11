@@ -9,15 +9,15 @@
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 129377
+    "events": 129374
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 117215
+    "events": 118050
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 77401
+    "events": 76530
   },
   {
     "asn_org": "Clouvider Limited",
@@ -25,58 +25,58 @@
   },
   {
     "asn_org": "Google LLC",
-    "events": 48250
+    "events": 48627
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 43811
+    "events": 44097
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 22563
+    "events": 22474
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 20924
+    "events": 20881
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 18824
+    "events": 18799
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18155
+    "events": 18164
   },
   {
     "asn_org": "Iran Telecommunication Company PJS",
-    "events": 17310
-  },
-  {
-    "asn_org": "Shesternin Vladimir Anatolievich",
-    "events": 15906
+    "events": 17948
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 15725
+    "events": 16341
+  },
+  {
+    "asn_org": "Shesternin Vladimir Anatolievich",
+    "events": 15869
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14596
+    "events": 14598
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 13574
+    "events": 13553
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 12786
+    "events": 12795
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 12665
+    "events": 12552
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 12652
+    "events": 12452
   }
 ]
