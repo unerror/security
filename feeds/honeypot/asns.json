@@ -5,78 +5,78 @@
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 217873
+    "events": 217751
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 129374
+    "events": 129334
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 118050
+    "events": 82785
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 76530
-  },
-  {
-    "asn_org": "Clouvider Limited",
-    "events": 65534
+    "events": 74689
   },
   {
     "asn_org": "Google LLC",
-    "events": 48627
+    "events": 49829
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 44097
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 22474
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 20881
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 18799
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 18164
-  },
-  {
-    "asn_org": "Iran Telecommunication Company PJS",
-    "events": 17948
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 16341
+    "events": 41765
   },
   {
     "asn_org": "Shesternin Vladimir Anatolievich",
-    "events": 15869
+    "events": 23908
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 22270
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 20773
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 18158
+  },
+  {
+    "asn_org": "Iran Telecommunication Company PJS",
+    "events": 17984
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 16236
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 15635
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14598
+    "events": 14590
   },
   {
     "asn_org": "CMC Telecom Infrastructure Company",
-    "events": 13553
+    "events": 13333
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 12795
+    "events": 12492
+  },
+  {
+    "asn_org": "Tc Datacenter Limited",
+    "events": 12191
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 12552
+    "events": 11775
   },
   {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 12452
+    "asn_org": "VPS Dedicated LLC",
+    "events": 11267
   }
 ]
