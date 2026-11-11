@@ -3,8 +3,8 @@
 72	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 71	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 12	https://best-proxies.ru/faq/#from
-10	http://45.9.2.239:24381/bins/payloads/w.sh
-10	http://45.9.2.239:24381/bins/payloads/c.sh
+11	http://45.9.2.239:24381/bins/payloads/w.sh
+11	http://45.9.2.239:24381/bins/payloads/c.sh
 8	https://www.nokia.com/genomecrawler
 7	http://api.ipify.org
 7	http://icanhazip.com
