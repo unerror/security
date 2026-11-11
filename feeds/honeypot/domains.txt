@@ -20,6 +20,7 @@
 4	libssh.org
 4	openssh.com
 2	clientapi.ipip.net
+2	22fjhgosurijfaewrwergwea.com
 1	httpbin.org
 1	azenv.net
 1	apcosys.net
@@ -52,7 +53,6 @@
 1	z.io
 1	u.net
 1	www.ayylmaotjhsstasdfasdfasdfasdfasdfasdfasdf.com
-1	22fjhgosurijfaewrwergwea.com
 1	duckduckgo.com
 1	twitter.com
 1	www.facebook.com
