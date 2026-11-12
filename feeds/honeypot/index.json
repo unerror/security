@@ -1,22 +1,22 @@
 {
-  "generated": "2026-11-11T21:10:04+00:00",
+  "generated": "2026-11-12T00:10:08+00:00",
   "window_hours": 24,
   "schema": 1,
   "counts": {
-    "hashes": 20,
+    "hashes": 22,
     "wallets": 0,
-    "hassh": 39,
+    "hassh": 40,
     "ssh_public_keys": 3,
     "cves": 2,
     "asns": 20,
     "paths": 400,
     "ja3": 100,
-    "ja4": 96,
+    "ja4": 91,
     "usernames": 99,
     "wallet_sweeps": 0,
     "novel_hashes": 8,
     "ai_crawlers": 9,
-    "useragents": 179
+    "useragents": 186
   },
   "files": [
     "iocs.csv",
