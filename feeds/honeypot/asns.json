@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 108490
+    "events": 78044
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 51621
+    "events": 61737
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 49163
-  },
-  {
-    "asn_org": "SS-Net",
-    "events": 49053
+    "events": 49010
   },
   {
     "asn_org": "Google LLC",
-    "events": 45925
+    "events": 48290
+  },
+  {
+    "asn_org": "SS-Net",
+    "events": 42453
+  },
+  {
+    "asn_org": "Alferov Aleksey Aleksandrovich",
+    "events": 26959
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 26487
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 25992
+    "events": 26181
   },
   {
     "asn_org": "IENTC S DE RL DE CV",
     "events": 25828
   },
   {
-    "asn_org": "RCN",
-    "events": 25827
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 24562
-  },
-  {
     "asn_org": "Tc Datacenter Limited",
-    "events": 20678
+    "events": 21056
   },
   {
     "asn_org": "Shesternin Vladimir Anatolievich",
-    "events": 19240
+    "events": 19570
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 19172
+    "events": 19113
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 18759
+    "events": 18813
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18220
-  },
-  {
-    "asn_org": "Servicos de Infraestrutura e Datacenter",
-    "events": 18030
+    "events": 18267
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 16422
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 16193
+    "events": 17856
   },
   {
     "asn_org": "UAB Cherry Servers",
-    "events": 15992
+    "events": 17454
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 15540
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14634
+    "events": 14622
   },
   {
     "asn_org": "RouterHosting LLC",
-    "events": 13790
+    "events": 14609
+  },
+  {
+    "asn_org": "Servicos de Infraestrutura e Datacenter",
+    "events": 14417
   }
 ]
