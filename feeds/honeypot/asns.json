@@ -1,23 +1,27 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 140167
+    "events": 142190
   },
   {
     "asn_org": "Scaleway SAS",
-    "events": 69669
+    "events": 70026
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 55705
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 44092
+    "events": 55302
   },
   {
     "asn_org": "SS-Net",
-    "events": 42293
+    "events": 47518
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 42394
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 30732
   },
   {
     "asn_org": "IENTC S DE RL DE CV",
@@ -25,11 +29,7 @@
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 23228
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 23053
+    "events": 23355
   },
   {
     "asn_org": "RCN",
@@ -37,7 +37,7 @@
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 20493
+    "events": 21620
   },
   {
     "asn_org": "Servicos de Infraestrutura e Datacenter",
@@ -45,38 +45,38 @@
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 19221
+    "events": 19326
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 18710
+    "events": 18724
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18307
+    "events": 18335
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 16417
-  },
-  {
-    "asn_org": "Shesternin Vladimir Anatolievich",
-    "events": 16011
+    "events": 16422
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14596
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 11767
-  },
-  {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 10064
+    "events": 14617
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 9847
+    "events": 13327
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 12186
+  },
+  {
+    "asn_org": "UAB Cherry Servers",
+    "events": 11748
+  },
+  {
+    "asn_org": "RouterHosting LLC",
+    "events": 10316
   }
 ]
