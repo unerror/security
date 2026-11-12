@@ -2,152 +2,18 @@
   {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",
-    "requests": 570,
+    "requests": 588,
     "read_robots": true,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
         "/robots.txt",
-        285
+        294
       ],
       [
         "/sitemap.xml",
-        285
-      ]
-    ]
-  },
-  {
-    "crawler": "anthropic-ai",
-    "user_agent": "anthropic-ai",
-    "requests": 4,
-    "read_robots": false,
-    "fetched_disallowed": 1,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/.env",
-        1
-      ],
-      [
-        "/.well-known/jwks.json",
-        1
-      ],
-      [
-        "/api/settings",
-        1
-      ],
-      [
-        "/config.env",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "GPTBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot",
-    "requests": 3,
-    "read_robots": false,
-    "fetched_disallowed": 0,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/api/env",
-        1
-      ],
-      [
-        "/api/v2/config",
-        1
-      ],
-      [
-        "/secrets.json",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "Bytespider",
-    "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
-    "requests": 2,
-    "read_robots": false,
-    "fetched_disallowed": 1,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/.git/config",
-        1
-      ],
-      [
-        "/openapi.json",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "Google-Extended",
-    "user_agent": "Mozilla/5.0 (compatible; Google-Extended/1.0; +http://www.google.com/bot.html)",
-    "requests": 2,
-    "read_robots": false,
-    "fetched_disallowed": 2,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/.env.bak",
-        1
-      ],
-      [
-        "/.env.development",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "ClaudeBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
-    "requests": 2,
-    "read_robots": false,
-    "fetched_disallowed": 0,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/config.json",
-        1
-      ],
-      [
-        "/v1/graphql",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "OAI-SearchBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
-    "requests": 2,
-    "read_robots": false,
-    "fetched_disallowed": 1,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/.env",
-        1
-      ],
-      [
-        "/api/v1/settings",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "CCBot",
-    "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
-    "requests": 1,
-    "read_robots": false,
-    "fetched_disallowed": 0,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/runtime-config.js",
-        1
+        294
       ]
     ]
   }
