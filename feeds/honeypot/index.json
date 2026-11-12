@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T03:10:08+00:00",
+  "generated": "2026-11-12T03:34:24+00:00",
   "window_hours": 24,
   "schema": 1,
   "counts": {
@@ -11,7 +11,7 @@
     "asns": 20,
     "paths": 400,
     "ja3": 100,
-    "ja4": 88,
+    "ja4": 87,
     "usernames": 99,
     "wallet_sweeps": 0,
     "novel_hashes": 8,
