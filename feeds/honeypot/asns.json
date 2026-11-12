@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 78044
+    "events": 78584
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 61737
-  },
-  {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 49010
+    "events": 70022
   },
   {
     "asn_org": "Google LLC",
-    "events": 48290
+    "events": 52434
+  },
+  {
+    "asn_org": "DigitalOcean, LLC",
+    "events": 50351
+  },
+  {
+    "asn_org": "AO ALMAZ",
+    "events": 38170
   },
   {
     "asn_org": "SS-Net",
-    "events": 42453
-  },
-  {
-    "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 26959
+    "events": 35886
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 26487
+    "events": 28376
   },
   {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 26181
+    "asn_org": "Alferov Aleksey Aleksandrovich",
+    "events": 26986
+  },
+  {
+    "asn_org": "Shesternin Vladimir Anatolievich",
+    "events": 26806
   },
   {
     "asn_org": "IENTC S DE RL DE CV",
     "events": 25828
   },
   {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 24344
+  },
+  {
+    "asn_org": "ColocaTel Inc.",
+    "events": 21433
+  },
+  {
     "asn_org": "Tc Datacenter Limited",
-    "events": 21056
-  },
-  {
-    "asn_org": "Shesternin Vladimir Anatolievich",
-    "events": 19570
-  },
-  {
-    "asn_org": "IP Volume inc",
-    "events": 19113
+    "events": 21420
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 18813
+    "events": 20443
+  },
+  {
+    "asn_org": "IP Volume inc",
+    "events": 19515
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18267
+    "events": 18280
   },
   {
-    "asn_org": "Techoff Srv Limited",
-    "events": 17856
+    "asn_org": "BestDC Limited",
+    "events": 17734
   },
   {
     "asn_org": "UAB Cherry Servers",
-    "events": 17454
+    "events": 17433
   },
   {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 15540
+    "asn_org": "Techoff Srv Limited",
+    "events": 16760
   },
   {
-    "asn_org": "Host Europe GmbH",
-    "events": 14622
-  },
-  {
-    "asn_org": "RouterHosting LLC",
-    "events": 14609
-  },
-  {
-    "asn_org": "Servicos de Infraestrutura e Datacenter",
-    "events": 14417
+    "asn_org": "Space Exploration Technologies Corporation",
+    "events": 16282
   }
 ]
