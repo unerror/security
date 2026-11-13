@@ -1,11 +1,11 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 325771
+    "events": 325168
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 68357
+    "events": 67618
   },
   {
     "asn_org": "AO ALMAZ",
@@ -13,11 +13,11 @@
   },
   {
     "asn_org": "Google LLC",
-    "events": 51949
+    "events": 52599
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 47921
+    "events": 47970
   },
   {
     "asn_org": "Space Exploration Technologies Corporation",
@@ -32,8 +32,12 @@
     "events": 35729
   },
   {
+    "asn_org": "Tc Datacenter Limited",
+    "events": 30663
+  },
+  {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 27630
+    "events": 27680
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
@@ -41,42 +45,38 @@
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 24653
+    "events": 24688
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 24146
-  },
-  {
-    "asn_org": "Tc Datacenter Limited",
-    "events": 22628
+    "events": 24426
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 22586
+    "events": 22851
   },
   {
     "asn_org": "Shesternin Vladimir Anatolievich",
-    "events": 19629
+    "events": 19612
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 19478
+    "events": 19605
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18644
+    "events": 18805
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 17426
+    "events": 16577
   },
   {
     "asn_org": "SS-Net",
-    "events": 16425
+    "events": 15694
   },
   {
     "asn_org": "RouterHosting LLC",
-    "events": 14969
+    "events": 14962
   }
 ]
