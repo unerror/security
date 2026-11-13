@@ -1,11 +1,11 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 294947
+    "events": 282031
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 66104
+    "events": 100092
   },
   {
     "asn_org": "Space Exploration Technologies Corporation",
@@ -13,19 +13,19 @@
   },
   {
     "asn_org": "Google LLC",
-    "events": 54290
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 50389
+    "events": 55674
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 47645
+    "events": 47088
   },
   {
-    "asn_org": "Tc Datacenter Limited",
-    "events": 43315
+    "asn_org": "Banatsync Srl",
+    "events": 41328
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 40184
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -33,50 +33,50 @@
   },
   {
     "asn_org": "BestDC Limited",
-    "events": 35303
+    "events": 34875
+  },
+  {
+    "asn_org": "Tc Datacenter Limited",
+    "events": 32373
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 28986
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 27802
-  },
-  {
-    "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 26983
+    "events": 31122
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 26948
+    "events": 29121
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 28539
+  },
+  {
+    "asn_org": "Alferov Aleksey Aleksandrovich",
+    "events": 26934
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 22247
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 20802
+    "events": 21789
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 19955
+    "events": 20240
   },
   {
     "asn_org": "Shesternin Vladimir Anatolievich",
-    "events": 19626
+    "events": 19287
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18637
+    "events": 18782
   },
   {
-    "asn_org": "Host Europe GmbH",
-    "events": 14718
+    "asn_org": "Unmanaged Ltd",
+    "events": 18207
   },
   {
-    "asn_org": "RouterHosting LLC",
-    "events": 14627
+    "asn_org": "Tata Teleservices Maharashtra Ltd",
+    "events": 14982
   }
 ]
