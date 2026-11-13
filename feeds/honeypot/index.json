@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-13T18:10:01+00:00",
+  "generated": "2026-11-13T20:58:00+00:00",
   "window_hours": 24,
   "schema": 1,
   "counts": {
-    "hashes": 9,
+    "hashes": 10,
     "wallets": 0,
-    "hassh": 40,
+    "hassh": 35,
     "ssh_public_keys": 3,
     "cves": 1,
     "asns": 20,
