@@ -1,23 +1,27 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 79992
+    "events": 166805
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 77451
+    "events": 77842
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 63829
+    "events": 63832
   },
   {
     "asn_org": "Google LLC",
-    "events": 54056
+    "events": 54409
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 53263
+    "events": 47776
+  },
+  {
+    "asn_org": "Space Exploration Technologies Corporation",
+    "events": 38895
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -25,58 +29,54 @@
   },
   {
     "asn_org": "BestDC Limited",
-    "events": 35760
-  },
-  {
-    "asn_org": "SS-Net",
-    "events": 29295
-  },
-  {
-    "asn_org": "Space Exploration Technologies Corporation",
-    "events": 29179
+    "events": 35867
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 27890
+    "events": 27381
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 27010
-  },
-  {
-    "asn_org": "Shesternin Vladimir Anatolievich",
-    "events": 26918
+    "events": 27053
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 24660
+    "events": 24710
   },
   {
-    "asn_org": "HOSTRAM",
-    "events": 22812
+    "asn_org": "SS-Net",
+    "events": 22889
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 22023
+    "events": 22017
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 21535
+    "events": 21606
+  },
+  {
+    "asn_org": "HOSTRAM",
+    "events": 20952
+  },
+  {
+    "asn_org": "Shesternin Vladimir Anatolievich",
+    "events": 19889
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18386
-  },
-  {
-    "asn_org": "UAB Cherry Servers",
-    "events": 17447
+    "events": 18660
   },
   {
     "asn_org": "Techoff Srv Limited",
-    "events": 16637
+    "events": 16699
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 16222
+    "events": 16393
+  },
+  {
+    "asn_org": "UAB Cherry Servers",
+    "events": 16185
   }
 ]
