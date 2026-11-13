@@ -1,7 +1,7 @@
 103915	http://77.239.124.167/apk.sh
 25380	http://77.239.124.167/superior.apk
-80	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
-78	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+81	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+81	http://www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 16	http://45.9.2.239:24381/bins/payloads/w.sh
 16	http://45.9.2.239:24381/bins/payloads/c.sh
 12	https://best-proxies.ru/faq/#from

@@ -1,27 +1,31 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 325168
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 67618
+    "events": 320853
   },
   {
     "asn_org": "AO ALMAZ",
     "events": 63822
   },
   {
+    "asn_org": "Microsoft Corporation",
+    "events": 60344
+  },
+  {
+    "asn_org": "Tc Datacenter Limited",
+    "events": 53589
+  },
+  {
     "asn_org": "Google LLC",
-    "events": 52599
+    "events": 53430
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 47970
+    "events": 47837
   },
   {
     "asn_org": "Space Exploration Technologies Corporation",
-    "events": 38895
+    "events": 41865
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -29,54 +33,50 @@
   },
   {
     "asn_org": "BestDC Limited",
-    "events": 35729
-  },
-  {
-    "asn_org": "Tc Datacenter Limited",
-    "events": 30663
+    "events": 35613
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 27680
+    "events": 27356
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 27026
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 24688
+    "events": 27002
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 24426
+    "events": 26543
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 22851
+    "events": 24748
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 24719
   },
   {
     "asn_org": "Shesternin Vladimir Anatolievich",
-    "events": 19612
+    "events": 19405
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 19605
+    "events": 19396
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18805
-  },
-  {
-    "asn_org": "Techoff Srv Limited",
-    "events": 16577
-  },
-  {
-    "asn_org": "SS-Net",
-    "events": 15694
+    "events": 18728
   },
   {
     "asn_org": "RouterHosting LLC",
-    "events": 14962
+    "events": 14928
+  },
+  {
+    "asn_org": "Host Europe GmbH",
+    "events": 14782
+  },
+  {
+    "asn_org": "Techoff Srv Limited",
+    "events": 13195
   }
 ]
