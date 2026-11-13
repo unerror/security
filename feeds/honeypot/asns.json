@@ -1,55 +1,43 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 282246
+    "events": 373898
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 100098
+    "events": 63093
   },
   {
     "asn_org": "Google LLC",
-    "events": 59914
-  },
-  {
-    "asn_org": "Space Exploration Technologies Corporation",
-    "events": 57718
+    "events": 59135
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 53281
+    "events": 52589
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 41498
+    "events": 42277
   },
   {
-    "asn_org": "ColocaTel Inc.",
-    "events": 37608
+    "asn_org": "Space Exploration Technologies Corporation",
+    "events": 41436
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 33539
+    "events": 35634
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 33453
-  },
-  {
-    "asn_org": "BestDC Limited",
-    "events": 33233
+    "events": 35451
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 31339
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 30166
+    "events": 33384
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 28976
+    "events": 29564
   },
   {
     "asn_org": "CORPORACION GALA IT, C.A.",
@@ -57,26 +45,38 @@
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 21586
+    "events": 22096
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 20222
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 20190
-  },
-  {
-    "asn_org": "Shesternin Vladimir Anatolievich",
-    "events": 18957
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 18822
+    "events": 19812
   },
   {
     "asn_org": "Unmanaged Ltd",
-    "events": 18545
+    "events": 18952
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 18785
+  },
+  {
+    "asn_org": "BestDC Limited",
+    "events": 18105
+  },
+  {
+    "asn_org": "ColocaTel Inc.",
+    "events": 16121
+  },
+  {
+    "asn_org": "Tata Teleservices Maharashtra Ltd",
+    "events": 14982
   },
   {
     "asn_org": "RouterHosting LLC",
-    "events": 15025
+    "events": 14918
   }
 ]
