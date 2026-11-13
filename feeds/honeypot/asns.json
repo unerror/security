@@ -1,31 +1,31 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 320853
+    "events": 294947
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 63822
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 60344
-  },
-  {
-    "asn_org": "Tc Datacenter Limited",
-    "events": 53589
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 53430
-  },
-  {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 47837
+    "events": 66104
   },
   {
     "asn_org": "Space Exploration Technologies Corporation",
-    "events": 41865
+    "events": 57718
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 54290
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 50389
+  },
+  {
+    "asn_org": "DigitalOcean, LLC",
+    "events": 47645
+  },
+  {
+    "asn_org": "Tc Datacenter Limited",
+    "events": 43315
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -33,50 +33,50 @@
   },
   {
     "asn_org": "BestDC Limited",
-    "events": 35613
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 27356
-  },
-  {
-    "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 27002
+    "events": 35303
   },
   {
     "asn_org": "IP Volume inc",
-    "events": 26543
+    "events": 28986
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 27802
+  },
+  {
+    "asn_org": "Alferov Aleksey Aleksandrovich",
+    "events": 26983
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 24748
+    "events": 26948
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 24719
+    "events": 22247
   },
   {
-    "asn_org": "Shesternin Vladimir Anatolievich",
-    "events": 19405
+    "asn_org": "Banatsync Srl",
+    "events": 20802
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 19396
+    "events": 19955
+  },
+  {
+    "asn_org": "Shesternin Vladimir Anatolievich",
+    "events": 19626
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18728
-  },
-  {
-    "asn_org": "RouterHosting LLC",
-    "events": 14928
+    "events": 18637
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14782
+    "events": 14718
   },
   {
-    "asn_org": "Techoff Srv Limited",
-    "events": 13195
+    "asn_org": "RouterHosting LLC",
+    "events": 14627
   }
 ]
