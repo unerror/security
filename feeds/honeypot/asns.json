@@ -1,59 +1,63 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 285077
+    "events": 121373
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 101971
+    "events": 102225
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 76797
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 61726
+    "events": 73766
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 60468
+    "events": 61601
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 56510
+    "events": 60553
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 59679
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 55842
-  },
-  {
-    "asn_org": "IP Volume inc",
-    "events": 36506
+    "events": 55780
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 36311
+    "events": 36306
+  },
+  {
+    "asn_org": "IP Volume inc",
+    "events": 31742
+  },
+  {
+    "asn_org": "UAB Cherry Servers",
+    "events": 30510
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 33524
+    "events": 29012
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 28699
+    "events": 28083
   },
   {
     "asn_org": "Triple T Broadband Public Company Limited",
     "events": 27433
   },
   {
-    "asn_org": "UAB Cherry Servers",
-    "events": 26263
-  },
-  {
     "asn_org": "CORPORACION GALA IT, C.A.",
     "events": 25705
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 19113
   },
   {
     "asn_org": "Space Exploration Technologies Corporation",
@@ -61,22 +65,18 @@
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18569
+    "events": 18593
   },
   {
-    "asn_org": "Microsoft Corporation",
-    "events": 18206
+    "asn_org": "Shesternin Vladimir Anatolievich",
+    "events": 17884
   },
   {
-    "asn_org": "RouterHosting LLC",
-    "events": 15809
+    "asn_org": "Scaleway SAS",
+    "events": 17208
   },
   {
-    "asn_org": "Tata Teleservices Maharashtra Ltd",
-    "events": 14982
-  },
-  {
-    "asn_org": "Techoff Srv Limited",
-    "events": 12875
+    "asn_org": "Alferov Aleksey Aleksandrovich",
+    "events": 17079
   }
 ]
