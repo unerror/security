@@ -1,2 +1,5 @@
-5	root
-1	admin
+18	root
+2	admin
+1	1234
+1	sshd
+1	teste
