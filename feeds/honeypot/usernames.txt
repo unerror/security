@@ -1,20 +1,20 @@
-1741	enable
-1235	root
-992	system
-618	admin
-80	user
-59	guest
-42	test
+1755	enable
+1331	root
+1007	system
+646	admin
+81	user
+60	guest
+45	test
 31	administrator
+28	default
 28	telecomadmin
-27	default
 21	hikvision
 21	telnetadmin
-17	ubuntu
-15	rootssssss23424123123
+18	rootssssss23424123123
+18	ubuntu
 8	maint
+8	support
 8	talent
-7	support
 6	craft
 6	cust
 6	diag
@@ -26,11 +26,13 @@
 6	pi
 6	rcust
 6	super.super
+6	ubnt
 6	vcr
 6	wlse
 5	GET / HTTP/1.1
+5	jeanine
+5	jeanna
 5	operator
-5	ubnt
 4	HPP187
 4	SYSDBA
 4	Sweex
@@ -45,6 +47,7 @@
 4	db2as
 4	db2inst1
 4	debug
+4	e8telnet
 4	enquiry
 4	ftp_admi
 4	ftp_inst
@@ -63,6 +66,7 @@
 4	security
 4	su
 4	superadmin
+4	supervisor
 4	sync
 4	sys
 4	sysadm
@@ -74,6 +78,7 @@
 4	www
 3	1234
 3	Admin
+3	USER test
 3	User
 3	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 3	aaa
@@ -81,19 +86,14 @@
 3	ariul
 3	dev
 3	e8ehome
-3	e8telnet
+3	fake
 3	ftp
 3	oracle
 3	service
 3	super
-3	supervisor
 3	uploader
+2	!!Huawei
 2	3comcso
 2	3ware
 2	5up
-2	888888
-2	ADMINISTRATOR
-2	ADMN
-2	ADVMAIL
-2	Accept-Encoding: gzip
-2	Administrator
+2	666666

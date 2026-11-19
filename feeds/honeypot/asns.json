@@ -1,82 +1,82 @@
 [
   {
-    "asn_org": "Modat B.V.",
-    "events": 111915
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 177026
   },
   {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 82899
+    "asn_org": "Modat B.V.",
+    "events": 112226
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 51125
+    "events": 58414
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 43382
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 25763
+    "events": 54965
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 24861
+    "events": 34494
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 29092
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 24174
+    "events": 24445
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 22290
+    "events": 24182
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 15046
+    "events": 18989
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 13253
+    "events": 14090
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 11750
+    "events": 13641
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 12706
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 11951
   },
   {
     "asn_org": "3xK Tech GmbH",
     "events": 10790
   },
   {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 10342
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 9562
-  },
-  {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 6211
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 6064
-  },
-  {
-    "asn_org": "Host Europe GmbH",
-    "events": 5755
-  },
-  {
-    "asn_org": "Techoff Srv Limited",
-    "events": 5234
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 5041
+    "events": 9573
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 4841
+    "events": 7612
+  },
+  {
+    "asn_org": "Host Europe GmbH",
+    "events": 7361
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 6589
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 6359
+  },
+  {
+    "asn_org": "Techoff Srv Limited",
+    "events": 5710
   }
 ]
