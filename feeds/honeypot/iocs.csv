@@ -1,6 +1,7 @@
 kind,value,context,count,first_seen,last_seen
+sha256,0ea981782448787fa8a9e1481e8d2a1b70a09276962205232f205d7720879d2a,honeytrap,1,,
 hassh,16443846184eafde36765c9bab2f4397,ssh client fingerprint,8,,
-hassh,1f2f2f9b0a736952f743e5490c64c98a,ssh client fingerprint,4,,
+hassh,1f2f2f9b0a736952f743e5490c64c98a,ssh client fingerprint,6,,
 hassh,a704be057881f0b1d623cd263e477a8b,ssh client fingerprint,2,,
 hassh,eff4c24daffc8532c160e86e5f006e53,ssh client fingerprint,2,,
 hassh,14b2ddda386a4d1006108ccd231b42fc,ssh client fingerprint,1,,

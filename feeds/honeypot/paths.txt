@@ -1,11 +1,14 @@
-102	/
+159	/
+7	/v1/chat/completions
+5	/canary/ug7H1ZsHFeFLlrFoLZ6ikmJN
 5	/wp-json/wp/v2/users/me
-4	/v1/chat/completions
+4	/favicon.ico
 4	/wp-json/wemail/v1/subscribers
+2	/%23
 2	/.git/config
+2	/SDK/webLanguage
 2	/api/graphql
 2	/author-sitemap.xml
-2	/favicon.ico
 2	/graphql
 2	/index.php?rest_route=/wp/v2/users&_fields=slug&per_page=100&page=1
 2	/wp-admin/admin-ajax.php
@@ -35,6 +38,7 @@
 1	/.pypirc
 1	/.svn/entries
 1	/.svn/wc.db
+1	/.well-known/security.txt
 1	/?author=1&_fields=slug
 1	/?author=1&feed=rss2
 1	/?author=2&_fields=slug
@@ -55,7 +59,6 @@
 1	/WEB-INF/web.xml
 1	/api/status
 1	/app
-1	/canary/ug7H1ZsHFeFLlrFoLZ6ikmJN
 1	/comments/feed/
 1	/config.json
 1	/config.yaml
@@ -69,6 +72,7 @@
 1	/info/refs?service=git-upload-pack
 1	/login
 1	/readme.html
+1	/robots.txt
 1	/rss/
 1	/secrets.json
 1	/settings

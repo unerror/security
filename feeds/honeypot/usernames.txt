@@ -1,5 +1,9 @@
-18	root
-2	admin
+24	root
+6	admin
+2	enable
+2	system
 1	1234
+1	e8telnet
 1	sshd
 1	teste
+1	yhtcAdmin

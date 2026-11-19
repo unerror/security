@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "Modat B.V.",
-    "events": 22996
+    "events": 24263
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 2868
+    "events": 4244
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 2230
+    "events": 3500
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 1932
+    "events": 2743
   },
   {
     "asn_org": "Google LLC",
-    "events": 1387
+    "events": 2280
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 1052
+    "events": 1539
   },
   {
     "asn_org": "NewVM B.V.",
-    "events": 978
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 766
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 503
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 487
-  },
-  {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 468
-  },
-  {
-    "asn_org": "Host Europe GmbH",
-    "events": 323
-  },
-  {
-    "asn_org": "Hurricane Electric LLC",
-    "events": 315
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 302
-  },
-  {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 235
-  },
-  {
-    "asn_org": "Cloudflare, Inc.",
-    "events": 234
+    "events": 1305
   },
   {
     "asn_org": "Space Exploration Technologies Corporation",
-    "events": 204
+    "events": 1040
   },
   {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 197
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 950
   },
   {
-    "asn_org": "Internap Holding LLC",
-    "events": 195
+    "asn_org": "ONYPHE SAS",
+    "events": 718
   },
   {
-    "asn_org": "Microsoft Corporation",
-    "events": 195
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 629
+  },
+  {
+    "asn_org": "Cogent Communications, LLC",
+    "events": 613
+  },
+  {
+    "asn_org": "Host Europe GmbH",
+    "events": 500
+  },
+  {
+    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "events": 414
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 402
+  },
+  {
+    "asn_org": "Hurricane Electric LLC",
+    "events": 394
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 342
+  },
+  {
+    "asn_org": "Akamai Connected Cloud",
+    "events": 327
+  },
+  {
+    "asn_org": "PT Herza Digital Indonesia",
+    "events": 319
+  },
+  {
+    "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
+    "events": 288
   }
 ]
