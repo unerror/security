@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "Modat B.V.",
-    "events": 111246
-  },
-  {
-    "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 25482
+    "events": 111588
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 23699
+    "events": 36803
+  },
+  {
+    "asn_org": "Alferov Aleksey Aleksandrovich",
+    "events": 35985
   },
   {
     "asn_org": "Google LLC",
-    "events": 15321
-  },
-  {
-    "asn_org": "AO ALMAZ",
-    "events": 13426
-  },
-  {
-    "asn_org": "Alsycon B.V.",
-    "events": 12867
+    "events": 20820
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 12602
+    "events": 19720
+  },
+  {
+    "asn_org": "AO ALMAZ",
+    "events": 18706
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 12979
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 8941
+    "events": 12532
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 8260
+    "events": 10955
   },
   {
     "asn_org": "3xK Tech GmbH",
-    "events": 7301
+    "events": 10790
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 6007
+    "events": 9749
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 5246
+    "events": 7573
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 4983
+    "events": 7222
   },
   {
-    "asn_org": "Vpsvault.host Ltd",
-    "events": 4106
-  },
-  {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 3412
-  },
-  {
-    "asn_org": "Cloudflare, Inc.",
-    "events": 3211
+    "asn_org": "Banatsync Srl",
+    "events": 4650
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 3079
+    "events": 4397
   },
   {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 2817
+    "asn_org": "Vpsvault.host Ltd",
+    "events": 4322
   },
   {
-    "asn_org": "PT Herza Digital Indonesia",
-    "events": 2526
+    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "events": 3833
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 2437
+    "events": 3732
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 3710
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 3665
   }
 ]

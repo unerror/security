@@ -1,22 +1,23 @@
+782	root
 755	enable
-456	root
-247	admin
-13	user
-11	guest
-9	telecomadmin
-8	default
-6	hikvision
-6	telnetadmin
-6	test
-5	rootssssss23424123123
+354	admin
+31	user
+22	guest
+18	telecomadmin
+17	default
+14	hikvision
+14	telnetadmin
+12	rootssssss23424123123
+7	test
+5	GET / HTTP/1.1
 5	ubuntu
-4	GET / HTTP/1.1
 4	maint
 4	mother
 4	support
 4	system
 4	talent
 3	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+3	administrator
 3	craft
 3	cust
 3	diag
@@ -24,6 +25,7 @@
 3	install
 3	login
 3	manager
+3	operator
 3	pi
 3	rcust
 3	super.super
@@ -32,10 +34,11 @@
 3	wlse
 2	1234
 2	888888
+2	Accept-Encoding: gzip
+2	Admin
 2	HPP187
 2	SYSDBA
 2	Sweex
-2	administrator
 2	amon
 2	bciim
 2	bcim
@@ -47,6 +50,7 @@
 2	db2as
 2	db2inst1
 2	debug
+2	e8ehome
 2	e8telnet
 2	enquiry
 2	ftp_admi
@@ -57,7 +61,6 @@
 2	locate
 2	mobile
 2	nms
-2	operator
 2	piranha
 2	poll
 2	rapport
@@ -75,25 +78,22 @@
 2	sysadm
 2	tellabs
 2	tiger
+2	ubnt
 2	useradmin
 2	wang
 2	wradmin
 2	write
 2	www
+1	!!Huawei
 1	*1
 1	123
+1	345gs5662d34
 1	3comcso
 1	3ware
 1	4321
 1	5up
 1	666666
+1	8ehomeasb
 1	ADMINISTRATOR
 1	ADMN
 1	ADVMAIL
-1	Accept-Encoding: gzip
-1	Admin
-1	AdminGPON
-1	Administrator
-1	Alphanetworks
-1	Any
-1	Asante
