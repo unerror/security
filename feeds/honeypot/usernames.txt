@@ -1,20 +1,21 @@
 1755	enable
-1331	root
+1429	root
 1007	system
-646	admin
+670	admin
 81	user
 60	guest
-45	test
+46	test
 31	administrator
 28	default
 28	telecomadmin
+23	rootssssss23424123123
 21	hikvision
 21	telnetadmin
-18	rootssssss23424123123
-18	ubuntu
+21	ubuntu
+9	support
 8	maint
-8	support
 8	talent
+6	GET / HTTP/1.1
 6	craft
 6	cust
 6	diag
@@ -23,16 +24,16 @@
 6	login
 6	manager
 6	mother
+6	operator
 6	pi
 6	rcust
 6	super.super
 6	ubnt
 6	vcr
 6	wlse
-5	GET / HTTP/1.1
 5	jeanine
 5	jeanna
-5	operator
+5	johannah
 4	HPP187
 4	SYSDBA
 4	Sweex
@@ -77,6 +78,7 @@
 4	write
 4	www
 3	1234
+3	Accept-Encoding: gzip
 3	Admin
 3	USER test
 3	User
@@ -93,7 +95,5 @@
 3	super
 3	uploader
 2	!!Huawei
+2	345gs5662d34
 2	3comcso
-2	3ware
-2	5up
-2	666666
