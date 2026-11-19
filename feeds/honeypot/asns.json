@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "Modat B.V.",
-    "events": 24263
+    "events": 109065
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 4244
+    "events": 14126
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 3500
-  },
-  {
-    "asn_org": "AO ALMAZ",
-    "events": 2743
+    "events": 12178
   },
   {
     "asn_org": "Google LLC",
-    "events": 2280
+    "events": 8310
   },
   {
-    "asn_org": "HOSTRAM",
-    "events": 1539
-  },
-  {
-    "asn_org": "NewVM B.V.",
-    "events": 1305
-  },
-  {
-    "asn_org": "Space Exploration Technologies Corporation",
-    "events": 1040
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 950
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 718
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 629
-  },
-  {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 613
-  },
-  {
-    "asn_org": "Host Europe GmbH",
-    "events": 500
-  },
-  {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 414
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 402
-  },
-  {
-    "asn_org": "Hurricane Electric LLC",
-    "events": 394
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 342
+    "asn_org": "AO ALMAZ",
+    "events": 7687
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 327
+    "events": 5014
+  },
+  {
+    "asn_org": "HOSTRAM",
+    "events": 4997
+  },
+  {
+    "asn_org": "3xK Tech GmbH",
+    "events": 3470
+  },
+  {
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 3301
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 2712
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 2614
+  },
+  {
+    "asn_org": "Cogent Communications, LLC",
+    "events": 2507
+  },
+  {
+    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "events": 2000
+  },
+  {
+    "asn_org": "Host Europe GmbH",
+    "events": 1736
+  },
+  {
+    "asn_org": "NewVM B.V.",
+    "events": 1664
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 1604
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 1496
+  },
+  {
+    "asn_org": "Tc Datacenter Limited",
+    "events": 1454
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 1312
   },
   {
     "asn_org": "PT Herza Digital Indonesia",
-    "events": 319
-  },
-  {
-    "asn_org": "Shenzhen Tencent Computer Systems Company Limited",
-    "events": 288
+    "events": 1306
   }
 ]
