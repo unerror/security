@@ -1,59 +1,59 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 354659
+    "events": 541575
   },
   {
     "asn_org": "Modat B.V.",
-    "events": 112620
+    "events": 113016
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 70888
+    "events": 102253
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 66507
+    "events": 78167
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 44143
+    "events": 53813
   },
   {
     "asn_org": "Google LLC",
-    "events": 32353
-  },
-  {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 25043
-  },
-  {
-    "asn_org": "Alsycon B.V.",
-    "events": 24497
+    "events": 35443
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 22950
+    "events": 26932
+  },
+  {
+    "asn_org": "Akamai Connected Cloud",
+    "events": 26108
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 24525
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 16162
+    "events": 18716
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 15261
-  },
-  {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 14876
+    "events": 17756
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 14427
+    "events": 16994
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 12925
+    "events": 15817
+  },
+  {
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 15059
   },
   {
     "asn_org": "3xK Tech GmbH",
@@ -61,22 +61,22 @@
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 9053
+    "events": 10716
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 9012
+    "events": 10331
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 7890
+    "events": 8459
   },
   {
     "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 7129
+    "events": 8027
   },
   {
-    "asn_org": "Banatsync Srl",
-    "events": 6558
+    "asn_org": "Techoff Srv Limited",
+    "events": 7456
   }
 ]
