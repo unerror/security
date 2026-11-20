@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 750121
+    "events": 912093
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 113998
-  },
-  {
-    "asn_org": "Modat B.V.",
-    "events": 89053
+    "events": 115609
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 86694
+    "events": 83219
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 61756
+    "events": 62942
   },
   {
     "asn_org": "Google LLC",
-    "events": 37895
+    "events": 37983
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 29760
+    "events": 29303
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 27853
+    "events": 25071
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 24434
+    "events": 24409
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 24111
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 21301
+    "events": 22115
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 19586
+    "events": 20011
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18905
+    "events": 19073
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 17526
-  },
-  {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 14896
-  },
-  {
-    "asn_org": "Host Europe GmbH",
-    "events": 11869
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 11856
+    "events": 17817
   },
   {
     "asn_org": "3xK Tech GmbH",
-    "events": 10587
+    "events": 13286
+  },
+  {
+    "asn_org": "Host Europe GmbH",
+    "events": 12067
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 11792
+  },
+  {
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 11742
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 9734
+    "events": 9870
+  },
+  {
+    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "events": 8575
   },
   {
     "asn_org": "Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
     "events": 8498
-  },
-  {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 8371
   }
 ]
