@@ -1,6 +1,6 @@
-3424	/
-175	/v1/chat/completions
-118	/.git/config
+3416	/
+177	/v1/chat/completions
+119	/.git/config
 97	/.env
 88	/config.json
 88	/info.php
@@ -10,8 +10,8 @@
 82	/server-status
 82	/v2/_catalog
 81	/telescope/requests
-65	/.well-known/security.txt
 65	/graphql
+64	/.well-known/security.txt
 64	/api
 64	/api/graphql
 63	/debug/default/view?panel=config
@@ -31,8 +31,8 @@
 61	/server
 61	/trace.axd
 50	/script
-49	/canary/ug7H1ZsHFeFLlrFoLZ6ikmJN
-42	/favicon.ico
+45	/canary/ug7H1ZsHFeFLlrFoLZ6ikmJN
+40	/favicon.ico
 30	/.git/HEAD
 30	/phpinfo.php
 28	/.aws/credentials
@@ -173,7 +173,6 @@
 22	/.netrc
 22	/.svn/entries
 22	/.svn/wc.db
-22	/SDK/webLanguage
 22	/app.js
 22	/app/config/parameters.yml
 22	/back/.env
@@ -266,6 +265,7 @@
 20	/Dockerfile
 20	/Jenkinsfile
 20	/OAI_CONFIG_LIST
+20	/SDK/webLanguage
 20	/actuator/beans
 20	/admin-api/.env
 20	/admin/phpinfo.php
@@ -312,8 +312,8 @@
 12	/?feed=rss2
 12	/?page_id=2
 11	/?cat=1
-11	/robots.txt
 11	/wp-login.php
+10	/robots.txt
 7	/?feed=comments-rss2
 6	/static/wp-content/themes/twentyeleven/style.css
 6	/wp-config.php
@@ -327,7 +327,6 @@
 5	/env.prod.js
 5	/env.production.js
 5	/sftp-config.json
-4	/%23
 4	/%2f.env.local
 4	/%2f.env.production
 4	/.config/claude.json
@@ -396,3 +395,4 @@
 3	/.env.qa
 3	/.env.sandbox
 3	/.env.sanity
+3	/.env.staging.local

@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 728407
+    "events": 750121
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 114592
+    "events": 113998
   },
   {
     "asn_org": "Modat B.V.",
-    "events": 90316
+    "events": 89053
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 86736
+    "events": 86694
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 61454
+    "events": 61756
   },
   {
     "asn_org": "Google LLC",
-    "events": 38093
+    "events": 37895
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 29781
+    "events": 29760
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 27812
+    "events": 27853
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 24519
+    "events": 24434
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 21182
+    "events": 21301
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 19532
+    "events": 19586
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 18825
+    "events": 18905
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 17491
+    "events": 17526
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 14954
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 12062
+    "events": 14896
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 11878
+    "events": 11869
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 11856
   },
   {
     "asn_org": "3xK Tech GmbH",
-    "events": 10790
+    "events": 10587
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 9740
-  },
-  {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 8576
+    "events": 9734
   },
   {
     "asn_org": "Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
-    "events": 8217
+    "events": 8498
+  },
+  {
+    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "events": 8371
   }
 ]

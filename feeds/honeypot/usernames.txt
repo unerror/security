@@ -1,11 +1,11 @@
 1849	root
-1755	enable
-1007	system
-742	admin
+1753	enable
+1005	system
+739	admin
 91	user
 63	guest
 49	test
-41	rootssssss23424123123
+42	rootssssss23424123123
 32	administrator
 31	default
 31	telecomadmin
@@ -30,6 +30,7 @@
 6	mother
 6	pi
 6	rcust
+6	service
 6	super
 6	super.super
 6	supervisor
@@ -44,8 +45,6 @@
 5	kassidi
 5	katherin
 5	rapport
-5	service
-5	yhtcAdmin
 4	HPP187
 4	SYSDBA
 4	Sweex
@@ -60,7 +59,6 @@
 4	db2as
 4	db2inst1
 4	debug
-4	e8telnet
 4	enquiry
 4	ftp_admi
 4	ftp_inst
@@ -97,3 +95,5 @@
 3	User
 3	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 3	aaa
+3	adm
+3	ariul
