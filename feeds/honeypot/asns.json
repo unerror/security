@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 912093
+    "events": 1102391
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 115609
+    "events": 117562
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 83219
+    "events": 79414
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 62942
+    "events": 64756
   },
   {
     "asn_org": "Google LLC",
-    "events": 37983
+    "events": 38037
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 29303
-  },
-  {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 25071
-  },
-  {
-    "asn_org": "Alsycon B.V.",
-    "events": 24409
+    "events": 29199
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 24111
-  },
-  {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 22115
+    "events": 22867
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 20011
+    "events": 21121
+  },
+  {
+    "asn_org": "Akamai Connected Cloud",
+    "events": 20560
+  },
+  {
+    "asn_org": "Cogent Communications, LLC",
+    "events": 20024
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 19073
+    "events": 19157
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 17817
+    "events": 18251
   },
   {
     "asn_org": "3xK Tech GmbH",
-    "events": 13286
-  },
-  {
-    "asn_org": "Host Europe GmbH",
-    "events": 12067
+    "events": 16870
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 11792
+    "events": 14900
   },
   {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 11742
+    "asn_org": "Host Europe GmbH",
+    "events": 12108
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 11658
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 9870
+    "events": 9911
   },
   {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 8575
+    "asn_org": "Tc Datacenter Limited",
+    "events": 9161
   },
   {
     "asn_org": "Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
     "events": 8498
+  },
+  {
+    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "events": 7713
   }
 ]
