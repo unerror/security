@@ -1,67 +1,67 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 1414161
+    "events": 2048061
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 115053
+    "events": 109055
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 72791
+    "events": 68632
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 63293
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 39975
+    "events": 60384
   },
   {
     "asn_org": "ColocaTel Inc.",
-    "events": 39069
-  },
-  {
-    "asn_org": "HOSTRAM",
-    "events": 27571
+    "events": 53369
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 24502
+    "events": 48414
   },
   {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 21348
+    "asn_org": "Google LLC",
+    "events": 42419
   },
   {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 19644
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 19286
-  },
-  {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 17983
-  },
-  {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 17536
-  },
-  {
-    "asn_org": "Tc Datacenter Limited",
-    "events": 16004
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 15077
+    "asn_org": "HOSTRAM",
+    "events": 26659
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 14575
+    "events": 23694
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 21136
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 19427
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 19272
+  },
+  {
+    "asn_org": "Cogent Communications, LLC",
+    "events": 17359
+  },
+  {
+    "asn_org": "Akamai Connected Cloud",
+    "events": 16592
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 16229
+  },
+  {
+    "asn_org": "Tc Datacenter Limited",
+    "events": 16068
   },
   {
     "asn_org": "3xK Tech GmbH",
@@ -69,14 +69,14 @@
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 12265
-  },
-  {
-    "asn_org": "Alsycon B.V.",
-    "events": 11546
+    "events": 12358
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 9843
+    "events": 10085
+  },
+  {
+    "asn_org": "Rashedur Rahman t/a Onesky Communications Limited.",
+    "events": 8735
   }
 ]
