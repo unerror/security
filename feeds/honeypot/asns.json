@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 2643902
+    "events": 3113102
   },
   {
     "asn_org": "ColocaTel Inc.",
-    "events": 111268
+    "events": 116942
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 116777
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 110044
+    "events": 109293
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 79754
+    "events": 95122
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 60302
-  },
-  {
-    "asn_org": "AO ALMAZ",
-    "events": 53995
+    "events": 50236
   },
   {
     "asn_org": "Google LLC",
-    "events": 44402
+    "events": 45499
+  },
+  {
+    "asn_org": "AO ALMAZ",
+    "events": 45479
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 32897
+    "events": 42672
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 24289
+    "events": 20687
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 20747
+    "events": 19727
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 19521
-  },
-  {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 18559
+    "events": 19364
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 17975
+    "events": 18813
+  },
+  {
+    "asn_org": "Psychz Networks",
+    "events": 18504
+  },
+  {
+    "asn_org": "Cogent Communications, LLC",
+    "events": 18118
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 17933
+    "events": 16504
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 16161
+    "events": 16258
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 15810
+    "events": 15513
   },
   {
     "asn_org": "3xK Tech GmbH",
     "events": 14269
   },
   {
-    "asn_org": "Host Europe GmbH",
-    "events": 12161
-  },
-  {
-    "asn_org": "Psychz Networks",
-    "events": 11370
-  },
-  {
     "asn_org": "Rashedur Rahman t/a Onesky Communications Limited.",
-    "events": 10444
+    "events": 12340
   }
 ]
