@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 1102391
+    "events": 1414161
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 117562
+    "events": 115053
   },
   {
     "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 79414
+    "events": 72791
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 64756
+    "events": 63293
   },
   {
     "asn_org": "Google LLC",
-    "events": 38037
+    "events": 39975
+  },
+  {
+    "asn_org": "ColocaTel Inc.",
+    "events": 39069
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 29199
+    "events": 27571
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 22867
+    "events": 24502
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 21121
-  },
-  {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 20560
-  },
-  {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 20024
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 19157
+    "events": 21348
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 18251
+    "events": 19644
   },
   {
-    "asn_org": "3xK Tech GmbH",
-    "events": 16870
+    "asn_org": "ONYPHE SAS",
+    "events": 19286
   },
   {
-    "asn_org": "Censys, Inc.",
-    "events": 14900
+    "asn_org": "Cogent Communications, LLC",
+    "events": 17983
   },
   {
-    "asn_org": "Host Europe GmbH",
-    "events": 12108
-  },
-  {
-    "asn_org": "Alsycon B.V.",
-    "events": 11658
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 9911
+    "asn_org": "Akamai Connected Cloud",
+    "events": 17536
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 9161
+    "events": 16004
   },
   {
-    "asn_org": "Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
-    "events": 8498
+    "asn_org": "Censys, Inc.",
+    "events": 15077
   },
   {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 7713
+    "asn_org": "SolidCore Hosting LTD",
+    "events": 14575
+  },
+  {
+    "asn_org": "3xK Tech GmbH",
+    "events": 14269
+  },
+  {
+    "asn_org": "Host Europe GmbH",
+    "events": 12265
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 11546
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 9843
   }
 ]
