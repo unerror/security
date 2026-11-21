@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 5211098
+    "events": 5213678
   },
   {
     "asn_org": "ColocaTel Inc.",
-    "events": 146291
+    "events": 131969
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 116576
+    "events": 116538
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 93149
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 85941
+    "events": 93826
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 82485
+    "events": 88148
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 60255
   },
   {
     "asn_org": "Psychz Networks",
-    "events": 54825
+    "events": 57989
   },
   {
     "asn_org": "Google LLC",
-    "events": 48188
+    "events": 45098
   },
   {
     "asn_org": "HostPapa",
-    "events": 29357
+    "events": 30907
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 27326
+    "events": 29092
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 22619
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 19370
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 19094
-  },
-  {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 17383
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 16413
-  },
-  {
-    "asn_org": "Rashedur Rahman t/a Onesky Communications Limited.",
-    "events": 15009
-  },
-  {
-    "asn_org": "Host Europe GmbH",
-    "events": 12669
-  },
-  {
-    "asn_org": "OVH SAS",
-    "events": 11673
-  },
-  {
-    "asn_org": "Hetzner Online GmbH",
-    "events": 11651
+    "events": 22791
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 10938
+    "events": 19567
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 18681
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 18203
+  },
+  {
+    "asn_org": "Cogent Communications, LLC",
+    "events": 18172
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 15383
+  },
+  {
+    "asn_org": "Rashedur Rahman t/a Onesky Communications Limited.",
+    "events": 15178
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 13802
+  },
+  {
+    "asn_org": "Host Europe GmbH",
+    "events": 12948
+  },
+  {
+    "asn_org": "OVH SAS",
+    "events": 12068
   }
 ]
