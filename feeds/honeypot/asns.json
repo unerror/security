@@ -1,7 +1,7 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 4396256
+    "events": 4840509
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -9,74 +9,74 @@
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 116767
+    "events": 116633
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 100050
+    "events": 94079
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 80473
+    "events": 87947
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 73945
+    "events": 79716
   },
   {
     "asn_org": "Google LLC",
-    "events": 47480
+    "events": 48970
   },
   {
     "asn_org": "Psychz Networks",
-    "events": 40578
-  },
-  {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 24472
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 22840
+    "events": 47640
   },
   {
     "asn_org": "HostPapa",
-    "events": 21956
+    "events": 26172
   },
   {
-    "asn_org": "Censys, Inc.",
-    "events": 19752
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 25449
   },
   {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 19653
+    "asn_org": "Akamai Connected Cloud",
+    "events": 24566
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 19549
+    "events": 19346
   },
   {
-    "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 19435
+    "asn_org": "Censys, Inc.",
+    "events": 18149
   },
   {
-    "asn_org": "AO ALMAZ",
-    "events": 19007
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 17507
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 17014
-  },
-  {
-    "asn_org": "Tc Datacenter Limited",
-    "events": 15997
+    "events": 17364
   },
   {
     "asn_org": "Rashedur Rahman t/a Onesky Communications Limited.",
-    "events": 14788
+    "events": 15107
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 12297
+    "events": 12436
+  },
+  {
+    "asn_org": "Alferov Aleksey Aleksandrovich",
+    "events": 11893
+  },
+  {
+    "asn_org": "AO ALMAZ",
+    "events": 11455
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 10501
   }
 ]
