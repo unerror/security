@@ -1,7 +1,7 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 3113102
+    "events": 3520740
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -9,74 +9,74 @@
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 116777
+    "events": 116929
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 109293
+    "events": 106630
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 95122
-  },
-  {
-    "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 50236
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 45499
-  },
-  {
-    "asn_org": "AO ALMAZ",
-    "events": 45479
+    "events": 96436
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 42672
+    "events": 52921
   },
   {
-    "asn_org": "HOSTRAM",
-    "events": 20687
+    "asn_org": "Google LLC",
+    "events": 45112
   },
   {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 19727
+    "asn_org": "Alferov Aleksey Aleksandrovich",
+    "events": 38626
   },
   {
-    "asn_org": "ONYPHE SAS",
-    "events": 19364
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 18813
+    "asn_org": "AO ALMAZ",
+    "events": 35823
   },
   {
     "asn_org": "Psychz Networks",
-    "events": 18504
+    "events": 25854
   },
   {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 18118
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 21462
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 20411
+  },
+  {
+    "asn_org": "ONYPHE SAS",
+    "events": 19374
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 16504
+    "events": 17673
+  },
+  {
+    "asn_org": "Cogent Communications, LLC",
+    "events": 17626
+  },
+  {
+    "asn_org": "HOSTRAM",
+    "events": 16716
   },
   {
     "asn_org": "Tc Datacenter Limited",
-    "events": 16258
+    "events": 16294
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 15513
+    "events": 15563
+  },
+  {
+    "asn_org": "HostPapa",
+    "events": 14580
   },
   {
     "asn_org": "3xK Tech GmbH",
     "events": 14269
-  },
-  {
-    "asn_org": "Rashedur Rahman t/a Onesky Communications Limited.",
-    "events": 12340
   }
 ]
