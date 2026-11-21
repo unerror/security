@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 4840509
+    "events": 5211098
   },
   {
     "asn_org": "ColocaTel Inc.",
-    "events": 185338
+    "events": 146291
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 116633
+    "events": 116576
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 94079
+    "events": 93149
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 87947
+    "events": 85941
   },
   {
     "asn_org": "SolidCore Hosting LTD",
-    "events": 79716
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 48970
+    "events": 82485
   },
   {
     "asn_org": "Psychz Networks",
-    "events": 47640
+    "events": 54825
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 48188
   },
   {
     "asn_org": "HostPapa",
-    "events": 26172
+    "events": 29357
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 25449
+    "events": 27326
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 24566
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 19346
+    "events": 22619
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 18149
+    "events": 19370
   },
   {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 17507
+    "asn_org": "ONYPHE SAS",
+    "events": 19094
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 17364
+    "events": 17383
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 16413
   },
   {
     "asn_org": "Rashedur Rahman t/a Onesky Communications Limited.",
-    "events": 15107
+    "events": 15009
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 12436
+    "events": 12669
   },
   {
-    "asn_org": "Alferov Aleksey Aleksandrovich",
-    "events": 11893
+    "asn_org": "OVH SAS",
+    "events": 11673
   },
   {
-    "asn_org": "AO ALMAZ",
-    "events": 11455
+    "asn_org": "Hetzner Online GmbH",
+    "events": 11651
   },
   {
-    "asn_org": "Microsoft Corporation",
-    "events": 10501
+    "asn_org": "Amazon.com, Inc.",
+    "events": 10938
   }
 ]
