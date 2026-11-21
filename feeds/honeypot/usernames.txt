@@ -1,5 +1,5 @@
-4243	root
-657	admin
+4237	root
+661	admin
 326	ubuntu
 215	system
 209	enable
@@ -7,7 +7,7 @@
 123	deploy
 106	test
 97	Tronlong
-91	rootssssss23424123123
+90	rootssssss23424123123
 59	user1
 47	claude
 45	dev
@@ -28,8 +28,8 @@
 29	admin1
 29	azureuser
 27	administrator
-27	devops
 27	steam
+26	devops
 25	server
 25	user2
 24	frappe
@@ -70,12 +70,12 @@
 12	app
 12	ec2-user
 12	kingbase
-12	service
 12	super
 12	teamspeak
 12	test1
 11	345gs5662d34
 11	Admin
+11	GET / HTTP/1.1
 11	adminuser
 11	botuser
 11	david
@@ -83,8 +83,8 @@
 11	nvidia
 11	odoo18
 11	rocky
+11	service
 11	yhtcAdmin
-10	GET / HTTP/1.1
 10	codex
 10	devuser
 10	hikvision
