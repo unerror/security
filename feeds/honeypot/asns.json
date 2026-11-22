@@ -1,27 +1,31 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 5433376
+    "events": 5231090
   },
   {
     "asn_org": "ColocaTel Inc.",
-    "events": 104515
+    "events": 155205
   },
   {
     "asn_org": "Hydra Communications Ltd",
-    "events": 89847
+    "events": 95617
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 80786
+    "events": 76928
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 78952
+    "events": 59112
+  },
+  {
+    "asn_org": "PT Telekomunikasi Indonesia",
+    "events": 48146
   },
   {
     "asn_org": "Google LLC",
-    "events": 45957
+    "events": 44997
   },
   {
     "asn_org": "IONOS SE",
@@ -29,31 +33,39 @@
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 34832
+    "events": 36156
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 32603
-  },
-  {
-    "asn_org": "Psychz Networks",
-    "events": 31269
+    "events": 32757
   },
   {
     "asn_org": "HostPapa",
-    "events": 29943
+    "events": 29879
   },
   {
-    "asn_org": "TELECOMUNICACIONES G-NETWORK, C.A.",
-    "events": 25391
+    "asn_org": "Psychz Networks",
+    "events": 24356
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 24143
+  },
+  {
+    "asn_org": "Tier 4 Cloud Services",
+    "events": 22523
+  },
+  {
+    "asn_org": "Cogent Communications, LLC",
+    "events": 22406
   },
   {
     "asn_org": "Space Exploration Technologies Corporation",
     "events": 21687
   },
   {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 20901
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 20892
   },
   {
     "asn_org": "Cloud Software - FZCO",
@@ -61,22 +73,10 @@
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 17197
+    "events": 18884
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14186
-  },
-  {
-    "asn_org": "Gigabit Hosting Sdn Bhd",
-    "events": 13448
-  },
-  {
-    "asn_org": "Rashedur Rahman t/a Onesky Communications Limited.",
-    "events": 12656
-  },
-  {
-    "asn_org": "Hetzner Online GmbH",
-    "events": 12032
+    "events": 14150
   }
 ]
