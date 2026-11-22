@@ -1,31 +1,29 @@
-1143	root
-258	admin
+1061	root
+256	admin
 64	ubuntu
 51	system
 50	enable
-41	user
+39	user
 32	test
-16	rootssssss23424123123
 15	developer
+14	support
 13	deploy
-12	support
-10	lghkel	
+13	rootssssss23424123123
 10	postgres
-10	zalee	
 9	git
 9	guest
 9	ubnt
 7	claude
-7	default
 7	ftpuser
 7	openclaw
 7	pi
-6	GET / HTTP/1.1
+6	admin1
 6	administrator
+6	default
 6	dev
-5	admin1
+6	ftp
+5	GET / HTTP/1.1
 5	apache
-5	aryeh
 5	canon
 5	chantz
 5	chayse
@@ -40,21 +38,21 @@
 5	eian
 5	esai
 5	filip
-5	ftp
 5	heber
 5	jerrick
 5	juston
-4	Connection: close
-4	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+5	super
 4	backup
 4	deployer
+4	karan
 4	minecraft
 4	root1
 4	steam
 4	student
+4	test1
 4	username
-3	archie
-3	b'\xdf\xda\xd3\xd7\xd0'
+3	Connection: close
+3	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 3	dmdba
 3	elasticsearch
 3	es
@@ -67,22 +65,21 @@
 3	node
 3	odoo18
 3	operator
-3	super
-3	test1
 3	user1
 3	user2
 2	1234
 2	345gs5662d34
 2	888888
+2	Admin
 2	adminuser
 2	ai
 2	alex
 2	ansible
 2	appuser
-2	b'\xcc\xd1\xd1\xca'
 2	bitrix
 2	bob
 2	cloud
+2	cosmos
 2	crafty
 2	cuadmin
 2	daemon
@@ -97,3 +94,6 @@
 2	jayalakshmi
 2	jeet
 2	jenkins
+2	john
+2	localadmin
+2	lucas
