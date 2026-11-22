@@ -1,8 +1,42 @@
 [
   {
+    "crawler": "Bytespider",
+    "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
+    "requests": 8,
+    "read_robots": false,
+    "fetched_disallowed": 2,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.production",
+        1
+      ],
+      [
+        "/.git/",
+        1
+      ],
+      [
+        "/api/config",
+        1
+      ],
+      [
+        "/application.yml",
+        1
+      ],
+      [
+        "/config.json",
+        1
+      ],
+      [
+        "/env.json",
+        1
+      ]
+    ]
+  },
+  {
     "crawler": "OAI-SearchBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
-    "requests": 12,
+    "requests": 8,
     "read_robots": false,
     "fetched_disallowed": 1,
     "fetched_private": 0,
@@ -20,109 +54,7 @@
         1
       ],
       [
-        "/api/v1/settings",
-        1
-      ],
-      [
-        "/application.properties",
-        1
-      ],
-      [
         "/config.js",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "Bytespider",
-    "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
-    "requests": 11,
-    "read_robots": false,
-    "fetched_disallowed": 4,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/.env.production",
-        1
-      ],
-      [
-        "/.git/",
-        1
-      ],
-      [
-        "/.git/config",
-        1
-      ],
-      [
-        "/__/firebase/init.json",
-        1
-      ],
-      [
-        "/api/config",
-        1
-      ],
-      [
-        "/application.yml",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "PerplexityBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
-    "requests": 8,
-    "read_robots": false,
-    "fetched_disallowed": 2,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/.env",
-        1
-      ],
-      [
-        "/app-config.json",
-        1
-      ],
-      [
-        "/app/.env",
-        1
-      ],
-      [
-        "/backup/",
-        1
-      ],
-      [
-        "/config/secrets.yml",
-        1
-      ],
-      [
-        "/firebase-config.json",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "ClaudeBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
-    "requests": 7,
-    "read_robots": false,
-    "fetched_disallowed": 1,
-    "fetched_private": 1,
-    "top_paths": [
-      [
-        "/.git/",
-        1
-      ],
-      [
-        "/.ssh/id_ed25519",
-        1
-      ],
-      [
-        "/.well-known/jwks.json",
-        1
-      ],
-      [
-        "/__/firebase/init.json",
         1
       ],
       [
@@ -130,7 +62,7 @@
         1
       ],
       [
-        "/private/",
+        "/server.env",
         1
       ]
     ]
@@ -165,6 +97,74 @@
       ],
       [
         "/settings.json",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "ClaudeBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
+    "requests": 6,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.git/",
+        1
+      ],
+      [
+        "/.ssh/id_ed25519",
+        1
+      ],
+      [
+        "/.well-known/jwks.json",
+        1
+      ],
+      [
+        "/__/firebase/init.json",
+        1
+      ],
+      [
+        "/debug/pprof/cmdline",
+        1
+      ],
+      [
+        "/secrets/google.json",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "PerplexityBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
+    "requests": 6,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/app-config.json",
+        1
+      ],
+      [
+        "/app/.env",
+        1
+      ],
+      [
+        "/backup/",
+        1
+      ],
+      [
+        "/firebase-config.json",
+        1
+      ],
+      [
+        "/sa.json",
+        1
+      ],
+      [
+        "/settings.py",
         1
       ]
     ]
@@ -206,7 +206,7 @@
   {
     "crawler": "CCBot",
     "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
-    "requests": 5,
+    "requests": 4,
     "read_robots": false,
     "fetched_disallowed": 1,
     "fetched_private": 0,
@@ -221,10 +221,6 @@
       ],
       [
         "/api.env",
-        1
-      ],
-      [
-        "/api/config",
         1
       ],
       [

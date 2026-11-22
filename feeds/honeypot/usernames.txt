@@ -1,17 +1,16 @@
-1246	root
-318	admin
-59	ubuntu
+1141	root
+260	admin
+64	ubuntu
 51	system
 50	enable
-44	user
+41	user
 32	test
-19	rootssssss23424123123
+16	rootssssss23424123123
 15	developer
 13	deploy
 12	support
 10	lghkel	
 10	postgres
-10	ubnt
 10	zalee	
 9	git
 9	guest
@@ -20,12 +19,11 @@
 7	ftpuser
 7	openclaw
 7	pi
+7	ubnt
+6	GET / HTTP/1.1
 6	administrator
 6	dev
-5	GET / HTTP/1.1
 5	admin1
-5	akil
-5	alexi
 5	apache
 5	aryeh
 5	canon
@@ -44,8 +42,10 @@
 5	filip
 5	ftp
 5	heber
-5	super
-4	Admin
+5	jerrick
+5	juston
+4	Connection: close
+4	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 4	backup
 4	deployer
 4	minecraft
@@ -53,33 +53,27 @@
 4	steam
 4	student
 4	username
-3	888888
-3	Connection: close
-3	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 3	archie
 3	b'\xdf\xda\xd3\xd7\xd0'
-3	cuadmin
 3	dmdba
 3	elasticsearch
 3	es
 3	fake
 3	hadoop
 3	kingbase
-3	localadmin
 3	master
 3	myuser
 3	newuser
 3	node
 3	odoo18
-3	opc
 3	operator
-3	service
+3	super
 3	test1
 3	user1
 3	user2
-3	wallet
 2	1234
 2	345gs5662d34
+2	888888
 2	adminuser
 2	ai
 2	alex
@@ -88,12 +82,18 @@
 2	b'\xcc\xd1\xd1\xca'
 2	bitrix
 2	bob
-2	chao
 2	cloud
 2	crafty
+2	cuadmin
 2	daemon
 2	david
 2	dolphinscheduler
 2	esroot
 2	esuser
 2	fastuser
+2	fivem
+2	frappe
+2	gitlab-runner
+2	jayalakshmi
+2	jeet
+2	jenkins
