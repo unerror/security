@@ -1,44 +1,10 @@
 [
   {
-    "crawler": "Bytespider",
-    "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
-    "requests": 8,
-    "read_robots": false,
-    "fetched_disallowed": 2,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/.env.production",
-        1
-      ],
-      [
-        "/.git/",
-        1
-      ],
-      [
-        "/api/config",
-        1
-      ],
-      [
-        "/application.yml",
-        1
-      ],
-      [
-        "/config.json",
-        1
-      ],
-      [
-        "/env.json",
-        1
-      ]
-    ]
-  },
-  {
     "crawler": "OAI-SearchBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
-    "requests": 8,
+    "requests": 10,
     "read_robots": false,
-    "fetched_disallowed": 1,
+    "fetched_disallowed": 2,
     "fetched_private": 0,
     "top_paths": [
       [
@@ -46,7 +12,15 @@
         1
       ],
       [
+        "/.env.backup",
+        1
+      ],
+      [
         "/.env.local",
+        1
+      ],
+      [
+        "/.well-known/jwks.json",
         1
       ],
       [
@@ -56,47 +30,39 @@
       [
         "/config.js",
         1
-      ],
-      [
-        "/debug/pprof/cmdline",
-        1
-      ],
-      [
-        "/server.env",
-        1
       ]
     ]
   },
   {
-    "crawler": "GPTBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "crawler": "Bytespider",
+    "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
     "requests": 7,
     "read_robots": false,
     "fetched_disallowed": 1,
     "fetched_private": 0,
     "top_paths": [
       [
-        "/api/settings",
+        "/config.json",
+        2
+      ],
+      [
+        "/.env.production",
         1
       ],
       [
-        "/backup/",
+        "/api/config",
         1
       ],
       [
-        "/config/secrets.yml",
+        "/debug/pprof/cmdline",
         1
       ],
       [
-        "/firebase-config.json",
+        "/manifest.webmanifest",
         1
       ],
       [
-        "/service-account.json",
-        1
-      ],
-      [
-        "/settings.json",
+        "/secrets.json",
         1
       ]
     ]
@@ -106,15 +72,15 @@
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
     "requests": 6,
     "read_robots": false,
-    "fetched_disallowed": 1,
+    "fetched_disallowed": 2,
     "fetched_private": 0,
     "top_paths": [
       [
-        "/.git/",
+        "/.env.local",
         1
       ],
       [
-        "/.ssh/id_ed25519",
+        "/.git/",
         1
       ],
       [
@@ -126,45 +92,41 @@
         1
       ],
       [
-        "/debug/pprof/cmdline",
+        "/config.js",
         1
       ],
       [
-        "/secrets/google.json",
+        "/debug/pprof/cmdline",
         1
       ]
     ]
   },
   {
-    "crawler": "PerplexityBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
-    "requests": 6,
+    "crawler": "GPTBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "requests": 5,
     "read_robots": false,
     "fetched_disallowed": 1,
     "fetched_private": 0,
     "top_paths": [
       [
-        "/app-config.json",
-        1
-      ],
-      [
-        "/app/.env",
-        1
-      ],
-      [
         "/backup/",
         1
       ],
       [
-        "/firebase-config.json",
+        "/config/application.properties",
         1
       ],
       [
-        "/sa.json",
+        "/config/secrets.yml",
         1
       ],
       [
-        "/settings.py",
+        "/settings.json",
+        1
+      ],
+      [
+        "/storage/logs/laravel.log",
         1
       ]
     ]
@@ -172,13 +134,17 @@
   {
     "crawler": "anthropic-ai",
     "user_agent": "anthropic-ai",
-    "requests": 6,
+    "requests": 5,
     "read_robots": false,
-    "fetched_disallowed": 0,
+    "fetched_disallowed": 1,
     "fetched_private": 0,
     "top_paths": [
       [
-        "/admin/.env",
+        "/.aws/credentials",
+        1
+      ],
+      [
+        "/.env.old",
         1
       ],
       [
@@ -186,19 +152,11 @@
         1
       ],
       [
-        "/api/v1/settings",
-        1
-      ],
-      [
-        "/gcp-credentials.json",
+        "/env.js",
         1
       ],
       [
         "/graphql",
-        1
-      ],
-      [
-        "/keys/service-account.json",
         1
       ]
     ]
@@ -212,19 +170,15 @@
     "fetched_private": 0,
     "top_paths": [
       [
+        "/env.json",
+        2
+      ],
+      [
         "/.env.example",
         1
       ],
       [
-        "/.pypirc",
-        1
-      ],
-      [
-        "/api.env",
-        1
-      ],
-      [
-        "/env.json",
+        "/__/firebase/init.json",
         1
       ]
     ]
@@ -232,21 +186,43 @@
   {
     "crawler": "Google-Extended",
     "user_agent": "Mozilla/5.0 (compatible; Google-Extended/1.0; +http://www.google.com/bot.html)",
+    "requests": 4,
+    "read_robots": false,
+    "fetched_disallowed": 0,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/api/v1/settings",
+        2
+      ],
+      [
+        "/api/v2/settings",
+        1
+      ],
+      [
+        "/v1/graphql",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "PerplexityBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
     "requests": 3,
     "read_robots": false,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
-        "/.npmrc",
+        "/app-config.json",
         1
       ],
       [
-        "/api/v1/settings",
+        "/config/secrets.yml",
         1
       ],
       [
-        "/api/v2/settings",
+        "/firebase-config.json",
         1
       ]
     ]
