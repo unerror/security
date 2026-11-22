@@ -1,11 +1,15 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 5683182
+    "events": 5736195
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 90782
+    "events": 92896
+  },
+  {
+    "asn_org": "ColocaTel Inc.",
+    "events": 92107
   },
   {
     "asn_org": "AO ALMAZ",
@@ -13,31 +17,31 @@
   },
   {
     "asn_org": "Hydra Communications Ltd",
-    "events": 57064
+    "events": 64863
   },
   {
     "asn_org": "Psychz Networks",
-    "events": 53980
+    "events": 50036
   },
   {
     "asn_org": "Google LLC",
-    "events": 44985
-  },
-  {
-    "asn_org": "SolidCore Hosting LTD",
-    "events": 37823
+    "events": 43883
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 31345
+    "events": 31422
   },
   {
     "asn_org": "HostPapa",
-    "events": 30737
+    "events": 30304
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 29258
+    "events": 28864
+  },
+  {
+    "asn_org": "SolidCore Hosting LTD",
+    "events": 26913
   },
   {
     "asn_org": "TELECOMUNICACIONES G-NETWORK, C.A.",
@@ -45,38 +49,34 @@
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 20254
+    "events": 20076
   },
   {
     "asn_org": "Cloud Software - FZCO",
     "events": 19774
   },
   {
-    "asn_org": "1337 Services GmbH",
-    "events": 17562
-  },
-  {
     "asn_org": "Cogent Communications, LLC",
-    "events": 16170
+    "events": 18036
   },
   {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 15665
+    "asn_org": "1337 Services GmbH",
+    "events": 16062
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 13862
-  },
-  {
-    "asn_org": "Rashedur Rahman t/a Onesky Communications Limited.",
-    "events": 13791
-  },
-  {
-    "asn_org": "OVH SAS",
-    "events": 13694
+    "events": 14162
   },
   {
     "asn_org": "Gigabit Hosting Sdn Bhd",
-    "events": 13522
+    "events": 13667
+  },
+  {
+    "asn_org": "OVH SAS",
+    "events": 13450
+  },
+  {
+    "asn_org": "Rashedur Rahman t/a Onesky Communications Limited.",
+    "events": 13355
   }
 ]
