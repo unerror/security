@@ -1,5 +1,5 @@
-1141	root
-260	admin
+1143	root
+258	admin
 64	ubuntu
 51	system
 50	enable
@@ -14,12 +14,12 @@
 10	zalee	
 9	git
 9	guest
+9	ubnt
 7	claude
 7	default
 7	ftpuser
 7	openclaw
 7	pi
-7	ubnt
 6	GET / HTTP/1.1
 6	administrator
 6	dev
