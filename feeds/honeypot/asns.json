@@ -1,7 +1,7 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 4861975
+    "events": 4711521
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -13,59 +13,63 @@
   },
   {
     "asn_org": "Hydra Communications Ltd",
-    "events": 111292
+    "events": 102833
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 74703
+    "events": 74962
   },
   {
-    "asn_org": "Google LLC",
-    "events": 41401
-  },
-  {
-    "asn_org": "IONOS SE",
-    "events": 39773
+    "asn_org": "HOSTRAM",
+    "events": 56544
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 39185
+    "events": 44857
+  },
+  {
+    "asn_org": "IONOS SE",
+    "events": 39686
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 36534
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 32798
+    "events": 33399
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 30784
+    "events": 30933
   },
   {
     "asn_org": "HostPapa",
-    "events": 29950
+    "events": 29481
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 27555
+    "events": 28831
   },
   {
     "asn_org": "Tier 4 Cloud Services",
-    "events": 24829
-  },
-  {
-    "asn_org": "1337 Services GmbH",
-    "events": 22495
+    "events": 24552
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 22183
+    "events": 23147
+  },
+  {
+    "asn_org": "1337 Services GmbH",
+    "events": 22618
   },
   {
     "asn_org": "Space Exploration Technologies Corporation",
-    "events": 21154
+    "events": 20607
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14161
+    "events": 14015
   },
   {
     "asn_org": "Bucklog SARL",
@@ -73,10 +77,6 @@
   },
   {
     "asn_org": "Rashedur Rahman t/a Onesky Communications Limited.",
-    "events": 12932
-  },
-  {
-    "asn_org": "Gigabit Hosting Sdn Bhd",
-    "events": 12876
+    "events": 13014
   }
 ]
