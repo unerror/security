@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 4364075
+    "events": 4393159
   },
   {
     "asn_org": "PT Telekomunikasi Indonesia",
-    "events": 152890
+    "events": 104743
+  },
+  {
+    "asn_org": "AO ALMAZ",
+    "events": 92117
   },
   {
     "asn_org": "Hydra Communications Ltd",
-    "events": 96899
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 73074
+    "events": 75767
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 71862
+    "events": 71344
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 67015
+    "events": 67964
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 65221
+    "events": 65466
   },
   {
-    "asn_org": "ColocaTel Inc.",
-    "events": 50487
+    "asn_org": "Scaleway SAS",
+    "events": 61707
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 58631
   },
   {
     "asn_org": "Google LLC",
-    "events": 38495
+    "events": 42661
   },
   {
     "asn_org": "HostPapa",
-    "events": 29953
-  },
-  {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 28879
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 22900
+    "events": 29876
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 22831
+    "events": 22941
   },
   {
     "asn_org": "TechTies Inc.",
-    "events": 20192
+    "events": 21161
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 19727
   },
   {
     "asn_org": "IONOS SE",
-    "events": 19280
+    "events": 19385
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 18671
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 15972
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 14321
+    "events": 16814
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 14231
+    "events": 14325
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 14270
+  },
+  {
+    "asn_org": "Bucklog SARL",
+    "events": 13785
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 13867
+    "events": 13776
   }
 ]
