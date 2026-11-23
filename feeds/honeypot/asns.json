@@ -1,7 +1,7 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 4477469
+    "events": 4404477
   },
   {
     "asn_org": "PT Telekomunikasi Indonesia",
@@ -9,74 +9,74 @@
   },
   {
     "asn_org": "Hydra Communications Ltd",
-    "events": 95350
+    "events": 110904
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 72178
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 69989
+    "events": 71723
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 69728
+    "events": 69241
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 64632
+    "events": 64930
   },
   {
     "asn_org": "ColocaTel Inc.",
     "events": 63098
   },
   {
-    "asn_org": "Banatsync Srl",
-    "events": 57920
-  },
-  {
     "asn_org": "IONOS SE",
-    "events": 39652
+    "events": 58856
   },
   {
     "asn_org": "Google LLC",
-    "events": 32825
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 30829
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 30186
+    "events": 35775
   },
   {
     "asn_org": "HostPapa",
-    "events": 29045
+    "events": 29186
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 28827
+    "events": 28848
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 26604
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 24430
   },
   {
     "asn_org": "Tier 4 Cloud Services",
-    "events": 24527
+    "events": 24379
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 22549
+    "events": 22622
+  },
+  {
+    "asn_org": "TechTies Inc.",
+    "events": 21145
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 21869
+    "events": 20309
+  },
+  {
+    "asn_org": "Hetzner Online GmbH",
+    "events": 14188
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14160
-  },
-  {
-    "asn_org": "Bucklog SARL",
-    "events": 13785
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 13711
+    "events": 13975
   }
 ]

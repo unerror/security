@@ -32,6 +32,9 @@
 4	http://45.9.2.239:24381/bins/adb/akuma.sh4
 4	http://45.9.2.239:24381/bins/adb/akuma.spc
 4	http://45.9.2.239:24381/bins/adb/akuma.x64
+4	http://%s/mips
+4	http://%s/mipsel
+4	http://%s/telnet.sh
 2	http://45.9.2.239:24381/bins/adb/akuma.arm64
 2	https://infrawat.ch/
 1	http://httpbin.org/get
@@ -89,3 +92,17 @@
 1	http://94.26.106.200/d/xd.sh4;cat
 1	http://94.26.106.200/d/xd.x86
 1	http://94.26.106.200/d/xd.x86;cat
+1	http://143.203.219.50/iran.aarch64
+1	http://143.203.219.50/iran.arc
+1	http://143.203.219.50/iran.armv4l
+1	http://143.203.219.50/iran.armv5l
+1	http://143.203.219.50/iran.armv6l
+1	http://143.203.219.50/iran.armv7l
+1	http://143.203.219.50/iran.i486
+1	http://143.203.219.50/iran.m68k
+1	http://143.203.219.50/iran.mips
+1	http://143.203.219.50/iran.mipsel
+1	http://143.203.219.50/iran.powerpc
+1	http://143.203.219.50/iran.sh4
+1	http://143.203.219.50/iran.sparc
+1	http://143.203.219.50/iran.x86_64
