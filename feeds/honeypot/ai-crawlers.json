@@ -2,13 +2,25 @@
   {
     "crawler": "OAI-SearchBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
-    "requests": 4,
+    "requests": 9,
     "read_robots": false,
-    "fetched_disallowed": 1,
+    "fetched_disallowed": 3,
     "fetched_private": 0,
     "top_paths": [
       [
+        "/.aws/credentials",
+        1
+      ],
+      [
+        "/.env",
+        1
+      ],
+      [
         "/.env.backup",
+        1
+      ],
+      [
+        "/.env.docker",
         1
       ],
       [
@@ -16,33 +28,139 @@
         1
       ],
       [
-        "/secrets.json",
-        1
-      ],
-      [
-        "/secrets.yml",
+        "/config.json",
         1
       ]
     ]
   },
   {
-    "crawler": "Bytespider",
-    "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
-    "requests": 3,
+    "crawler": "CCBot",
+    "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
+    "requests": 7,
     "read_robots": false,
-    "fetched_disallowed": 0,
+    "fetched_disallowed": 1,
     "fetched_private": 0,
     "top_paths": [
       [
-        "/api/config",
+        "/.git/",
         1
       ],
       [
-        "/config.json",
+        "/__/firebase/init.json",
         1
       ],
       [
-        "/debug/pprof/cmdline",
+        "/api/health",
+        1
+      ],
+      [
+        "/api/settings",
+        1
+      ],
+      [
+        "/api/v1/settings",
+        1
+      ],
+      [
+        "/config/application.properties",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "ClaudeBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
+    "requests": 6,
+    "read_robots": false,
+    "fetched_disallowed": 3,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.example",
+        1
+      ],
+      [
+        "/.env.local",
+        1
+      ],
+      [
+        "/.envrc",
+        1
+      ],
+      [
+        "/api/v1/config",
+        1
+      ],
+      [
+        "/config.js",
+        1
+      ],
+      [
+        "/runtime-config.js",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "GPTBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot",
+    "requests": 6,
+    "read_robots": false,
+    "fetched_disallowed": 2,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.bak",
+        1
+      ],
+      [
+        "/.env.staging",
+        1
+      ],
+      [
+        "/api/env",
+        1
+      ],
+      [
+        "/app-config.json",
+        1
+      ],
+      [
+        "/config/application.properties",
+        1
+      ],
+      [
+        "/swagger.json",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "PerplexityBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
+    "requests": 5,
+    "read_robots": false,
+    "fetched_disallowed": 3,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env.development",
+        1
+      ],
+      [
+        "/.env.local",
+        1
+      ],
+      [
+        "/.git/config",
+        1
+      ],
+      [
+        "/backend/.env",
+        1
+      ],
+      [
+        "/config/secrets.yml",
         1
       ]
     ]
@@ -50,7 +168,7 @@
   {
     "crawler": "anthropic-ai",
     "user_agent": "anthropic-ai",
-    "requests": 3,
+    "requests": 5,
     "read_robots": false,
     "fetched_disallowed": 1,
     "fetched_private": 0,
@@ -64,25 +182,37 @@
         1
       ],
       [
+        "/app/.env",
+        1
+      ],
+      [
         "/env.js",
+        1
+      ],
+      [
+        "/secrets.json",
         1
       ]
     ]
   },
   {
-    "crawler": "CCBot",
-    "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
-    "requests": 2,
+    "crawler": "Bytespider",
+    "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
+    "requests": 4,
     "read_robots": false,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
-        "/__/firebase/init.json",
+        "/api/config",
+        2
+      ],
+      [
+        "/config.json",
         1
       ],
       [
-        "/env.json",
+        "/debug/pprof/cmdline",
         1
       ]
     ]
@@ -90,63 +220,25 @@
   {
     "crawler": "Google-Extended",
     "user_agent": "Mozilla/5.0 (compatible; Google-Extended/1.0; +http://www.google.com/bot.html)",
-    "requests": 2,
+    "requests": 4,
     "read_robots": false,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
+      [
+        "/api/.env",
+        1
+      ],
       [
         "/api/v1/settings",
         1
       ],
       [
-        "/v1/graphql",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "ClaudeBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
-    "requests": 2,
-    "read_robots": false,
-    "fetched_disallowed": 1,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/.env.local",
+        "/api/v2/settings",
         1
       ],
       [
-        "/config.js",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "GPTBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot",
-    "requests": 1,
-    "read_robots": false,
-    "fetched_disallowed": 0,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/config/application.properties",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "PerplexityBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
-    "requests": 1,
-    "read_robots": false,
-    "fetched_disallowed": 0,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/config/secrets.yml",
+        "/v1/graphql",
         1
       ]
     ]

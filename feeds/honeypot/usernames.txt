@@ -1,21 +1,24 @@
-4785	root
-226	admin
-126	ubuntu
-55	user
+8875	root
+259	admin
+117	ubuntu
+53	user
 49	Tronlong
-38	test
+39	test
 25	deploy
 19	linaro
+15	enable
+15	pi
 13	dev
 13	ftpuser
-13	pi
+13	guest
 12	deployer
-11	guest
+11	support
 10	azureuser
 9	debian
+9	lghkel	
 9	oracle
 9	postgres
-9	support
+9	zalee	
 8	administrator
 8	bot
 8	kafka
@@ -30,14 +33,15 @@
 7	odoo
 7	openclaw
 7	testuser
+6	Admin
+6	admin1
 6	jenkins
 6	steam
-5	Admin
-5	admin1
+6	super
+6	ubnt
 5	cloud
-5	filip
+5	default
 5	ftp
-5	heber
 5	jerrick
 5	juston
 5	krystian
@@ -50,8 +54,7 @@
 5	naquan
 5	osiel
 5	robby
-5	super
-5	ubnt
+4	Administrator
 4	GET / HTTP/1.1
 4	aaa
 4	appuser
@@ -72,6 +75,7 @@
 4	web
 4	www
 3	Connection: close
+3	TMAR#DLKT20060205
 3	USER test
 3	User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 3	a
@@ -80,7 +84,6 @@
 3	app
 3	devuser
 3	elasticsearch
-3	enable
 3	firefly
 3	ftptest
 3	linux
@@ -95,6 +98,3 @@
 3	rdpuser
 3	rock
 3	root1
-3	ruijie
-3	runner
-3	teamspeak
