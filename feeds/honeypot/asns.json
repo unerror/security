@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 4404477
+    "events": 4364075
   },
   {
     "asn_org": "PT Telekomunikasi Indonesia",
-    "events": 152874
+    "events": 152890
   },
   {
     "asn_org": "Hydra Communications Ltd",
-    "events": 110904
+    "events": 96899
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 72178
+    "events": 73074
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 71723
+    "events": 71862
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 69241
+    "events": 67015
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 64930
+    "events": 65221
   },
   {
     "asn_org": "ColocaTel Inc.",
-    "events": 63098
-  },
-  {
-    "asn_org": "IONOS SE",
-    "events": 58856
+    "events": 50487
   },
   {
     "asn_org": "Google LLC",
-    "events": 35775
+    "events": 38495
   },
   {
     "asn_org": "HostPapa",
-    "events": 29186
+    "events": 29953
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 28848
+    "events": 28879
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 26604
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 24430
-  },
-  {
-    "asn_org": "Tier 4 Cloud Services",
-    "events": 24379
+    "events": 22900
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 22622
+    "events": 22831
   },
   {
     "asn_org": "TechTies Inc.",
-    "events": 21145
+    "events": 20192
+  },
+  {
+    "asn_org": "IONOS SE",
+    "events": 19280
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 20309
+    "events": 18671
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 15972
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 14321
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 14188
+    "events": 14231
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 13975
+    "events": 13867
   }
 ]
