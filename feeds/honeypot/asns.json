@@ -1,7 +1,7 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 4580974
+    "events": 4477469
   },
   {
     "asn_org": "PT Telekomunikasi Indonesia",
@@ -9,15 +9,19 @@
   },
   {
     "asn_org": "Hydra Communications Ltd",
-    "events": 95455
+    "events": 95350
+  },
+  {
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 69989
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 72736
+    "events": 69728
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 64463
+    "events": 64632
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -25,58 +29,54 @@
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 57424
+    "events": 57920
   },
   {
     "asn_org": "IONOS SE",
     "events": 39652
   },
   {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 32831
-  },
-  {
     "asn_org": "Google LLC",
-    "events": 32497
+    "events": 32825
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 30977
+    "events": 30829
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 30186
   },
   {
     "asn_org": "HostPapa",
-    "events": 29118
+    "events": 29045
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 27818
+    "events": 28827
   },
   {
     "asn_org": "Tier 4 Cloud Services",
-    "events": 24542
+    "events": 24527
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 22574
+    "events": 22549
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 22563
-  },
-  {
-    "asn_org": "Space Exploration Technologies Corporation",
-    "events": 14893
-  },
-  {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 14531
+    "events": 21869
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 14475
+    "events": 14160
   },
   {
     "asn_org": "Bucklog SARL",
     "events": 13785
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 13711
   }
 ]

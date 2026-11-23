@@ -1,23 +1,25 @@
-14420	root
-372	admin
-184	ubuntu
-103	user
-72	test
-71	deploy
+14485	root
+403	admin
+171	ubuntu
+109	user
+80	deploy
+70	test
 49	Tronlong
-38	administrator
-35	debian
+46	administrator
+43	debian
 34	user1
+30	guest
 29	claude
 29	dev
-28	guest
 28	postgres
 26	pi
+25	admin1
 25	ftpuser
+24	User-Agent: Go-http-client/1.1
 24	minecraft
+23	developer
 22	deployer
 21	oracle
-20	admin1
 19	git
 19	linaro
 18	openclaw
@@ -26,17 +28,15 @@
 16	azureuser
 16	frappe
 16	steam
+16	support
 16	user2
-15	developer
 15	devops
 15	enable
 15	mysql
 14	server
 14	super
-14	support
 14	trader
 13	alex
-12	User-Agent: Go-http-client/1.1
 12	appuser
 12	hadoop
 12	jenkins
@@ -61,6 +61,7 @@
 8	adminuser
 8	bob
 8	bot
+8	centos
 8	default
 8	dmdba
 8	fastuser
@@ -70,12 +71,18 @@
 8	node
 8	www
 7	Administrator
+7	GET / HTTP/1.1
 7	ai
 7	app
+7	backup
 7	demo
 7	ftp
 7	service
 7	teamspeak
+6	GET /cgi-bin/authLogin.cgi HTTP/1.1
+6	GET /solr/admin/cores?action=STATUS&wt=json HTTP/1.1
+6	GET /solr/admin/info/system HTTP/1.1
+6	GET /v2/_catalog HTTP/1.1
 6	TMAR#DLKT20060205
 6	aaa
 6	admin2
@@ -90,11 +97,3 @@
 6	mcserver
 6	odoo18
 6	rocky
-6	sysupdate
-6	tom
-6	vncuser
-6	webadmin
-5	lemuel
-5	liuzixian
-5	luisangel
-5	mervin
