@@ -1,11 +1,11 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 2302329
+    "events": 1793013
   },
   {
     "asn_org": "Scaleway SAS",
-    "events": 121616
+    "events": 121921
   },
   {
     "asn_org": "AO ALMAZ",
@@ -13,15 +13,11 @@
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 79642
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 70664
+    "events": 80458
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 62659
+    "events": 66952
   },
   {
     "asn_org": "Flyservers S.A.",
@@ -29,54 +25,58 @@
   },
   {
     "asn_org": "Google LLC",
-    "events": 52575
-  },
-  {
-    "asn_org": "Hydra Communications Ltd",
-    "events": 44444
-  },
-  {
-    "asn_org": "IONOS SE",
-    "events": 38998
-  },
-  {
-    "asn_org": "HostPapa",
-    "events": 23905
-  },
-  {
-    "asn_org": "1337 Services GmbH",
-    "events": 23847
+    "events": 50269
   },
   {
     "asn_org": "TechTies Inc.",
-    "events": 19869
+    "events": 43365
+  },
+  {
+    "asn_org": "IONOS SE",
+    "events": 39081
+  },
+  {
+    "asn_org": "Hydra Communications Ltd",
+    "events": 27697
+  },
+  {
+    "asn_org": "1337 Services GmbH",
+    "events": 24071
+  },
+  {
+    "asn_org": "HostPapa",
+    "events": 20427
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 18966
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 16732
+    "events": 16649
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 15075
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 14560
-  },
-  {
-    "asn_org": "Akamai Connected Cloud",
-    "events": 12901
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 12556
+    "events": 16188
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 12525
+    "events": 12426
+  },
+  {
+    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "events": 12037
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 11762
+    "events": 11915
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 11631
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 11186
   }
 ]
