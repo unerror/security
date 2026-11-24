@@ -1,10 +1,11 @@
-96	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
+97	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 91	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 13	visionheight.com
 12	best-proxies.ru
 9	api.ipify.org
 8	icanhazip.com
 8	www.nokia.com
+7	f.cc
 7	nicehash.com
 7	pool-aus.supportxmr.com
 7	pool-ca.supportxmr.com
@@ -14,7 +15,6 @@
 7	pool-phx.supportxmr.com
 7	pool-sg.supportxmr.com
 7	xmrig.com
-6	f.cc
 6	upx.sf.net
 5	mc.heyiwei.net
 4	libssh.org
