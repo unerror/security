@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 758406
-  },
-  {
-    "asn_org": "Scaleway SAS",
-    "events": 122558
-  },
-  {
-    "asn_org": "AO ALMAZ",
-    "events": 92107
-  },
-  {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 85575
+    "events": 205266
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 76577
+    "events": 87331
   },
   {
-    "asn_org": "Flyservers S.A.",
-    "events": 54452
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 40838
+    "asn_org": "DigitalOcean, LLC",
+    "events": 84007
   },
   {
     "asn_org": "IONOS SE",
-    "events": 33922
+    "events": 74045
+  },
+  {
+    "asn_org": "Scaleway SAS",
+    "events": 62473
+  },
+  {
+    "asn_org": "Flyservers S.A.",
+    "events": 54460
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 35774
   },
   {
     "asn_org": "TechTies Inc.",
-    "events": 28839
+    "events": 28591
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 24270
-  },
-  {
-    "asn_org": "Microsoft Corporation",
-    "events": 19138
-  },
-  {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 19043
+    "events": 24233
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 18213
+    "events": 22214
+  },
+  {
+    "asn_org": "HOSTRAM",
+    "events": 20495
+  },
+  {
+    "asn_org": "Cogent Communications, LLC",
+    "events": 20115
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 18816
   },
   {
     "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 17031
+    "events": 17170
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 16250
-  },
-  {
-    "asn_org": "HostPapa",
-    "events": 13039
+    "events": 15918
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 12640
+    "events": 12549
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 12441
+    "events": 11751
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 10940
+    "events": 10757
   },
   {
     "asn_org": "Ethio Telecom",
-    "events": 9566
+    "events": 9579
+  },
+  {
+    "asn_org": "HostPapa",
+    "events": 9221
   }
 ]
