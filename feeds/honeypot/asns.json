@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 4393159
-  },
-  {
-    "asn_org": "PT Telekomunikasi Indonesia",
-    "events": 104743
+    "events": 3858654
   },
   {
     "asn_org": "AO ALMAZ",
     "events": 92117
   },
   {
-    "asn_org": "Hydra Communications Ltd",
-    "events": 75767
+    "asn_org": "DigitalOcean, LLC",
+    "events": 76600
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 71344
+    "events": 71171
   },
   {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 67964
+    "asn_org": "Hydra Communications Ltd",
+    "events": 67872
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 65466
+    "events": 65764
   },
   {
     "asn_org": "Scaleway SAS",
-    "events": 61707
+    "events": 61109
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 58631
+    "events": 59931
+  },
+  {
+    "asn_org": "PT Telekomunikasi Indonesia",
+    "events": 55424
   },
   {
     "asn_org": "Google LLC",
-    "events": 42661
-  },
-  {
-    "asn_org": "HostPapa",
-    "events": 29876
-  },
-  {
-    "asn_org": "1337 Services GmbH",
-    "events": 22941
-  },
-  {
-    "asn_org": "TechTies Inc.",
-    "events": 21161
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 19727
+    "events": 44837
   },
   {
     "asn_org": "IONOS SE",
-    "events": 19385
+    "events": 37967
+  },
+  {
+    "asn_org": "HostPapa",
+    "events": 29557
+  },
+  {
+    "asn_org": "Flyservers S.A.",
+    "events": 24849
+  },
+  {
+    "asn_org": "1337 Services GmbH",
+    "events": 23241
+  },
+  {
+    "asn_org": "TechTies Inc.",
+    "events": 21047
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 16814
+    "events": 17829
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 16931
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 14325
+    "events": 14513
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 14270
+    "events": 14225
   },
   {
-    "asn_org": "Bucklog SARL",
-    "events": 13785
-  },
-  {
-    "asn_org": "Host Europe GmbH",
-    "events": 13776
+    "asn_org": "ONYPHE SAS",
+    "events": 13881
   }
 ]
