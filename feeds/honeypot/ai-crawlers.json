@@ -2,7 +2,7 @@
   {
     "crawler": "PerplexityBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
-    "requests": 8,
+    "requests": 10,
     "read_robots": false,
     "fetched_disallowed": 0,
     "fetched_private": 0,
@@ -34,23 +34,57 @@
     ]
   },
   {
-    "crawler": "CCBot",
-    "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
-    "requests": 7,
+    "crawler": "anthropic-ai",
+    "user_agent": "anthropic-ai",
+    "requests": 9,
     "read_robots": false,
-    "fetched_disallowed": 1,
-    "fetched_private": 1,
+    "fetched_disallowed": 3,
+    "fetched_private": 0,
     "top_paths": [
       [
         "/.aws/credentials",
         1
       ],
       [
-        "/.env.old",
+        "/.env.bak",
         1
       ],
       [
+        "/.git/config",
+        1
+      ],
+      [
+        "/api/v1/settings",
+        1
+      ],
+      [
+        "/api/v2/config",
+        1
+      ],
+      [
+        "/application.properties",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "CCBot",
+    "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
+    "requests": 8,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 1,
+    "top_paths": [
+      [
         "/api/openapi.json",
+        2
+      ],
+      [
+        "/.aws/credentials",
+        1
+      ],
+      [
+        "/.env.old",
         1
       ],
       [
@@ -68,43 +102,9 @@
     ]
   },
   {
-    "crawler": "anthropic-ai",
-    "user_agent": "anthropic-ai",
-    "requests": 6,
-    "read_robots": false,
-    "fetched_disallowed": 2,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/.aws/credentials",
-        1
-      ],
-      [
-        "/.env.bak",
-        1
-      ],
-      [
-        "/api/v2/config",
-        1
-      ],
-      [
-        "/backup/",
-        1
-      ],
-      [
-        "/env.json",
-        1
-      ],
-      [
-        "/openapi.json",
-        1
-      ]
-    ]
-  },
-  {
     "crawler": "GPTBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot",
-    "requests": 5,
+    "requests": 8,
     "read_robots": false,
     "fetched_disallowed": 1,
     "fetched_private": 0,
@@ -126,7 +126,11 @@
         1
       ],
       [
-        "/secrets.yml",
+        "/env.js",
+        1
+      ],
+      [
+        "/health",
         1
       ]
     ]
@@ -134,7 +138,7 @@
   {
     "crawler": "OAI-SearchBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
-    "requests": 5,
+    "requests": 8,
     "read_robots": false,
     "fetched_disallowed": 1,
     "fetched_private": 0,
@@ -144,19 +148,83 @@
         1
       ],
       [
+        "/api/account",
+        1
+      ],
+      [
         "/api/env",
+        1
+      ],
+      [
+        "/api/v2/config",
+        1
+      ],
+      [
+        "/debug/pprof/cmdline",
         1
       ],
       [
         "/firebase-config.json",
         1
-      ],
+      ]
+    ]
+  },
+  {
+    "crawler": "Bytespider",
+    "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
+    "requests": 6,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 1,
+    "top_paths": [
       [
-        "/manifest.webmanifest",
+        "/api/v2/settings",
         1
       ],
       [
-        "/runtime-config.js",
+        "/app-config.json",
+        1
+      ],
+      [
+        "/backup/",
+        1
+      ],
+      [
+        "/openapi.json",
+        1
+      ],
+      [
+        "/private/",
+        1
+      ],
+      [
+        "/v1/graphql",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "ClaudeBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
+    "requests": 5,
+    "read_robots": false,
+    "fetched_disallowed": 2,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/.env",
+        2
+      ],
+      [
+        "/config/secrets.yml",
+        1
+      ],
+      [
+        "/debug/pprof/cmdline",
+        1
+      ],
+      [
+        "/service-worker.js",
         1
       ]
     ]
@@ -179,46 +247,6 @@
       ],
       [
         "/settings.json",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "ClaudeBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
-    "requests": 3,
-    "read_robots": false,
-    "fetched_disallowed": 1,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/.env",
-        1
-      ],
-      [
-        "/config/secrets.yml",
-        1
-      ],
-      [
-        "/debug/pprof/cmdline",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "Bytespider",
-    "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
-    "requests": 2,
-    "read_robots": false,
-    "fetched_disallowed": 0,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/api/v2/settings",
-        1
-      ],
-      [
-        "/v1/graphql",
         1
       ]
     ]

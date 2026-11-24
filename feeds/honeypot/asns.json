@@ -1,7 +1,7 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 3858654
+    "events": 3323507
   },
   {
     "asn_org": "AO ALMAZ",
@@ -9,35 +9,35 @@
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 76600
+    "events": 81786
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 71171
-  },
-  {
-    "asn_org": "Hydra Communications Ltd",
-    "events": 67872
+    "events": 70351
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 65764
+    "events": 66216
   },
   {
     "asn_org": "Scaleway SAS",
-    "events": 61109
+    "events": 60466
+  },
+  {
+    "asn_org": "Flyservers S.A.",
+    "events": 54448
+  },
+  {
+    "asn_org": "Hydra Communications Ltd",
+    "events": 52160
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 59931
-  },
-  {
-    "asn_org": "PT Telekomunikasi Indonesia",
-    "events": 55424
+    "events": 48297
   },
   {
     "asn_org": "Google LLC",
-    "events": 44837
+    "events": 44472
   },
   {
     "asn_org": "IONOS SE",
@@ -45,38 +45,38 @@
   },
   {
     "asn_org": "HostPapa",
-    "events": 29557
-  },
-  {
-    "asn_org": "Flyservers S.A.",
-    "events": 24849
+    "events": 29417
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 23241
+    "events": 23431
   },
   {
     "asn_org": "TechTies Inc.",
-    "events": 21047
+    "events": 20560
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 17829
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 16931
-  },
-  {
-    "asn_org": "Hetzner Online GmbH",
-    "events": 14513
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 14225
+    "events": 17849
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 13881
+    "events": 15803
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 14682
+  },
+  {
+    "asn_org": "Hetzner Online GmbH",
+    "events": 14609
+  },
+  {
+    "asn_org": "Akamai Connected Cloud",
+    "events": 14282
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 13873
   }
 ]
