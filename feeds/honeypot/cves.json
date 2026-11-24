@@ -8,10 +8,5 @@
     "cve": "CVE-2017-9841",
     "probes": 20,
     "example": "/vendor/phpunit/src/Util/PHP/eval-stdin.php"
-  },
-  {
-    "cve": "CVE-2021-41773",
-    "probes": 18,
-    "example": "/cgi-bin/.%2e/.%2e/.%2e/.env"
   }
 ]
