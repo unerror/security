@@ -1,23 +1,23 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 3323507
+    "events": 3261541
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 92117
+    "events": 92113
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 81786
+    "events": 81252
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 70351
+    "events": 70361
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 66216
+    "events": 66266
   },
   {
     "asn_org": "Scaleway SAS",
@@ -25,7 +25,7 @@
   },
   {
     "asn_org": "Flyservers S.A.",
-    "events": 54448
+    "events": 54447
   },
   {
     "asn_org": "Hydra Communications Ltd",
@@ -33,11 +33,11 @@
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 48297
+    "events": 48171
   },
   {
     "asn_org": "Google LLC",
-    "events": 44472
+    "events": 44836
   },
   {
     "asn_org": "IONOS SE",
@@ -45,11 +45,11 @@
   },
   {
     "asn_org": "HostPapa",
-    "events": 29417
+    "events": 29419
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 23431
+    "events": 23500
   },
   {
     "asn_org": "TechTies Inc.",
@@ -57,26 +57,26 @@
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 17849
+    "events": 17520
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 15803
+    "events": 15947
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 14682
+    "events": 14731
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 14609
+    "events": 14588
   },
   {
     "asn_org": "Akamai Connected Cloud",
-    "events": 14282
+    "events": 14123
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 13873
+    "events": 13520
   }
 ]
