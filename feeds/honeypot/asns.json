@@ -1,11 +1,11 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 1793013
+    "events": 1292095
   },
   {
     "asn_org": "Scaleway SAS",
-    "events": 121921
+    "events": 122225
   },
   {
     "asn_org": "AO ALMAZ",
@@ -13,11 +13,11 @@
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 80458
+    "events": 82068
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 66952
+    "events": 58177
   },
   {
     "asn_org": "Flyservers S.A.",
@@ -25,58 +25,58 @@
   },
   {
     "asn_org": "Google LLC",
-    "events": 50269
+    "events": 45003
   },
   {
     "asn_org": "TechTies Inc.",
-    "events": 43365
+    "events": 29170
   },
   {
     "asn_org": "IONOS SE",
-    "events": 39081
-  },
-  {
-    "asn_org": "Hydra Communications Ltd",
-    "events": 27697
+    "events": 26551
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 24071
-  },
-  {
-    "asn_org": "HostPapa",
-    "events": 20427
+    "events": 24168
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 18966
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 16649
+    "events": 18960
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 16188
+    "events": 17540
   },
   {
-    "asn_org": "Host Europe GmbH",
-    "events": 12426
+    "asn_org": "HostPapa",
+    "events": 16905
   },
   {
-    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 12037
+    "asn_org": "ONYPHE SAS",
+    "events": 16438
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 11915
+    "events": 14049
+  },
+  {
+    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "events": 12497
+  },
+  {
+    "asn_org": "Host Europe GmbH",
+    "events": 12231
   },
   {
     "asn_org": "Censys, Inc.",
-    "events": 11631
+    "events": 12033
   },
   {
     "asn_org": "Amazon.com, Inc.",
-    "events": 11186
+    "events": 11094
+  },
+  {
+    "asn_org": "Ethio Telecom",
+    "events": 9566
   }
 ]
