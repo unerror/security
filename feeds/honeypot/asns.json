@@ -1,19 +1,19 @@
 [
   {
     "asn_org": "Banatsync Srl",
-    "events": 133204
+    "events": 131701
   },
   {
     "asn_org": "IONOS SE",
-    "events": 95636
+    "events": 128777
   },
   {
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 79192
+    "events": 78853
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 66930
+    "events": 68770
   },
   {
     "asn_org": "Flyservers S.A.",
@@ -21,62 +21,62 @@
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 51299
+    "events": 53272
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 46376
+    "events": 46149
   },
   {
     "asn_org": "Bucklog SARL",
-    "events": 40096
-  },
-  {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 38910
+    "events": 34352
   },
   {
     "asn_org": "Google LLC",
-    "events": 34597
+    "events": 32539
   },
   {
     "asn_org": "Cloudflare, Inc.",
-    "events": 31492
-  },
-  {
-    "asn_org": "Alsycon B.V.",
-    "events": 23629
-  },
-  {
-    "asn_org": "1337 Services GmbH",
-    "events": 22968
-  },
-  {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 22456
-  },
-  {
-    "asn_org": "HostPapa",
-    "events": 18408
-  },
-  {
-    "asn_org": "Tc Datacenter Limited",
-    "events": 17884
+    "events": 32405
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 17743
+    "events": 29151
+  },
+  {
+    "asn_org": "PT Nesta Indo Media",
+    "events": 27016
+  },
+  {
+    "asn_org": "Data Communication Business Group",
+    "events": 26913
+  },
+  {
+    "asn_org": "HostPapa",
+    "events": 25390
+  },
+  {
+    "asn_org": "Cogent Communications, LLC",
+    "events": 22921
+  },
+  {
+    "asn_org": "1337 Services GmbH",
+    "events": 22590
+  },
+  {
+    "asn_org": "Tc Datacenter Limited",
+    "events": 19240
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 17891
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 17204
+    "events": 17058
   },
   {
     "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 16333
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 15181
+    "events": 15637
   }
 ]
