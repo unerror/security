@@ -1,82 +1,82 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 148224
+    "events": 138740
   },
   {
     "asn_org": "Banatsync Srl",
-    "events": 120010
-  },
-  {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 75704
+    "events": 130208
   },
   {
     "asn_org": "IONOS SE",
-    "events": 68146
+    "events": 75135
+  },
+  {
+    "asn_org": "DigitalOcean, LLC",
+    "events": 69862
   },
   {
     "asn_org": "Scaleway SAS",
-    "events": 62808
+    "events": 62399
+  },
+  {
+    "asn_org": "Bucklog SARL",
+    "events": 40096
   },
   {
     "asn_org": "Google LLC",
-    "events": 33786
+    "events": 34162
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 32048
+    "events": 32057
   },
   {
     "asn_org": "Cloudflare, Inc.",
-    "events": 31078
-  },
-  {
-    "asn_org": "Flyservers S.A.",
-    "events": 29830
-  },
-  {
-    "asn_org": "TechTies Inc.",
-    "events": 29166
+    "events": 31019
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 26443
+    "events": 30958
   },
   {
-    "asn_org": "1337 Services GmbH",
-    "events": 24081
+    "asn_org": "TechTies Inc.",
+    "events": 28900
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 21166
+    "events": 24161
+  },
+  {
+    "asn_org": "1337 Services GmbH",
+    "events": 24023
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 20002
+    "events": 21032
   },
   {
     "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "events": 17291
+    "events": 17507
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 15736
+    "events": 15464
   },
   {
     "asn_org": "Host Europe GmbH",
-    "events": 12511
-  },
-  {
-    "asn_org": "Censys, Inc.",
-    "events": 10773
-  },
-  {
-    "asn_org": "Amazon.com, Inc.",
-    "events": 10505
+    "events": 12467
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 10288
+    "events": 11901
+  },
+  {
+    "asn_org": "VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",
+    "events": 10730
+  },
+  {
+    "asn_org": "Censys, Inc.",
+    "events": 9824
   }
 ]
