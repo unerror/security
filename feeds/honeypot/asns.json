@@ -1,15 +1,15 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 196018
+    "events": 195685
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 80698
+    "events": 88721
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 71506
+    "events": 72114
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -17,66 +17,66 @@
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 61118
+    "events": 61125
   },
   {
     "asn_org": "HostPapa",
-    "events": 59645
+    "events": 59682
   },
   {
-    "asn_org": "Banatsync Srl",
-    "events": 41478
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 36117
-  },
-  {
-    "asn_org": "Alsycon B.V.",
-    "events": 26737
-  },
-  {
-    "asn_org": "Gigabit Hosting Sdn Bhd",
-    "events": 24090
-  },
-  {
-    "asn_org": "F.n.s. Holdings Limited",
-    "events": 23584
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 23062
-  },
-  {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 20477
-  },
-  {
-    "asn_org": "WebNX, Inc.",
-    "events": 20463
+    "asn_org": "Scaleway SAS",
+    "events": 52456
   },
   {
     "asn_org": "NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",
-    "events": 17828
+    "events": 45164
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 37799
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 29038
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 25337
+  },
+  {
+    "asn_org": "Gigabit Hosting Sdn Bhd",
+    "events": 23817
+  },
+  {
+    "asn_org": "IONOS SE",
+    "events": 21511
+  },
+  {
+    "asn_org": "Cogent Communications, LLC",
+    "events": 19734
+  },
+  {
+    "asn_org": "F.n.s. Holdings Limited",
+    "events": 19208
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 17921
   },
   {
     "asn_org": "M247 Europe SRL",
-    "events": 17530
-  },
-  {
-    "asn_org": "ONYPHE SAS",
-    "events": 15503
+    "events": 17402
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 15184
+    "events": 16638
   },
   {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 12951
+    "asn_org": "ONYPHE SAS",
+    "events": 15420
   },
   {
-    "asn_org": "Rashedur Rahman t/a Onesky Communications Limited.",
-    "events": 12919
+    "asn_org": "WebNX, Inc.",
+    "events": 15158
   }
 ]
