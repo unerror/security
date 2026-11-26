@@ -1,15 +1,23 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 195685
+    "events": 192399
+  },
+  {
+    "asn_org": "Scaleway SAS",
+    "events": 129864
   },
   {
     "asn_org": "AO ALMAZ",
-    "events": 88721
+    "events": 88738
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 72114
+    "events": 77003
+  },
+  {
+    "asn_org": "NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",
+    "events": 73068
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -17,66 +25,58 @@
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 61125
+    "events": 60717
   },
   {
     "asn_org": "HostPapa",
-    "events": 59682
-  },
-  {
-    "asn_org": "Scaleway SAS",
-    "events": 52456
-  },
-  {
-    "asn_org": "NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",
-    "events": 45164
+    "events": 59661
   },
   {
     "asn_org": "Google LLC",
-    "events": 37799
+    "events": 39314
   },
   {
-    "asn_org": "Banatsync Srl",
-    "events": 29038
+    "asn_org": "Clouvider Limited",
+    "events": 35779
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 25337
+    "events": 25270
   },
   {
     "asn_org": "Gigabit Hosting Sdn Bhd",
-    "events": 23817
+    "events": 23590
   },
   {
     "asn_org": "IONOS SE",
-    "events": 21511
+    "events": 22148
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 19734
-  },
-  {
-    "asn_org": "F.n.s. Holdings Limited",
-    "events": 19208
-  },
-  {
-    "asn_org": "Alsycon B.V.",
-    "events": 17921
-  },
-  {
-    "asn_org": "M247 Europe SRL",
-    "events": 17402
+    "events": 19163
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 16638
+    "events": 18399
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 17866
+  },
+  {
+    "asn_org": "M247 Europe SRL",
+    "events": 16801
+  },
+  {
+    "asn_org": "F.n.s. Holdings Limited",
+    "events": 16735
+  },
+  {
+    "asn_org": "Alsycon B.V.",
+    "events": 16512
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 15420
-  },
-  {
-    "asn_org": "WebNX, Inc.",
-    "events": 15158
+    "events": 15391
   }
 ]
