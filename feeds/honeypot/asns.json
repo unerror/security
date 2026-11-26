@@ -1,31 +1,39 @@
 [
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 123829
+    "events": 191609
+  },
+  {
+    "asn_org": "AO ALMAZ",
+    "events": 80698
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 69065
+    "events": 71052
   },
   {
-    "asn_org": "Banatsync Srl",
-    "events": 64122
+    "asn_org": "ColocaTel Inc.",
+    "events": 69094
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 60709
+    "events": 61298
   },
   {
     "asn_org": "HostPapa",
-    "events": 58255
+    "events": 59201
+  },
+  {
+    "asn_org": "Banatsync Srl",
+    "events": 46803
   },
   {
     "asn_org": "IONOS SE",
-    "events": 51258
+    "events": 43909
   },
   {
     "asn_org": "Google LLC",
-    "events": 33760
+    "events": 33421
   },
   {
     "asn_org": "PT Nesta Indo Media",
@@ -33,50 +41,42 @@
   },
   {
     "asn_org": "Data Communication Business Group",
-    "events": 26901
+    "events": 26093
   },
   {
     "asn_org": "Gigabit Hosting Sdn Bhd",
-    "events": 24618
+    "events": 25205
   },
   {
-    "asn_org": "AO ALMAZ",
-    "events": 22265
+    "asn_org": "Cogent Communications, LLC",
+    "events": 21201
   },
   {
-    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 20569
+    "asn_org": "F.n.s. Holdings Limited",
+    "events": 21198
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 20608
   },
   {
     "asn_org": "WebNX, Inc.",
     "events": 20547
   },
   {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 20388
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 20213
+    "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "events": 18681
   },
   {
     "asn_org": "M247 Europe SRL",
-    "events": 16791
-  },
-  {
-    "asn_org": "F.n.s. Holdings Limited",
-    "events": 16697
+    "events": 17320
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 15377
+    "events": 15528
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 15271
-  },
-  {
-    "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "events": 13171
+    "events": 15033
   }
 ]

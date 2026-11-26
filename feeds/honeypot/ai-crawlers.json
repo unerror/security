@@ -1,8 +1,42 @@
 [
   {
+    "crawler": "anthropic-ai",
+    "user_agent": "anthropic-ai",
+    "requests": 12,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 1,
+    "top_paths": [
+      [
+        "/.git/",
+        1
+      ],
+      [
+        "/.well-known/jwks.json",
+        1
+      ],
+      [
+        "/__env.js",
+        1
+      ],
+      [
+        "/api/openapi.json",
+        1
+      ],
+      [
+        "/api/v2/config",
+        1
+      ],
+      [
+        "/app-config.json",
+        1
+      ]
+    ]
+  },
+  {
     "crawler": "ClaudeBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
-    "requests": 8,
+    "requests": 11,
     "read_robots": false,
     "fetched_disallowed": 1,
     "fetched_private": 1,
@@ -36,7 +70,7 @@
   {
     "crawler": "OAI-SearchBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
-    "requests": 8,
+    "requests": 11,
     "read_robots": false,
     "fetched_disallowed": 5,
     "fetched_private": 0,
@@ -70,7 +104,7 @@
   {
     "crawler": "PerplexityBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
-    "requests": 8,
+    "requests": 11,
     "read_robots": false,
     "fetched_disallowed": 2,
     "fetched_private": 0,
@@ -102,43 +136,9 @@
     ]
   },
   {
-    "crawler": "anthropic-ai",
-    "user_agent": "anthropic-ai",
-    "requests": 8,
-    "read_robots": false,
-    "fetched_disallowed": 1,
-    "fetched_private": 1,
-    "top_paths": [
-      [
-        "/.git/",
-        1
-      ],
-      [
-        "/.well-known/jwks.json",
-        1
-      ],
-      [
-        "/__env.js",
-        1
-      ],
-      [
-        "/api/openapi.json",
-        1
-      ],
-      [
-        "/api/v2/config",
-        1
-      ],
-      [
-        "/app-config.json",
-        1
-      ]
-    ]
-  },
-  {
     "crawler": "CCBot",
     "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
-    "requests": 7,
+    "requests": 10,
     "read_robots": false,
     "fetched_disallowed": 4,
     "fetched_private": 0,
@@ -172,7 +172,7 @@
   {
     "crawler": "Google-Extended",
     "user_agent": "Mozilla/5.0 (compatible; Google-Extended/1.0; +http://www.google.com/bot.html)",
-    "requests": 7,
+    "requests": 9,
     "read_robots": false,
     "fetched_disallowed": 3,
     "fetched_private": 0,
@@ -206,7 +206,7 @@
   {
     "crawler": "Bytespider",
     "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
-    "requests": 5,
+    "requests": 7,
     "read_robots": false,
     "fetched_disallowed": 5,
     "fetched_private": 0,
@@ -240,7 +240,7 @@
   {
     "crawler": "GPTBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot",
-    "requests": 4,
+    "requests": 6,
     "read_robots": false,
     "fetched_disallowed": 0,
     "fetched_private": 0,
