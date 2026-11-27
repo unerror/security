@@ -1,23 +1,23 @@
 [
   {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 192399
-  },
-  {
     "asn_org": "Scaleway SAS",
-    "events": 129864
+    "events": 219071
   },
   {
-    "asn_org": "AO ALMAZ",
-    "events": 88738
-  },
-  {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 77003
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 149455
   },
   {
     "asn_org": "NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",
-    "events": 73068
+    "events": 100839
+  },
+  {
+    "asn_org": "AO ALMAZ",
+    "events": 96514
+  },
+  {
+    "asn_org": "DigitalOcean, LLC",
+    "events": 76684
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -25,58 +25,58 @@
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 60717
+    "events": 60896
+  },
+  {
+    "asn_org": "HOSTRAM",
+    "events": 60469
   },
   {
     "asn_org": "HostPapa",
-    "events": 59661
-  },
-  {
-    "asn_org": "Google LLC",
-    "events": 39314
-  },
-  {
-    "asn_org": "Clouvider Limited",
-    "events": 35779
-  },
-  {
-    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 25270
-  },
-  {
-    "asn_org": "Gigabit Hosting Sdn Bhd",
-    "events": 23590
+    "events": 59782
   },
   {
     "asn_org": "IONOS SE",
-    "events": 22148
-  },
-  {
-    "asn_org": "Cogent Communications, LLC",
-    "events": 19163
-  },
-  {
-    "asn_org": "1337 Services GmbH",
-    "events": 18399
-  },
-  {
-    "asn_org": "Banatsync Srl",
-    "events": 17866
-  },
-  {
-    "asn_org": "M247 Europe SRL",
-    "events": 16801
-  },
-  {
-    "asn_org": "F.n.s. Holdings Limited",
-    "events": 16735
+    "events": 42646
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 16512
+    "events": 40819
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 39155
+  },
+  {
+    "asn_org": "Clouvider Limited",
+    "events": 35785
+  },
+  {
+    "asn_org": "CALA SERVICIOS INTEGRALES E.I.R.L.",
+    "events": 27389
+  },
+  {
+    "asn_org": "Pfcloud UG (haftungsbeschrankt)",
+    "events": 25334
+  },
+  {
+    "asn_org": "Gigabit Hosting Sdn Bhd",
+    "events": 23426
+  },
+  {
+    "asn_org": "1337 Services GmbH",
+    "events": 20244
+  },
+  {
+    "asn_org": "Cogent Communications, LLC",
+    "events": 18420
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 15391
+    "events": 15630
+  },
+  {
+    "asn_org": "Microsoft Corporation",
+    "events": 15092
   }
 ]
