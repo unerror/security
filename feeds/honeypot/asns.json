@@ -1,11 +1,11 @@
 [
   {
     "asn_org": "Scaleway SAS",
-    "events": 319595
+    "events": 337913
   },
   {
     "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 219627
+    "events": 149349
   },
   {
     "asn_org": "NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",
@@ -13,7 +13,7 @@
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 127378
+    "events": 127595
   },
   {
     "asn_org": "AO ALMAZ",
@@ -21,7 +21,7 @@
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 76958
+    "events": 76916
   },
   {
     "asn_org": "ColocaTel Inc.",
@@ -29,27 +29,27 @@
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 61534
+    "events": 61234
   },
   {
     "asn_org": "HostPapa",
-    "events": 59032
+    "events": 57475
   },
   {
     "asn_org": "IONOS SE",
-    "events": 45989
+    "events": 46993
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 40680
+    "events": 40604
   },
   {
     "asn_org": "Google LLC",
-    "events": 39463
+    "events": 39314
   },
   {
     "asn_org": "Clouvider Limited",
-    "events": 34401
+    "events": 33027
   },
   {
     "asn_org": "CALA SERVICIOS INTEGRALES E.I.R.L.",
@@ -57,26 +57,26 @@
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 25306
+    "events": 25294
   },
   {
     "asn_org": "Gigabit Hosting Sdn Bhd",
-    "events": 24058
+    "events": 23396
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 22161
+    "events": 22331
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 19109
+    "events": 18416
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 15692
+    "events": 15753
   },
   {
     "asn_org": "Microsoft Corporation",
-    "events": 15189
+    "events": 15273
   }
 ]
