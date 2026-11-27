@@ -1,11 +1,7 @@
 [
   {
     "asn_org": "Scaleway SAS",
-    "events": 337909
-  },
-  {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 153536
+    "events": 337920
   },
   {
     "asn_org": "NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",
@@ -13,70 +9,74 @@
   },
   {
     "asn_org": "HOSTRAM",
-    "events": 127593
+    "events": 127577
   },
   {
-    "asn_org": "AO ALMAZ",
-    "events": 85409
-  },
-  {
-    "asn_org": "DigitalOcean, LLC",
-    "events": 78856
-  },
-  {
-    "asn_org": "ColocaTel Inc.",
-    "events": 69094
-  },
-  {
-    "asn_org": "Hetzner Online GmbH",
-    "events": 61066
-  },
-  {
-    "asn_org": "HostPapa",
-    "events": 57458
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 93185
   },
   {
     "asn_org": "IONOS SE",
-    "events": 47983
+    "events": 86377
+  },
+  {
+    "asn_org": "DigitalOcean, LLC",
+    "events": 79628
+  },
+  {
+    "asn_org": "Hetzner Online GmbH",
+    "events": 61591
+  },
+  {
+    "asn_org": "HostPapa",
+    "events": 57212
   },
   {
     "asn_org": "Alsycon B.V.",
-    "events": 40529
+    "events": 40486
   },
   {
     "asn_org": "Google LLC",
-    "events": 38402
+    "events": 39027
   },
   {
     "asn_org": "Clouvider Limited",
-    "events": 32978
+    "events": 32954
   },
   {
     "asn_org": "CALA SERVICIOS INTEGRALES E.I.R.L.",
     "events": 27389
   },
   {
+    "asn_org": "AO ALMAZ",
+    "events": 27061
+  },
+  {
     "asn_org": "SOLLUTIUM EU Sp z.o.o.",
-    "events": 26951
+    "events": 26978
+  },
+  {
+    "asn_org": "IENTC S DE RL DE CV",
+    "events": 25882
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 25050
-  },
-  {
-    "asn_org": "Gigabit Hosting Sdn Bhd",
-    "events": 23163
+    "events": 25472
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 22770
+    "events": 23194
+  },
+  {
+    "asn_org": "Gigabit Hosting Sdn Bhd",
+    "events": 22871
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 17989
+    "events": 17758
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 15762
+    "events": 15794
   }
 ]
