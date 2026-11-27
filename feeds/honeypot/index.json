@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-27T06:10:20+00:00",
+  "generated": "2026-11-27T09:10:20+00:00",
   "window_hours": 24,
   "schema": 1,
   "counts": {
-    "hashes": 11,
+    "hashes": 10,
     "wallets": 0,
     "hassh": 33,
     "ssh_public_keys": 3,
-    "cves": 1,
+    "cves": 2,
     "asns": 20,
     "paths": 400,
     "ja3": 100,
