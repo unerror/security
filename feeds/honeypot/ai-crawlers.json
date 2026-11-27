@@ -2,13 +2,21 @@
   {
     "crawler": "CCBot",
     "user_agent": "CCBot/2.0 (https://commoncrawl.org/faq/)",
-    "requests": 8,
+    "requests": 12,
     "read_robots": false,
-    "fetched_disallowed": 1,
+    "fetched_disallowed": 3,
     "fetched_private": 0,
     "top_paths": [
       [
         "/.aws/credentials",
+        2
+      ],
+      [
+        "/.env.bak",
+        1
+      ],
+      [
+        "/.env.production",
         1
       ],
       [
@@ -20,15 +28,41 @@
         1
       ],
       [
-        "/application.properties",
+        "/api/v2/settings",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "anthropic-ai",
+    "user_agent": "anthropic-ai",
+    "requests": 11,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 0,
+    "top_paths": [
+      [
+        "/firebase-config.json",
+        2
+      ],
+      [
+        "/.env.staging",
         1
       ],
       [
-        "/config/secrets.yml",
+        "/.well-known/jwks.json",
         1
       ],
       [
-        "/env.js",
+        "/api/openapi.json",
+        1
+      ],
+      [
+        "/api/v2/config",
+        1
+      ],
+      [
+        "/config.js",
         1
       ]
     ]
@@ -36,11 +70,15 @@
   {
     "crawler": "PerplexityBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
-    "requests": 7,
+    "requests": 8,
     "read_robots": false,
-    "fetched_disallowed": 2,
+    "fetched_disallowed": 3,
     "fetched_private": 1,
     "top_paths": [
+      [
+        "/.env.backup",
+        1
+      ],
       [
         "/.env.test",
         1
@@ -60,35 +98,23 @@
       [
         "/env.js",
         1
-      ],
-      [
-        "/firebase-config.json",
-        1
       ]
     ]
   },
   {
-    "crawler": "anthropic-ai",
-    "user_agent": "anthropic-ai",
+    "crawler": "OAI-SearchBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
     "requests": 7,
     "read_robots": false,
-    "fetched_disallowed": 0,
+    "fetched_disallowed": 2,
     "fetched_private": 0,
     "top_paths": [
       [
-        "/.well-known/jwks.json",
+        "/.env.development",
         1
       ],
       [
-        "/api/openapi.json",
-        1
-      ],
-      [
-        "/api/v2/config",
-        1
-      ],
-      [
-        "/config.js",
+        "/.env.local",
         1
       ],
       [
@@ -96,7 +122,15 @@
         1
       ],
       [
-        "/firebase-config.json",
+        "/config/application.properties",
+        1
+      ],
+      [
+        "/debug/pprof/cmdline",
+        1
+      ],
+      [
+        "/health",
         1
       ]
     ]
@@ -104,7 +138,7 @@
   {
     "crawler": "Bytespider",
     "user_agent": "Mozilla/5.0 (compatible; Bytespider; spider-feedback@bytedance.com)",
-    "requests": 5,
+    "requests": 6,
     "read_robots": false,
     "fetched_disallowed": 3,
     "fetched_private": 0,
@@ -127,6 +161,44 @@
       ],
       [
         "/backup/",
+        1
+      ],
+      [
+        "/config/application.properties",
+        1
+      ]
+    ]
+  },
+  {
+    "crawler": "ClaudeBot",
+    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
+    "requests": 6,
+    "read_robots": false,
+    "fetched_disallowed": 1,
+    "fetched_private": 1,
+    "top_paths": [
+      [
+        "/.env.old",
+        1
+      ],
+      [
+        "/admin/.env",
+        1
+      ],
+      [
+        "/application.yml",
+        1
+      ],
+      [
+        "/config.js",
+        1
+      ],
+      [
+        "/private/",
+        1
+      ],
+      [
+        "/settings.json",
         1
       ]
     ]
@@ -162,67 +234,27 @@
     ]
   },
   {
-    "crawler": "OAI-SearchBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
-    "requests": 5,
-    "read_robots": false,
-    "fetched_disallowed": 1,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/.env.local",
-        1
-      ],
-      [
-        "/config/application.properties",
-        1
-      ],
-      [
-        "/debug/pprof/cmdline",
-        1
-      ],
-      [
-        "/health",
-        1
-      ],
-      [
-        "/runtime-config.js",
-        1
-      ]
-    ]
-  },
-  {
-    "crawler": "ClaudeBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com",
-    "requests": 3,
-    "read_robots": false,
-    "fetched_disallowed": 0,
-    "fetched_private": 1,
-    "top_paths": [
-      [
-        "/admin/.env",
-        1
-      ],
-      [
-        "/config.js",
-        1
-      ],
-      [
-        "/private/",
-        1
-      ]
-    ]
-  },
-  {
     "crawler": "GPTBot",
     "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.2; +https://openai.com/gptbot",
-    "requests": 2,
+    "requests": 5,
     "read_robots": false,
     "fetched_disallowed": 0,
     "fetched_private": 0,
     "top_paths": [
       [
+        "/__/firebase/init.json",
+        1
+      ],
+      [
         "/config/secrets.yml",
+        1
+      ],
+      [
+        "/env.json",
+        1
+      ],
+      [
+        "/secrets.yml",
         1
       ],
       [

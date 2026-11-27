@@ -1,15 +1,15 @@
 3074	system
 3065	enable
-1855	root
-798	admin
+1837	root
+797	admin
 110	user
 80	guest
 80	test
-73	rootssssss23424123123
+70	rootssssss23424123123
 63	administrator
 21	support
 18	ubuntu
-15	ubnt
+16	ubnt
 13	telecomadmin
 12	default
 12	maint
@@ -36,7 +36,6 @@
 7	Administrator
 7	recovery
 7	supervisor
-7	unerr7f3ac91d
 6	HPP187
 6	SYSDBA
 6	Sweex
@@ -60,7 +59,6 @@
 6	jack
 6	locate
 6	manu
-6	monitor
 6	mother
 6	nms
 6	piranha
@@ -76,6 +74,7 @@
 6	sysadm
 6	tellabs
 6	tiger
+6	unerr7f3ac91d
 6	wradmin
 6	write
 6	www
@@ -98,3 +97,4 @@
 5	iclock
 5	ironport
 5	mallori
+5	mayah
