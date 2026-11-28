@@ -126,19 +126,5 @@
         1
       ]
     ]
-  },
-  {
-    "crawler": "PerplexityBot",
-    "user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot",
-    "requests": 1,
-    "read_robots": false,
-    "fetched_disallowed": 1,
-    "fetched_private": 0,
-    "top_paths": [
-      [
-        "/.env.backup",
-        1
-      ]
-    ]
   }
 ]
