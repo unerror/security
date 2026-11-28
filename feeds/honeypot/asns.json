@@ -1,31 +1,23 @@
 [
   {
     "asn_org": "IONOS SE",
-    "events": 123592
-  },
-  {
-    "asn_org": "Scaleway SAS",
-    "events": 119954
-  },
-  {
-    "asn_org": "MEVSPACE sp. z o.o.",
-    "events": 106968
+    "events": 120558
   },
   {
     "asn_org": "DigitalOcean, LLC",
-    "events": 73943
+    "events": 72028
   },
   {
-    "asn_org": "HOSTRAM",
-    "events": 71605
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "events": 62649
   },
   {
     "asn_org": "Hetzner Online GmbH",
-    "events": 60398
+    "events": 59745
   },
   {
     "asn_org": "HostPapa",
-    "events": 56669
+    "events": 57033
   },
   {
     "asn_org": "IENTC S DE RL DE CV",
@@ -36,20 +28,24 @@
     "events": 47330
   },
   {
-    "asn_org": "Google LLC",
-    "events": 39229
-  },
-  {
-    "asn_org": "AO ALMAZ",
-    "events": 36878
-  },
-  {
-    "asn_org": "NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.)",
-    "events": 28349
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "events": 42812
   },
   {
     "asn_org": "Hangzhou Alibaba Advertising Co.,Ltd.",
-    "events": 27617
+    "events": 42102
+  },
+  {
+    "asn_org": "Google LLC",
+    "events": 37553
+  },
+  {
+    "asn_org": "AO ALMAZ",
+    "events": 36870
+  },
+  {
+    "asn_org": "Scaleway SAS",
+    "events": 29392
   },
   {
     "asn_org": "SOLLUTIUM EU Sp z.o.o.",
@@ -57,26 +53,30 @@
   },
   {
     "asn_org": "Pfcloud UG (haftungsbeschrankt)",
-    "events": 25381
+    "events": 25445
   },
   {
     "asn_org": "1337 Services GmbH",
-    "events": 23669
+    "events": 23803
   },
   {
     "asn_org": "Gigabit Hosting Sdn Bhd",
-    "events": 20870
+    "events": 21201
   },
   {
     "asn_org": "Cogent Communications, LLC",
-    "events": 16885
+    "events": 16325
   },
   {
     "asn_org": "ONYPHE SAS",
-    "events": 15668
+    "events": 15539
+  },
+  {
+    "asn_org": "Amazon.com, Inc.",
+    "events": 13729
   },
   {
     "asn_org": "M247 Europe SRL",
-    "events": 13592
+    "events": 13413
   }
 ]
